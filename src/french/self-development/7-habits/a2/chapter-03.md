@@ -7,7 +7,7 @@
 
 ## 📖 Résumé
 
-Les deux premières habitudes vivaient dans l'esprit. L'Habitude 3, elle, se passe dans la **vie quotidienne**. C'est là que les idées deviennent des actions.
+Les deux premières habitudes vivaient dans l'esprit. L'Habitude 3, elle, se passe dans la **<span class="gloss" data-def="daily life — everyday life, day by day">vie quotidienne</span>**. C'est là que les idées deviennent des actions.
 
 Si l'Habitude 1 dit « vous pouvez choisir » et l'Habitude 2 dit « choisissez d'abord votre destination », l'Habitude 3 dit : **exécutez votre plan, jour après jour**.
 

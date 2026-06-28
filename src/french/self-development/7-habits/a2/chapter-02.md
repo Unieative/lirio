@@ -9,7 +9,7 @@
 
 Covey aimait proposer une expérience de pensée difficile : imaginez vos propres funérailles. Quatre personnes prononcent un discours — un membre de votre famille, un ami, un collègue, et quelqu'un de votre communauté. Que voulez-vous qu'ils disent de vous ?
 
-Cette question n'était pas là pour être morbide. Elle servait à clarifier ce qui comptait vraiment pour vous.
+Cette question n'était pas là pour être <span class="gloss" data-def="morbid — focused on death or dark, heavy themes">morbide</span>. Elle servait à clarifier ce qui comptait vraiment pour vous.
 
 ### La double création
 

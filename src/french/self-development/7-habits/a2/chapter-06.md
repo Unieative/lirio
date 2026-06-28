@@ -13,9 +13,9 @@ Covey la définissait simplement : le tout est **plus grand** que la somme de se
 
 ### Pourquoi la synergie est rare
 
-La synergie demande de **faire confiance aux différences**. Or, la plupart des personnes sont mal à l'aise face à ce qui est différent. Elles cherchent la confirmation de leurs propres idées plutôt que l'enrichissement par d'autres perspectives.
+La synergie demande de **faire confiance aux différences**. Or, la plupart des personnes sont mal à l'aise face à ce qui est différent. Elles cherchent la confirmation de leurs propres idées plutôt que l'<span class="gloss" data-def="enrichment — becoming richer through new ideas and perspectives">enrichissement</span> par d'autres <span class="gloss" data-def="perspectives — different points of view on the same situation">perspectives</span>.
 
-Dans de nombreuses réunions, tout le monde pense en secret que ses idées sont les meilleures. On « écoute » l'autre en attendant son tour pour parler. On « négocie » en cherchant à avoir le dernier mot. Le résultat est souvent décevant — une solution de compromis qui ne satisfait personne vraiment.
+Dans de nombreuses réunions, tout le monde pense en secret que ses idées sont les meilleures. On « écoute » l'autre en attendant son tour pour parler. On « négocie » en cherchant à avoir le dernier mot. Le résultat est souvent <span class="gloss" data-def="disappointing — less good than expected">décevant</span> — une solution de <span class="gloss" data-def="compromise — each side gives up something to reach an agreement">compromis</span> qui ne satisfait personne vraiment.
 
 La synergie, elle, ne cherche pas un compromis. Elle cherche une **troisième voie** : une solution que personne n'aurait trouvée seule, qui dépasse les deux positions de départ.
 

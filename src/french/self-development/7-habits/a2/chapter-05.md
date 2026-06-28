@@ -7,9 +7,9 @@
 
 ## 📖 Résumé
 
-Vous avez probablement eu cette expérience : vous parlez à quelqu'un d'un problème qui vous pèse. Avant même que vous ayez fini, l'autre personne vous interrompt avec une solution. Vous vous sentez incompris(e). Vous n'aviez pas besoin d'une solution — vous aviez besoin qu'on vous **écoute**.
+Vous avez probablement eu cette expérience : vous parlez à quelqu'un d'un problème qui vous <span class="gloss" data-def="weighs on you — troubles or burdens you">pèse</span>. Avant même que vous ayez fini, l'autre personne vous <span class="gloss" data-def="interrupts — cuts in before you finish speaking">interrompt</span> avec une solution. Vous vous sentez incompris(e). Vous n'aviez pas besoin d'une solution — vous aviez besoin qu'on vous **écoute**.
 
-Covey a consacré l'Habitude 5 à cet art souvent négligé : **l'écoute empathique**.
+Covey a consacré l'Habitude 5 à cet art souvent <span class="gloss" data-def="neglected — not given enough attention">négligé</span> : **l'écoute empathique**.
 
 ### Le paradoxe de l'influence
 

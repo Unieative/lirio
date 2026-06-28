@@ -7,7 +7,7 @@
 
 ## 📖 Résumé
 
-Imaginez un bûcheron qui travaille depuis six heures dans la forêt. Sa scie était tranchante le matin. Maintenant, elle ne coupe presque plus. Un passant lui dit : « Pourquoi ne pas aiguiser votre scie ? »
+Imaginez un <span class="gloss" data-def="woodcutter/lumberjack — someone who cuts down trees">bûcheron</span> qui travaille depuis six heures dans la forêt. Sa scie était tranchante le matin. Maintenant, elle ne coupe presque plus. Un passant lui dit : « Pourquoi ne pas aiguiser votre scie ? »
 
 « Je n'ai pas le temps ! » répond-il. « Je dois couper cet arbre. »
 

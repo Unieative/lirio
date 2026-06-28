@@ -7,9 +7,9 @@
 
 ## 📖 Résumé
 
-La plupart d'entre nous ont grandi dans un monde de **comparaison** et de **compétition**. À l'école, les notes classaient les élèves. Dans les sports, il y avait des gagnants et des perdants. Ces expériences nous ont appris, souvent inconsciemment, qu'il faut **battre les autres** pour réussir.
+La plupart d'entre nous ont grandi dans un monde de **comparaison** et de **compétition**. À l'école, les notes classaient les élèves. Dans les sports, il y avait des gagnants et des perdants. Ces expériences nous ont appris, souvent <span class="gloss" data-def="unconsciously — without being aware of it">inconsciemment</span>, qu'il faut **battre les autres** pour réussir.
 
-Covey a remis en question cette hypothèse fondamentale.
+Covey a remis en question cette <span class="gloss" data-def="assumption — something accepted as true without proof">hypothèse</span> fondamentale.
 
 ### Les six paradigmes
 

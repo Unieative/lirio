@@ -15,7 +15,7 @@ Le mot « proactif » n'existait pas avant Covey. Il l'a inventé pour décrire 
 
 Entre ce qui vous arrive (le **stimulus**) et votre comportement (la **réponse**), il y a toujours un espace. Les animaux réagissent instinctivement. Les êtres humains, eux, peuvent réfléchir et **choisir** leur réponse. C'est cette capacité qui nous rend libres.
 
-Les personnes **réactives** laissent cet espace se refermer. Quand quelqu'un les critique, elles s'énervent immédiatement. Quand les choses ne vont pas bien, elles se plaignent. Leur humeur dépend entièrement de ce qui se passe autour d'elles.
+Les personnes **réactives** laissent cet espace se refermer. Quand quelqu'un les critique, elles <span class="gloss" data-def="to get upset/angry — to lose one's temper">s'énervent</span> immédiatement. Quand les choses ne vont pas bien, elles <span class="gloss" data-def="to complain — to express dissatisfaction">se plaignent</span>. Leur <span class="gloss" data-def="mood — your emotional state at a given moment">humeur</span> dépend entièrement de ce qui se passe autour d'elles.
 
 Les personnes **proactives**, au contraire, utilisent cet espace. Elles font une pause. Elles réfléchissent. Puis elles choisissent une réponse qui correspond à leurs valeurs.
 
