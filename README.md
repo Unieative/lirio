@@ -42,10 +42,10 @@ Grasp a book at one level, climb to the next. Each rung is fully self-contained.
 | 🟡 | **A2** | Everyday language, simple connected ideas |
 | 🟠 | **B1** | Real arguments and storylines, lighter scaffolding |
 | 🔴 | **B2** | Nuance, abstraction, near-original richness |
-| ⚫ | **Native** | A full summary written in authentic native-level French — finish it, then pick up the real book and read it yourself |
+| ⚫ | **Native** | A rich summary in authentic, unfiltered French 🇫🇷 — complete it and you'll be ready to embark on the most rewarding journey: reading the real book entirely on your own 📖✨ *(tip: the more summaries you finish across the library, the more fluent and confident you'll feel before opening the original!)* |
 
 ```
-🟢 A1  →  🟡 A2  →  🟠 B1  →  🔴 B2  →  ⚫ Native  →  📖 The real book!
+🟢 A1  →  🟡 A2  →  🟠 B1  →  🔴 B2  →  ⚫ Native  →  📖 The real book awaits!
 ```
 
 ---
