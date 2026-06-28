@@ -1,6 +1,6 @@
 # ⚫ Niveau Natif — Résumé niveau natif
 
-> **Bientôt disponible — Coming soon**
+> **7 chapitres disponibles — votre dernier défi avant le vrai livre ! ✅**
 
 ---
 
@@ -37,4 +37,4 @@ Au niveau **Natif** :
 
 ---
 
-[← Retour au niveau B2](../b2/README.md)
+[← Retour au niveau B2](../b2/README.md) &nbsp;&nbsp;&nbsp; [Commencer — Habitude 1 →](chapter-01.md)

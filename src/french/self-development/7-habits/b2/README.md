@@ -1,8 +1,6 @@
 # 🔴 Niveau B2 — Avancé
 
-> **Bientôt disponible — Coming soon**
-
-Ce niveau est en cours de rédaction.
+> **7 chapitres disponibles — vous lisez presque comme un natif ! ✅**
 
 ---
 
@@ -25,4 +23,4 @@ Au niveau **B2**, les textes utilisent :
 - ✅ Maîtriser tous les temps courants (subjonctif, conditionnel, plus-que-parfait)
 - ✅ Vocabulaire de 3 000+ mots
 
-[← Retour au niveau B1](../b1/README.md)
+[← Retour au niveau B1](../b1/README.md) &nbsp;&nbsp;&nbsp; [Commencer — Habitude 1 →](chapter-01.md)

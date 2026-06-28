@@ -1,8 +1,6 @@
 # 🟠 Niveau B1 — Intermédiaire
 
-> **Bientôt disponible — Coming soon**
-
-Ce niveau est en cours de rédaction.
+> **7 chapitres disponibles — commencez par l'Habitude 1 ! ✅**
 
 ---
 
@@ -23,4 +21,4 @@ Au niveau **B1**, les textes utilisent :
 - ✅ Connaître le passé composé, l'imparfait, le futur simple
 - ✅ Vocabulaire d'environ 1 500 mots
 
-[← Retour au niveau A2](../a2/README.md)
+[← Retour au niveau A2](../a2/README.md) &nbsp;&nbsp;&nbsp; [Commencer — Habitude 1 →](chapter-01.md)
