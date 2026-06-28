@@ -146,7 +146,12 @@ d) « Je vais trouver une solution. »
 
 ## 🔊 Audio
 
-▶️ [Écouter le chapitre 1 — A1](../audio/a1-chapter-01.mp3)
+Écoutez le résumé lu à voix haute. 🎧
+
+<audio controls preload="none" style="width:100%; max-width:480px;">
+  <source src="../audio/a1-chapter-01.m4a" type="audio/mp4">
+  Votre navigateur ne peut pas lire l'audio.
+</audio>
 
 *Conseil : Écoutez l'audio en lisant le résumé. Puis fermez le livre et écoutez encore. Pouvez-vous comprendre sans lire ?*
 
