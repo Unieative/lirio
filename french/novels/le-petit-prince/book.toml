@@ -1,0 +1,16 @@
+[book]
+title = "Le Petit Prince"
+description = "Apprenez le français en lisant Le Petit Prince d'Antoine de Saint-Exupéry — du niveau A1 jusqu'au texte original."
+authors = ["Lirio — Unieative"]
+language = "fr"
+src = "src"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/unieative/lirio"
+additional-css = ["theme/custom.css"]
+
+[output.html.fold]
+enable = true
+level = 1
