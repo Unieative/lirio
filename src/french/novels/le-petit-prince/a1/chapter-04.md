@@ -4,35 +4,35 @@
 
 ## 📖 Résumé
 
-Le petit prince voyage de planète en planète. Sur chaque planète, il rencontre un adulte. Chaque adulte représente un défaut humain.
+Le petit prince voyage de planète en planète. Sur chaque planète, il <span class="gloss" data-def="meets — comes across someone">rencontre</span> un adulte. Chaque adulte représente un défaut humain.
 
 ### Chapitre X — Le roi
 
-Sur la première planète, il y a un roi. Le roi est vêtu de pourpre et d'hermine. Il dit qu'il règne sur tout — les étoiles, les planètes, tout l'univers.
+Sur la première planète, il y a un <span class="gloss" data-def="king — a male royal ruler">roi</span>. Le roi est vêtu de pourpre et d'hermine. Il dit qu'il <span class="gloss" data-def="rules — governs as a ruler">règne</span> sur tout — les <span class="gloss" data-def="stars — bright points in the night sky">étoiles</span>, les planètes, tout l'univers.
 
-Le petit prince demande : « Pouvez-vous me commander de me coucher ? »
+Le petit prince demande : « Pouvez-vous me commander de me <span class="gloss" data-def="lie down — go to bed">coucher</span> ? »
 
-Le roi répond : « Je t'ordonne de te coucher. »
+Le roi répond : « Je t'<span class="gloss" data-def="order — command to do">ordonne</span> de te coucher. »
 
-Le petit prince apprend quelque chose d'important : un roi sage ne donne des ordres que si ces ordres sont **raisonnables**. On ne peut pas commander au soleil de se lever la nuit.
+Le petit prince apprend quelque chose d'important : un roi <span class="gloss" data-def="wise — having good judgment">sage</span> ne donne des ordres que si ces ordres sont **raisonnables**. On ne peut pas commander au soleil de se lever la nuit.
 
 Le petit prince continue son voyage.
 
 ### Chapitre XI — Le vaniteux
 
-Sur la deuxième planète, il y a un homme vaniteux. Il veut que tout le monde l'admire.
+Sur la deuxième planète, il y a un homme <span class="gloss" data-def="vain — too proud of himself">vaniteux</span>. Il veut que tout le monde l'admire.
 
 « Admire-moi ! » dit-il au petit prince.
 
-Le petit prince frappe des mains. Le vaniteux dit : « Encore ! »
+Le petit prince <span class="gloss" data-def="claps his hands — applauds">frappe des mains</span>. Le vaniteux dit : « Encore ! »
 
-Mais bientôt, le petit prince se lasse. Il n'y a personne d'autre sur cette planète. L'homme vaniteux admire... une seule personne : lui-même.
+Mais bientôt, le petit prince <span class="gloss" data-def="grows tired — gets bored of it">se lasse</span>. Il n'y a personne d'autre sur cette planète. L'homme vaniteux admire... une seule personne : lui-même.
 
 Le petit prince repart, pensif.
 
 ### Chapitre XII — L'ivrogne
 
-Sur la troisième planète, il y a un homme qui boit beaucoup. Il est entouré de bouteilles vides et pleines.
+Sur la troisième planète, il y a un homme qui <span class="gloss" data-def="drinks — here, drinks alcohol">boit</span> beaucoup. Il est entouré de <span class="gloss" data-def="bottles — glass containers for liquid">bouteilles</span> vides et pleines.
 
 « Pourquoi bois-tu ? » demande le petit prince.
 
@@ -40,7 +40,7 @@ Sur la troisième planète, il y a un homme qui boit beaucoup. Il est entouré d
 
 « Oublier quoi ? »
 
-« Pour oublier que j'ai honte. »
+« Pour oublier que j'ai <span class="gloss" data-def="shame — a bad, embarrassed feeling">honte</span>. »
 
 « Honte de quoi ? »
 
@@ -50,7 +50,7 @@ Le petit prince repart, triste et confus. Les adultes sont vraiment très, très
 
 ### Chapitre XIII — Le businessman
 
-Sur la quatrième planète, il y a un businessman très occupé. Il compte les étoiles. Il dit qu'il **possède** les étoiles.
+Sur la quatrième planète, il y a un businessman très occupé. Il compte les étoiles. Il dit qu'il <span class="gloss" data-def="owns — has as property">**possède**</span> les étoiles.
 
 Le petit prince demande : « À quoi ça sert de posséder les étoiles ? »
 
@@ -60,7 +60,7 @@ Le petit prince demande : « À quoi ça sert de posséder les étoiles ? »
 
 « Pour acheter d'autres étoiles. »
 
-Le petit prince ne comprend pas. Sur sa planète, il possède une rose. Il l'arrose. Il en prend soin. Ça, c'est **utile**.
+Le petit prince ne comprend pas. Sur sa planète, il possède une rose. Il l'<span class="gloss" data-def="waters — pours water on">arrose</span>. Il en prend soin. Ça, c'est **utile**.
 
 ---
 

@@ -10,31 +10,31 @@ Le narrateur travaille sur son avion. Le petit prince pose une question : « Est
 
 Le narrateur est occupé. Il répond : « Oui. »
 
-Le petit prince insiste : « Est-ce qu'ils mangent aussi les fleurs avec des épines ? »
+Le petit prince insiste : « Est-ce qu'ils mangent aussi les fleurs avec des <span class="gloss" data-def="thorns — sharp points on a plant">épines</span> ? »
 
-« Les épines ne servent à rien », dit le narrateur.
+« Les épines ne <span class="gloss" data-def="are useful — have a purpose">servent</span> à rien », dit le narrateur.
 
-Le petit prince devient très triste. Il dit d'une voix grave : « Les épines servent à quelque chose. Les fleurs ont des épines pour se protéger. »
+Le petit prince devient très triste. Il dit d'une voix grave : « Les épines servent à quelque chose. Les fleurs ont des épines pour se <span class="gloss" data-def="protect — keep safe from harm">protéger</span>. »
 
 Pour le petit prince, cette question est très importante. Pourquoi ? Parce qu'il a une rose sur sa planète.
 
 ### Chapitre VIII — La rose
 
-Sur la planète du petit prince, une graine mystérieuse a germé. Une belle fleur est apparue. C'était une rose — la première rose de cette planète.
+Sur la planète du petit prince, une <span class="gloss" data-def="seed — what a plant grows from">graine</span> mystérieuse a <span class="gloss" data-def="sprouted — began to grow">germé</span>. Une belle fleur est apparue. C'était une rose — la première rose de cette planète.
 
-La rose était très belle, mais aussi très difficile. Elle demandait beaucoup de soins. Elle disait qu'elle avait froid, qu'elle avait chaud. Elle toussait. Elle voulait que le petit prince la protège.
+La rose était très belle, mais aussi très difficile. Elle demandait beaucoup de <span class="gloss" data-def="care — looking after someone">soins</span>. Elle disait qu'elle avait <span class="gloss" data-def="cold — low temperature">froid</span>, qu'elle avait <span class="gloss" data-def="hot — high temperature">chaud</span>. Elle <span class="gloss" data-def="coughed — pushed air out of the throat">toussait</span>. Elle voulait que le petit prince la protège.
 
-Le petit prince aimait sa rose. Mais elle était parfois capricieuse et orgueilleuse. Elle disait : « Je suis une fleur unique. »
+Le petit prince aimait sa rose. Mais elle était parfois capricieuse et <span class="gloss" data-def="proud — having too much pride">orgueilleuse</span>. Elle disait : « Je suis une fleur unique. »
 
-Un jour, le petit prince est parti. Il était un peu triste, mais aussi un peu en colère. Il a laissé sa rose seule.
+Un jour, le petit prince est parti. Il était un peu triste, mais aussi un peu <span class="gloss" data-def="angry — feeling strong displeasure">en colère</span>. Il a laissé sa rose seule.
 
 ### Chapitre IX — Le départ
 
-Avant de partir, le petit prince a nettoyé sa planète pour la dernière fois. Il a arrosé sa rose. Il a mis sa rose sous un globe de verre pour la protéger.
+Avant de partir, le petit prince a nettoyé sa planète pour la dernière fois. Il a <span class="gloss" data-def="watered — poured water on">arrosé</span> sa rose. Il a mis sa rose sous un globe de <span class="gloss" data-def="glass — clear hard material">verre</span> pour la protéger.
 
 La rose lui a dit : « Je t'aime. »
 
-Le petit prince est parti sans se retourner.
+Le petit prince est parti sans se <span class="gloss" data-def="turn around — look back">retourner</span>.
 
 ---
 

@@ -7,9 +7,9 @@
 
 ## 📖 Résumé
 
-Cette petite histoire de Covey contient toute la sagesse de la septième habitude. L'homme travaille de plus en plus dur, mais avec un outil de plus en plus émoussé. S'il prenait quelques minutes pour <span class="gloss" data-def="sharpen — make a blade sharp and effective again">aiguiser</span> sa scie, il avancerait beaucoup plus vite. Pourtant, il refuse, prétextant qu'il est trop occupé. Combien de fois agissons-nous exactement comme lui ?
+Cette petite histoire de Covey contient toute la sagesse de la septième habitude. L'homme travaille de plus en plus dur, mais avec un outil de plus en plus <span class="gloss" data-def="blunt — no longer sharp">émoussé</span>. S'il prenait quelques minutes pour <span class="gloss" data-def="sharpen — make a blade sharp and effective again">aiguiser</span> sa scie, il avancerait beaucoup plus vite. Pourtant, il refuse, prétextant qu'il est trop occupé. Combien de fois agissons-nous exactement comme lui ?
 
-La septième habitude est différente des six autres : elle les <span class="gloss" data-def="encompasses — includes and surrounds">englobe</span> toutes. Elle consiste à prendre soin du plus précieux des outils que nous possédons : nous-mêmes. Covey l'appelle le **renouvellement**, et il distingue quatre dimensions de notre être qu'il faut entretenir régulièrement et de manière équilibrée.
+La septième habitude est différente des six autres : elle les <span class="gloss" data-def="encompasses — includes and surrounds">englobe</span> toutes. Elle consiste à prendre soin du plus précieux des outils que nous possédons : nous-mêmes. Covey l'appelle le **renouvellement**, et il distingue quatre dimensions de notre être qu'il faut <span class="gloss" data-def="to maintain — keep in good condition">entretenir</span> régulièrement et de manière équilibrée.
 
 La première est la dimension **physique**. Il s'agit de prendre soin de son corps : bien manger, se reposer suffisamment et faire de l'exercice. Ces activités appartiennent au quadrant II — importantes mais jamais urgentes —, c'est pourquoi nous les <span class="gloss" data-def="neglect — fail to take proper care of">négligeons</span> si facilement. Pourtant, un corps en bonne santé est la base de toute énergie.
 
@@ -19,7 +19,7 @@ La troisième dimension est **sociale et émotionnelle**. Elle se développe à 
 
 La quatrième dimension est **spirituelle**. C'est le centre de notre être, la source de nos valeurs. Chacun la nourrit à sa manière : par la méditation, la prière, le contact avec la nature, la musique, ou la lecture de textes qui nous inspirent. Cette dimension nous reconnecte à ce qui compte vraiment et nous donne un sens profond.
 
-L'essentiel, insiste Covey, c'est l'**équilibre**. Ces quatre dimensions sont liées : négliger l'une affaiblit les autres. Une personne qui s'entraîne physiquement mais qui ne nourrit jamais son esprit reste incomplète. C'est pourquoi il faut renouveler les quatre régulièrement, jour après jour.
+L'essentiel, insiste Covey, c'est l'**équilibre**. Ces quatre dimensions sont liées : négliger l'une <span class="gloss" data-def="weakens — makes weaker">affaiblit</span> les autres. Une personne qui s'entraîne physiquement mais qui ne nourrit jamais son esprit reste incomplète. C'est pourquoi il faut renouveler les quatre régulièrement, jour après jour.
 
 Lorsque nous le faisons, un phénomène remarquable se produit : la **spirale ascendante**. Chaque effort de renouvellement nous rend un peu plus capables, ce qui nous permet de mieux pratiquer toutes les habitudes, ce qui à son tour nous donne plus d'énergie pour nous renouveler encore. Néanmoins, cette spirale exige de la constance. Aiguiser sa scie n'est pas un événement unique, mais une discipline de toute une vie. C'est ainsi que nous continuons à grandir, sans jamais cesser de progresser.
 

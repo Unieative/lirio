@@ -11,7 +11,7 @@ Quand vous parlez avec quelqu'un, que voulez-vous ? Voulez-vous **gagner** ? Ou 
 
 La quatrième habitude dit : cherchez toujours une solution où tout le monde gagne.
 
-Covey décrit six façons de penser :
+Covey décrit six <span class="gloss" data-def="ways — manners of doing something">façons</span> de penser :
 
 | Façon de penser | Résultat |
 |:----------------|:---------|
@@ -27,11 +27,11 @@ La meilleure façon est **Gagnant-Gagnant**. Elle est basée sur l'<span class="
 La <span class="gloss" data-def="mentality — way of thinking">mentalité</span> de rareté dit : « Si tu gagnes, je perds. » C'est une façon de penser négative.
 
 Pour penser Gagnant-Gagnant, vous avez besoin de trois choses :
-1. <span class="gloss" data-def="integrity — staying true to your values">**L'intégrité**</span> — rester fidèle à vos valeurs
-2. <span class="gloss" data-def="maturity — being brave AND kind at the same time">**La maturité**</span> — être courageux ET gentil en même temps
-3. **La mentalité d'<span class="gloss" data-def="abundance mindset — believing there is enough for all">abondance</span>** — croire qu'il y a assez pour tout le monde
+1. <span class="gloss" data-def="integrity — staying true to your values">**L'intégrité**</span> — rester <span class="gloss" data-def="faithful — true to something">fidèle</span> à vos valeurs
+2. <span class="gloss" data-def="maturity — being brave AND kind at the same time">**La maturité**</span> — être <span class="gloss" data-def="brave — facing fear with courage">courageux</span> ET gentil en même temps
+3. **La mentalité d'<span class="gloss" data-def="abundance mindset — believing there is enough for all">abondance</span>** — <span class="gloss" data-def="to believe — to hold as true">croire</span> qu'il y a assez pour tout le monde
 
-**Le message principal :** Les meilleures solutions <span class="gloss" data-def="to benefit — to be good for someone">profitent</span> à tout le monde. Cherchez toujours cette solution.
+**Le message principal :** Les meilleures solutions <span class="gloss" data-def="to benefit — to be good for someone">profitent</span> à tout le monde. <span class="gloss" data-def="look for — search, seek out">Cherchez</span> toujours cette solution.
 
 ---
 

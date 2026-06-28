@@ -6,37 +6,37 @@
 
 ### Chapitre XIV — L'allumeur de réverbères
 
-Sur la cinquième planète, il y a un allumeur de réverbères. Il allume et éteint un réverbère toutes les minutes. Allume. Éteint. Allume. Éteint.
+Sur la cinquième planète, il y a un <span class="gloss" data-def="lamplighter — person who lights street lamps">allumeur de réverbères</span>. Il <span class="gloss" data-def="lights — turns on">allume</span> et <span class="gloss" data-def="turns off — puts out">éteint</span> un réverbère toutes les minutes. Allume. Éteint. Allume. Éteint.
 
-C'est épuisant !
+C'est <span class="gloss" data-def="exhausting — very tiring">épuisant</span> !
 
 « Pourquoi fais-tu ça ? » demande le petit prince.
 
-« C'est la consigne. »
+« C'est la <span class="gloss" data-def="instructions — the rule to follow">consigne</span>. »
 
 « Mais ta planète tourne de plus en plus vite. Tu dois allumer et éteindre de plus en plus souvent ! »
 
-« Je suis fidèle à la consigne. »
+« Je suis <span class="gloss" data-def="faithful — loyal, true to it">fidèle</span> à la consigne. »
 
-Le petit prince admire cet homme. Il est le seul adulte qui ne pense pas seulement à lui-même. Il fait quelque chose d'utile — même si c'est difficile.
+Le petit prince admire cet homme. Il est le seul adulte qui ne pense pas seulement à lui-même. Il fait quelque chose d'<span class="gloss" data-def="useful — helpful, has a purpose">utile</span> — même si c'est difficile.
 
 ### Chapitre XV — Le géographe
 
-Sur la sixième planète, il y a un géographe. Il a de grands livres et des cartes. Il note tout ce que les explorateurs lui racontent.
+Sur la sixième planète, il y a un <span class="gloss" data-def="geographer — someone who studies the Earth">géographe</span>. Il a de grands livres et des <span class="gloss" data-def="maps — drawings of places">cartes</span>. Il note tout ce que les explorateurs lui racontent.
 
-« Est-ce que tu as des océans ? Des montagnes ? Des fleuves ? » demande-t-il au petit prince.
+« Est-ce que tu as des océans ? Des <span class="gloss" data-def="mountains — very high land">montagnes</span> ? Des <span class="gloss" data-def="rivers — large flowing water">fleuves</span> ? » demande-t-il au petit prince.
 
 « J'ai une rose », dit le petit prince.
 
 « Les fleurs sont éphémères. Nous ne les notons pas. »
 
-Le petit prince est choqué. Sa rose est éphémère ? Elle va disparaître un jour ?
+Le petit prince est choqué. Sa rose est éphémère ? Elle va <span class="gloss" data-def="disappear — vanish, be gone">disparaître</span> un jour ?
 
-Le géographe conseille au petit prince de visiter la Terre. C'est une belle planète, dit-il.
+Le géographe <span class="gloss" data-def="advises — suggests, recommends">conseille</span> au petit prince de visiter la Terre. C'est une belle planète, dit-il.
 
 ### Chapitre XVI — La Terre
 
-La Terre est une grande planète. Il y a 111 rois, 7 000 géographes, 900 000 businessmen, et 325 millions de grandes personnes. Mais il y a aussi des allumeurs de réverbères — beaucoup d'allumeurs — partout dans le monde.
+La Terre est une grande planète. Il y a 111 rois, 7 000 géographes, 900 000 businessmen, et 325 millions de grandes personnes. Mais il y a aussi des allumeurs de réverbères — beaucoup d'allumeurs — <span class="gloss" data-def="everywhere — in all places">partout</span> dans le monde.
 
 Le petit prince arrive sur Terre. Il arrive dans le désert. Il est seul.
 

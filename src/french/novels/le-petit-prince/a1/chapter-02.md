@@ -6,27 +6,27 @@
 
 ### Chapitre IV — L'astéroïde B-612
 
-Le petit prince vient d'une toute petite planète. C'est l'astéroïde B-612. Cette planète est très petite — à peine plus grande qu'une maison.
+Le petit prince vient d'une toute petite planète. C'est l'astéroïde B-612. Cette planète est très petite — <span class="gloss" data-def="barely — only just, hardly">à peine</span> plus grande qu'une maison.
 
-Un astronome turc a découvert cet astéroïde en 1909. Mais les adultes ne l'ont pas cru, parce qu'il portait un costume traditionnel. Plus tard, le même astronome a présenté sa découverte en costume européen. Cette fois, tout le monde l'a cru.
+Un astronome turc a <span class="gloss" data-def="discovered — found for the first time">découvert</span> cet astéroïde en 1909. Mais les adultes ne l'ont pas <span class="gloss" data-def="believed — thought it was true">cru</span>, parce qu'il portait un costume traditionnel. Plus tard, le même astronome a présenté sa découverte en costume européen. Cette fois, tout le monde l'a cru.
 
-Le narrateur réfléchit : les adultes aiment les chiffres. Si vous leur parlez d'un ami, ils demandent : « Quel âge a-t-il ? Combien gagne-t-il ? » Ils ne demandent jamais : « Quelle est la couleur de sa voix ? »
+Le narrateur réfléchit : les adultes aiment les <span class="gloss" data-def="numbers — figures like 1, 2, 3">chiffres</span>. Si vous leur parlez d'un ami, ils demandent : « Quel âge a-t-il ? Combien <span class="gloss" data-def="earns — makes as money">gagne</span>-t-il ? » Ils ne demandent jamais : « Quelle est la couleur de sa voix ? »
 
 ### Chapitre V — Les baobabs
 
-Le petit prince parle de sa planète. Il y a un grand danger : les baobabs. Ce sont de très grands arbres. Si on ne les enlève pas quand ils sont petits, leurs racines cassent la planète.
+Le petit prince parle de sa planète. Il y a un grand danger : les baobabs. Ce sont de très grands <span class="gloss" data-def="trees — tall plants with a trunk">arbres</span>. Si on ne les <span class="gloss" data-def="removes — takes away">enlève</span> pas quand ils sont petits, leurs <span class="gloss" data-def="roots — the part of a plant underground">racines</span> <span class="gloss" data-def="break — split apart">cassent</span> la planète.
 
-Chaque matin, le petit prince nettoie sa planète. Il enlève les mauvaises herbes et les petits baobabs.
+Chaque matin, le petit prince <span class="gloss" data-def="cleans — makes tidy and clean">nettoie</span> sa planète. Il enlève les <span class="gloss" data-def="weeds — unwanted wild plants">mauvaises herbes</span> et les petits baobabs.
 
 « C'est une question de discipline », dit-il.
 
 ### Chapitre VI — Les couchers de soleil
 
-Un jour, le narrateur demande : « Pourquoi est-ce que tu regardes souvent le coucher de soleil ? »
+Un jour, le narrateur demande : « Pourquoi est-ce que tu regardes souvent le <span class="gloss" data-def="sunset — when the sun goes down">coucher de soleil</span> ? »
 
-Le petit prince répond : « Quand on est très triste, on aime les couchers de soleil. »
+Le petit prince répond : « Quand on est très <span class="gloss" data-def="sad — unhappy">triste</span>, on aime les couchers de soleil. »
 
-Sur la planète du petit prince, la planète est si petite que pour voir un coucher de soleil, il suffit de déplacer sa chaise. Un jour, il a vu 44 couchers de soleil en un seul jour !
+Sur la planète du petit prince, la planète est si petite que pour voir un coucher de soleil, il suffit de <span class="gloss" data-def="to move — change the position of">déplacer</span> sa <span class="gloss" data-def="chair — a seat for one person">chaise</span>. Un jour, il a vu 44 couchers de soleil en un seul jour !
 
 ---
 

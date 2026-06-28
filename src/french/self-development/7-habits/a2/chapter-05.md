@@ -7,22 +7,22 @@
 
 ## 📖 Résumé
 
-Vous avez probablement eu cette expérience : vous parlez à quelqu'un d'un problème qui vous <span class="gloss" data-def="weighs on you — troubles or burdens you">pèse</span>. Avant même que vous ayez fini, l'autre personne vous <span class="gloss" data-def="interrupts — cuts in before you finish speaking">interrompt</span> avec une solution. Vous vous sentez incompris(e). Vous n'aviez pas besoin d'une solution — vous aviez besoin qu'on vous **écoute**.
+Vous avez probablement eu cette expérience : vous parlez à quelqu'un d'un problème qui vous <span class="gloss" data-def="weighs on you — troubles or burdens you">pèse</span>. Avant même que vous ayez fini, l'autre personne vous <span class="gloss" data-def="interrupts — cuts in before you finish speaking">interrompt</span> avec une solution. Vous vous sentez <span class="gloss" data-def="misunderstood — not understood">incompris</span>(e). Vous n'aviez pas besoin d'une solution — vous aviez besoin qu'on vous **écoute**.
 
-Covey a consacré l'Habitude 5 à cet art souvent <span class="gloss" data-def="neglected — not given enough attention">négligé</span> : **l'écoute empathique**.
+Covey a <span class="gloss" data-def="devoted — dedicated fully">consacré</span> l'Habitude 5 à cet art souvent <span class="gloss" data-def="neglected — not given enough attention">négligé</span> : **l'écoute empathique**.
 
 ### Le paradoxe de l'influence
 
 Voici l'une des grandes idées de Covey sur la communication : **pour influencer, commencez par être influencé(e)**. Plus vous comprenez vraiment le point de vue de l'autre, plus vous avez de chances d'être compris(e) à votre tour.
 
-C'est contre-intuitif pour beaucoup de gens. Nous pensons que l'influence vient de bien parler, d'argumenter fort, de convaincre. Covey montrait que l'influence vient d'abord de **la connexion**, et la connexion vient de **la compréhension**.
+C'est contre-intuitif pour beaucoup de gens. Nous pensons que l'influence vient de bien parler, d'argumenter fort, de <span class="gloss" data-def="to convince — persuade">convaincre</span>. Covey montrait que l'influence vient d'abord de **la connexion**, et la connexion vient de **la compréhension**.
 
 ### Les niveaux d'écoute revisités
 
 À l'A2, explorons ces niveaux plus finement :
 
 1. **Ignorer** — La personne ne prête aucune attention. Elle pense à autre chose.
-2. **Faire semblant** — Elle hoche la tête, dit « mmm », mais ne traite pas les informations.
+2. <span class="gloss" data-def="to pretend — act as if">**Faire semblant**</span> — Elle <span class="gloss" data-def="nods — moves head up and down">hoche</span> la tête, dit « mmm », mais ne traite pas les informations.
 3. **Écoute sélective** — Elle entend seulement ce qui l'intéresse ou confirme ses idées.
 4. **Écoute attentive** — Elle écoute les mots et les faits, mais pas les émotions.
 5. **Écoute empathique** — Elle écoute pour comprendre la personne entière : ses mots, ses émotions, et ses intentions non-dites.
@@ -37,7 +37,7 @@ Covey a observé que nous avons naturellement tendance à filtrer ce que nous en
 - **Questionner** : « Mais pourquoi tu as fait ça ? »
 - **Interpréter** : « Ce que tu veux dire, c'est que... »
 
-Ces réponses ne sont pas mauvaises en elles-mêmes. Mais elles viennent trop tôt, avant que l'autre se sente vraiment compris(e). Covey les appelait des **réponses autobiographiques** — car elles parlent davantage de nous que de l'autre.
+Ces réponses ne sont pas mauvaises en elles-mêmes. Mais elles viennent trop tôt, avant que l'autre se sente vraiment compris(e). Covey les appelait des **réponses autobiographiques** — car elles parlent <span class="gloss" data-def="more — to a greater degree">davantage</span> de nous que de l'autre.
 
 ### Écouter avec le corps
 

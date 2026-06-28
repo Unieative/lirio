@@ -6,17 +6,17 @@
 
 ### Chapitre XXVI — Le retour
 
-L'aviateur répare enfin son avion. Mais il est inquiet pour le petit prince.
+L'aviateur <span class="gloss" data-def="repairs — fixes">répare</span> enfin son avion. Mais il est <span class="gloss" data-def="worried — anxious, uneasy">inquiet</span> pour le petit prince.
 
-Il retrouve le petit prince près du puits — et aussi le serpent jaune. Le petit prince va mourir — le serpent va le mordre. C'est le seul moyen de rentrer sur sa petite planète.
+Il retrouve le petit prince près du puits — et aussi le serpent jaune. Le petit prince va <span class="gloss" data-def="die — stop living">mourir</span> — le serpent va le <span class="gloss" data-def="bite — close its teeth on him">mordre</span>. C'est le seul moyen de rentrer sur sa petite planète.
 
-Le petit prince essaie de rassurer l'aviateur. Il dit :
+Le petit prince essaie de <span class="gloss" data-def="reassure — calm, comfort">rassurer</span> l'aviateur. Il dit :
 
-« La nuit, tu regarderas les étoiles. Ma planète est si petite que je ne peux pas te montrer où elle est. Mais c'est mieux ainsi. Mon étoile sera pour toi une étoile parmi les étoiles. Alors, tu aimeras regarder toutes les étoiles. Elles seront toutes tes amies. »
+« La nuit, tu regarderas les étoiles. Ma planète est si petite que je ne peux pas te montrer où elle est. Mais c'est mieux ainsi. Mon étoile sera pour toi une étoile <span class="gloss" data-def="among — in the middle of">parmi</span> les étoiles. Alors, tu aimeras regarder toutes les étoiles. Elles seront toutes tes amies. »
 
-Il dit aussi : « Tu auras l'air de rire parce que tu seras triste. Ce sera mon cadeau. »
+Il dit aussi : « Tu auras l'air de <span class="gloss" data-def="laugh — show joy out loud">rire</span> parce que tu seras triste. Ce sera mon <span class="gloss" data-def="gift — a present">cadeau</span>. »
 
-Cette nuit-là, le serpent mord le petit prince. Il tombe doucement, sans bruit, comme un arbre qui tombe. Le petit prince est parti.
+Cette nuit-là, le serpent mord le petit prince. Il tombe <span class="gloss" data-def="gently — softly, slowly">doucement</span>, <span class="gloss" data-def="silently — without a sound">sans bruit</span>, comme un <span class="gloss" data-def="tree — a tall plant with a trunk">arbre</span> qui tombe. Le petit prince est parti.
 
 ### Chapitre XXVII — L'épilogue
 
@@ -24,9 +24,9 @@ L'aviateur rentre chez lui. Mais il pense toujours au petit prince.
 
 La nuit, il regarde les étoiles. Il entend comme un rire dans les étoiles. Toutes les étoiles rient.
 
-Mais l'aviateur est aussi inquiet. Il a dessiné le mouton, mais il a oublié de dessiner la muselière. Est-ce que le mouton a mangé la rose ? Est-ce que tout a changé là-haut ?
+Mais l'aviateur est aussi inquiet. Il a dessiné le mouton, mais il a <span class="gloss" data-def="forgot — did not remember">oublié</span> de dessiner la <span class="gloss" data-def="muzzle — a cover for an animal's mouth">muselière</span>. Est-ce que le mouton a mangé la rose ? Est-ce que tout a changé là-haut ?
 
-Il demande au lecteur :
+Il demande au <span class="gloss" data-def="reader — the person reading">lecteur</span> :
 
 *« Si jamais vous vous trouvez en Afrique, dans un désert, et qu'un petit garçon vous demande de dessiner un mouton — répondez-lui. »*
 

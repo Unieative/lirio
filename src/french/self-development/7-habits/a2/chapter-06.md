@@ -13,11 +13,11 @@ Covey la définissait simplement : le tout est **plus grand** que la somme de se
 
 ### Pourquoi la synergie est rare
 
-La synergie demande de **faire confiance aux différences**. Or, la plupart des personnes sont mal à l'aise face à ce qui est différent. Elles cherchent la confirmation de leurs propres idées plutôt que l'<span class="gloss" data-def="enrichment — becoming richer through new ideas and perspectives">enrichissement</span> par d'autres <span class="gloss" data-def="perspectives — different points of view on the same situation">perspectives</span>.
+La synergie demande de **faire confiance aux différences**. Or, la plupart des personnes sont <span class="gloss" data-def="uncomfortable — ill at ease">mal à l'aise</span> face à ce qui est différent. Elles cherchent la confirmation de leurs propres idées plutôt que l'<span class="gloss" data-def="enrichment — becoming richer through new ideas and perspectives">enrichissement</span> par d'autres <span class="gloss" data-def="perspectives — different points of view on the same situation">perspectives</span>.
 
-Dans de nombreuses réunions, tout le monde pense en secret que ses idées sont les meilleures. On « écoute » l'autre en attendant son tour pour parler. On « négocie » en cherchant à avoir le dernier mot. Le résultat est souvent <span class="gloss" data-def="disappointing — less good than expected">décevant</span> — une solution de <span class="gloss" data-def="compromise — each side gives up something to reach an agreement">compromis</span> qui ne satisfait personne vraiment.
+Dans de nombreuses <span class="gloss" data-def="meetings — group work sessions">réunions</span>, tout le monde pense en secret que ses idées sont les meilleures. On « écoute » l'autre en attendant son tour pour parler. On « négocie » en cherchant à avoir le dernier mot. Le résultat est souvent <span class="gloss" data-def="disappointing — less good than expected">décevant</span> — une solution de <span class="gloss" data-def="compromise — each side gives up something to reach an agreement">compromis</span> qui ne satisfait personne vraiment.
 
-La synergie, elle, ne cherche pas un compromis. Elle cherche une **troisième voie** : une solution que personne n'aurait trouvée seule, qui dépasse les deux positions de départ.
+La synergie, elle, ne cherche pas un compromis. Elle cherche une **troisième voie** : une solution que personne n'aurait trouvée seule, qui <span class="gloss" data-def="goes beyond — exceeds, surpasses">dépasse</span> les deux positions de départ.
 
 ### La communication créative
 
@@ -25,7 +25,7 @@ Covey distinguait trois niveaux de communication :
 
 | Niveau | Description | Résultat |
 |:-------|:------------|:---------|
-| **Défensive** | Méfiance, protection de soi | Perte-perte ou gain minimal |
+| **Défensive** | <span class="gloss" data-def="mistrust — suspicion, lack of trust">Méfiance</span>, protection de soi | Perte-perte ou gain minimal |
 | **Respectueuse** | Politesse, compromis | Compromis acceptable |
 | **Synergique** | Ouverture totale, curiosité | Solution créative nouvelle |
 
@@ -35,7 +35,7 @@ La communication synergique arrive quand les participants ne défendent plus leu
 
 La synergie repose sur une conviction : **les personnes différentes de moi me rendent plus fort(e)**. Quelqu'un qui voit le monde autrement n'est pas un adversaire — c'est un complément.
 
-Covey donnait l'exemple de la nature. Dans un écosystème sain, la diversité est une **force**. Les espèces différentes s'équilibrent, se nourrissent, et se protègent mutuellement. Dans un écosystème appauvri, toutes les espèces identiques se concurrencent pour les mêmes ressources.
+Covey donnait l'exemple de la nature. Dans un écosystème sain, la diversité est une **force**. Les espèces différentes s'équilibrent, se nourrissent, et se protègent mutuellement. Dans un écosystème <span class="gloss" data-def="impoverished — depleted, poor">appauvri</span>, toutes les espèces identiques se concurrencent pour les mêmes ressources.
 
 Les équipes humaines fonctionnent de la même façon. Une équipe composée uniquement de personnes identiques — mêmes compétences, même façon de penser — produit des solutions limitées. Une équipe **diverse** produit des solutions que personne n'aurait imaginées seul.
 

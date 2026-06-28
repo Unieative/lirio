@@ -6,35 +6,35 @@
 
 ### Chapitre XVII — Le serpent
 
-Le petit prince est seul dans le désert. Il rencontre un serpent jaune. Le serpent est mystérieux et parle par énigmes.
+Le petit prince est seul dans le désert. Il rencontre un <span class="gloss" data-def="a snake — a reptile with no legs">serpent</span> jaune. Le serpent est mystérieux et parle par <span class="gloss" data-def="riddles — puzzling, mysterious words">énigmes</span>.
 
 Le serpent dit : « Je peux ramener n'importe qui à la terre dont il est venu. »
 
-Le petit prince n'a pas peur. Le serpent trouve cela amusant. Il dit : « Tu es pur comme une île avant l'aube. »
+Le petit prince n'a pas <span class="gloss" data-def="fear — feeling of being afraid">peur</span>. Le serpent trouve cela amusant. Il dit : « Tu es pur comme une île avant l'<span class="gloss" data-def="dawn — first light of the morning">aube</span>. »
 
-Ils se quittent. Mais le petit prince a compris quelque chose : si un jour il veut rentrer chez lui, le serpent peut l'aider.
+Ils se <span class="gloss" data-def="part — leave each other">quittent</span>. Mais le petit prince a compris quelque chose : si un jour il veut rentrer chez lui, le serpent peut l'aider.
 
 ### Chapitre XVIII — Les fleurs du désert
 
-Le petit prince marche dans le désert. Il rencontre quelques fleurs simples — pas de pétales, pas de parfum. Juste de petites fleurs qui vivent et meurent vite.
+Le petit prince marche dans le désert. Il rencontre quelques fleurs simples — pas de <span class="gloss" data-def="petals — the colored leaves of a flower">pétales</span>, pas de <span class="gloss" data-def="scent — a nice smell">parfum</span>. Juste de petites fleurs qui vivent et <span class="gloss" data-def="die — stop living">meurent</span> vite.
 
 Il leur demande : « Avez-vous vu des hommes ? »
 
-« Il y a très longtemps, répondent-elles, j'ai vu six ou sept hommes. Mais on ne sait jamais où les trouver. Le vent les promène. »
+« Il y a très longtemps, répondent-elles, j'ai vu six ou sept hommes. Mais on ne sait jamais où les trouver. Le <span class="gloss" data-def="wind — moving air">vent</span> les promène. »
 
 ### Chapitre XIX — La montagne
 
-Le petit prince monte sur une grande montagne. Il crie : « Bonjour ! »
+Le petit prince monte sur une grande <span class="gloss" data-def="mountain — very high land">montagne</span>. Il <span class="gloss" data-def="shouts — calls out loudly">crie</span> : « Bonjour ! »
 
 L'écho lui répond : « Bonjour... Bonjour... Bonjour... »
 
-Sur sa petite planète, quand il parlait, la rose lui répondait. Ici, la montagne répète seulement ses mots. Il trouve la Terre très étrange et très solitaire.
+Sur sa petite planète, quand il parlait, la rose lui répondait. Ici, la montagne répète seulement ses mots. Il trouve la Terre très étrange et très <span class="gloss" data-def="lonely — alone and sad">solitaire</span>.
 
 ### Chapitre XX — Le jardin de roses
 
-Le petit prince découvre un jardin plein de roses — des milliers de roses ! Il est très triste.
+Le petit prince découvre un <span class="gloss" data-def="garden — a place where plants grow">jardin</span> plein de roses — des milliers de roses ! Il est très triste.
 
-Il pensait que sa rose était unique. Mais elle n'est pas la seule rose du monde. Il s'assied dans l'herbe et il pleure.
+Il pensait que sa rose était unique. Mais elle n'est pas la seule rose du monde. Il s'assied dans l'herbe et il <span class="gloss" data-def="cries — weeps, sheds tears">pleure</span>.
 
 ---
 

@@ -7,15 +7,15 @@
 
 ## 📖 Résumé
 
-Stephen Covey a commencé son livre avec une idée simple mais puissante : **vous êtes responsable de votre vie**. Pas vos parents, pas votre patron, pas les circonstances. Vous.
+Stephen Covey a commencé son livre avec une idée simple mais <span class="gloss" data-def="powerful — strong in effect">puissante</span> : **vous êtes responsable de votre vie**. Pas vos parents, pas votre <span class="gloss" data-def="boss — your employer or manager">patron</span>, pas les circonstances. Vous.
 
 Le mot « proactif » n'existait pas avant Covey. Il l'a inventé pour décrire les personnes qui **prennent l'initiative** plutôt que d'attendre que les événements les contrôlent.
 
 ### La liberté de choisir
 
-Entre ce qui vous arrive (le **stimulus**) et votre comportement (la **réponse**), il y a toujours un espace. Les animaux réagissent instinctivement. Les êtres humains, eux, peuvent réfléchir et **choisir** leur réponse. C'est cette capacité qui nous rend libres.
+Entre ce qui vous arrive (le **stimulus**) et votre <span class="gloss" data-def="behavior — the way you act">comportement</span> (la **réponse**), il y a toujours un espace. Les animaux réagissent instinctivement. Les êtres humains, eux, peuvent <span class="gloss" data-def="to think — consider before acting">réfléchir</span> et **choisir** leur réponse. C'est cette capacité qui nous rend libres.
 
-Les personnes **réactives** laissent cet espace se refermer. Quand quelqu'un les critique, elles <span class="gloss" data-def="to get upset/angry — to lose one's temper">s'énervent</span> immédiatement. Quand les choses ne vont pas bien, elles <span class="gloss" data-def="to complain — to express dissatisfaction">se plaignent</span>. Leur <span class="gloss" data-def="mood — your emotional state at a given moment">humeur</span> dépend entièrement de ce qui se passe autour d'elles.
+Les personnes **réactives** laissent cet espace <span class="gloss" data-def="to close back up — shut again">se refermer</span>. Quand quelqu'un les critique, elles <span class="gloss" data-def="to get upset/angry — to lose one's temper">s'énervent</span> immédiatement. Quand les choses ne vont pas bien, elles <span class="gloss" data-def="to complain — to express dissatisfaction">se plaignent</span>. Leur <span class="gloss" data-def="mood — your emotional state at a given moment">humeur</span> dépend entièrement de ce qui se passe autour d'elles.
 
 Les personnes **proactives**, au contraire, utilisent cet espace. Elles font une pause. Elles réfléchissent. Puis elles choisissent une réponse qui correspond à leurs valeurs.
 
@@ -36,7 +36,7 @@ Ce changement de langage n'est pas superficiel. Il reflète un changement profon
 
 Covey a décrit deux cercles. Le **cercle de préoccupation** contient tout ce qui vous inquiète : la politique, le temps qu'il fait, ce que les autres pensent de vous. Le **cercle d'influence** contient les choses sur lesquelles vous pouvez agir.
 
-Les personnes proactives concentrent leur énergie sur leur cercle d'influence. Résultat : leur influence **grandit**. Les personnes réactives s'épuisent à s'inquiéter pour des choses qu'elles ne contrôlent pas. Résultat : leur influence **rétrécit**.
+Les personnes proactives concentrent leur énergie sur leur cercle d'influence. Résultat : leur influence **grandit**. Les personnes réactives <span class="gloss" data-def="exhaust themselves — wear themselves out">s'épuisent</span> à s'inquiéter pour des choses qu'elles ne contrôlent pas. Résultat : leur influence **rétrécit**.
 
 **Conclusion :** La proactivité n'est pas une technique — c'est une décision fondamentale sur ce que vous êtes.
 

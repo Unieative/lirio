@@ -7,37 +7,37 @@
 
 ## 📖 Résumé
 
-Les trois premières lois vous aident à **commencer** une habitude. La quatrième loi vous aide à la **maintenir**.
+Les trois premières lois vous <span class="gloss" data-def="help">aident</span> à **<span class="gloss" data-def="to start — to begin">commencer</span>** une habitude. La quatrième loi vous aide à la **<span class="gloss" data-def="to maintain — to keep up">maintenir</span>**.
 
-La loi dit : **rendez votre habitude satisfaisante**. Le cerveau répète ce qui procure du plaisir. Si une habitude vous donne une sensation positive, vous voulez la répéter.
+La loi dit : **rendez votre habitude satisfaisante**. Le cerveau <span class="gloss" data-def="repeats">répète</span> ce qui procure du plaisir. Si une habitude vous donne une sensation positive, vous voulez la répéter.
 
 ### Le problème des bonnes habitudes
 
-Les bonnes habitudes ont souvent un coût **immédiat** et un bénéfice **futur**.
+Les bonnes habitudes ont souvent un <span class="gloss" data-def="cost">coût</span> **immédiat** et un bénéfice **futur**.
 
-- Faire du sport : douleur immédiate → santé future.
+- Faire du sport : <span class="gloss" data-def="pain">douleur</span> immédiate → <span class="gloss" data-def="health">santé</span> future.
 - Manger sainement : moins de plaisir immédiat → énergie future.
 - Étudier : effort immédiat → compétences futures.
 
 Les mauvaises habitudes, elles, ont souvent un plaisir **immédiat** et un coût **futur**.
 
-Le cerveau préfère le présent. C'est pourquoi les mauvaises habitudes sont plus faciles que les bonnes.
+Le cerveau préfère le présent. C'est pourquoi les mauvaises habitudes sont plus <span class="gloss" data-def="easy">faciles</span> que les bonnes.
 
 La solution : **créez une récompense immédiate** pour votre bonne habitude.
 
 ### Le carnet de suivi
 
-L'une des meilleures techniques de Clear est le **carnet de suivi** (ou habit tracker). L'idée est simple : chaque jour où vous faites votre habitude, vous mettez une croix (✓) dans votre carnet.
+L'une des <span class="gloss" data-def="best">meilleures</span> techniques de Clear est le **carnet de suivi** (ou habit tracker). L'idée est simple : chaque jour où vous faites votre habitude, vous mettez une <span class="gloss" data-def="cross — X mark">croix</span> (✓) dans votre carnet.
 
-Pourquoi ça marche ? Parce que voir la série de croix est satisfaisante. Vous ne voulez pas briser la chaîne.
+Pourquoi ça marche ? Parce que voir la série de croix est satisfaisante. Vous ne voulez pas <span class="gloss" data-def="to break">briser</span> la <span class="gloss" data-def="chain">chaîne</span>.
 
-Clear dit : « **Ne brisez jamais la chaîne.** » Et si vous la brisez : « **Ne ratez jamais deux jours de suite.** »
+Clear dit : « **Ne brisez jamais la chaîne.** » Et si vous la brisez : « **Ne <span class="gloss" data-def="miss — skip">ratez</span> jamais deux jours de suite.** »
 
 ### La règle de Goldilocks
 
-Pour rester motivé(e), vos habitudes doivent être **ni trop faciles, ni trop difficiles**. Si c'est trop facile, vous vous ennuyez. Si c'est trop difficile, vous abandonnez.
+Pour rester motivé(e), vos habitudes doivent être **ni trop faciles, ni trop difficiles**. Si c'est trop facile, vous vous <span class="gloss" data-def="get bored">ennuyez</span>. Si c'est trop difficile, vous abandonnez.
 
-Clear appelle ça la **règle de Goldilocks** (comme dans le conte des Trois Ours : ni trop chaud, ni trop froid — juste bien).
+Clear appelle ça la **règle de Goldilocks** (comme dans le <span class="gloss" data-def="tale — story">conte</span> des Trois Ours : ni trop chaud, ni trop froid — juste bien).
 
 **Le message principal :** Créez une récompense immédiate. Suivez vos progrès. Trouvez le bon niveau de difficulté.
 

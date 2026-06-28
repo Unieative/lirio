@@ -6,7 +6,7 @@
 
 ### Chapitre I — Le dessin du boa
 
-Quand il était petit, le narrateur aimait dessiner. Un jour, il a dessiné un serpent boa qui mange un éléphant. De l'extérieur, le dessin ressemble à un chapeau. Les adultes disaient : « C'est un chapeau. »
+Quand il était petit, le narrateur aimait <span class="gloss" data-def="to draw — make a picture with a pencil">dessiner</span>. Un jour, il a dessiné un <span class="gloss" data-def="a snake — a reptile with no legs">serpent</span> boa qui mange un éléphant. De l'extérieur, le dessin ressemble à un <span class="gloss" data-def="a hat — you wear it on your head">chapeau</span>. Les adultes disaient : « C'est un chapeau. »
 
 Mais non ! C'est un boa qui mange un éléphant !
 
@@ -14,23 +14,23 @@ Les adultes ne comprenaient pas. Le narrateur a arrêté de dessiner. Il est dev
 
 ### Chapitre II — La panne dans le désert
 
-Un jour, l'avion du narrateur tombe en panne. Il est seul dans le désert du Sahara. C'est très loin de tout. Il n'y a personne.
+Un jour, l'<span class="gloss" data-def="airplane — a flying machine">avion</span> du narrateur tombe en <span class="gloss" data-def="breakdown — when a machine stops working">panne</span>. Il est <span class="gloss" data-def="alone — with nobody else">seul</span> dans le désert du Sahara. C'est très loin de tout. Il n'y a personne.
 
-Le lendemain matin, une petite voix le réveille : « S'il vous plaît... dessine-moi un mouton ! »
+Le lendemain matin, une petite <span class="gloss" data-def="voice — the sound a person makes speaking">voix</span> le <span class="gloss" data-def="wakes up — ends his sleep">réveille</span> : « S'il vous plaît... dessine-moi un <span class="gloss" data-def="a sheep — a farm animal with wool">mouton</span> ! »
 
-Le narrateur voit un petit garçon. Ce garçon est très sérieux. Il répète : « Dessine-moi un mouton. »
+Le narrateur voit un petit <span class="gloss" data-def="a boy — a young male child">garçon</span>. Ce garçon est très sérieux. Il répète : « Dessine-moi un mouton. »
 
-Le narrateur dessine un mouton, puis un autre, puis un autre. Le petit prince n'est pas content. Alors le narrateur dessine une boîte. Il dit : « Le mouton est à l'intérieur. »
+Le narrateur dessine un mouton, puis un autre, puis un autre. Le petit prince n'est pas content. Alors le narrateur dessine une <span class="gloss" data-def="a box — a container with sides">boîte</span>. Il dit : « Le mouton est à l'intérieur. »
 
-Le petit prince est très content !
+Le petit prince est très <span class="gloss" data-def="happy — pleased and glad">content</span> !
 
 ### Chapitre III — D'où vient-il ?
 
 Le narrateur pose des questions au petit prince. D'où vient-il ? Où est sa maison ?
 
-Mais le petit prince pose aussi des questions. Il veut savoir si les moutons mangent les fleurs.
+Mais le petit prince pose aussi des questions. Il veut savoir si les moutons mangent les <span class="gloss" data-def="flowers — the colorful part of a plant">fleurs</span>.
 
-Peu à peu, le narrateur comprend : le petit prince vient d'une toute petite planète.
+<span class="gloss" data-def="little by little — slowly, gradually">Peu à peu</span>, le narrateur comprend : le petit prince vient d'une toute petite planète.
 
 ---
 

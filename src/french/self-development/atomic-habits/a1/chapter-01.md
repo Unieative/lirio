@@ -7,11 +7,11 @@
 
 ## 📖 Résumé
 
-James Clear a eu un grave accident au lycée. Un bâton de baseball l'a frappé au visage. Il a perdu connaissance. Il était très malade pendant des mois.
+James Clear a eu un <span class="gloss" data-def="serious — severe">grave</span> accident au lycée. Un <span class="gloss" data-def="stick — bat">bâton</span> de baseball l'a <span class="gloss" data-def="hit — struck">frappé</span> au <span class="gloss" data-def="face">visage</span>. Il a perdu connaissance. Il était très <span class="gloss" data-def="sick — ill">malade</span> pendant des mois.
 
-Mais il a guéri. Lentement, il a recommencé à s'entraîner. Il a créé de petites habitudes. Il dormait bien. Il mangeait bien. Il travaillait dur.
+Mais il a <span class="gloss" data-def="healed — got better">guéri</span>. <span class="gloss" data-def="slowly">Lentement</span>, il a recommencé à s'entraîner. Il a créé de petites habitudes. Il dormait bien. Il mangeait bien. Il travaillait <span class="gloss" data-def="hard">dur</span>.
 
-Résultat : il est devenu un bon joueur de baseball à l'université.
+Résultat : il est <span class="gloss" data-def="became">devenu</span> un bon <span class="gloss" data-def="player">joueur</span> de baseball à l'université.
 
 Il n'a pas fait une grande chose. Il a fait **beaucoup de petites choses**.
 
@@ -22,17 +22,17 @@ C'est l'idée principale du livre : **les petits changements donnent de grands r
 Imaginez que vous devenez 1 % meilleur chaque jour. C'est très peu — presque rien. Mais après un an :
 
 - 1 % mieux par jour × 365 jours = **37 fois meilleur** ✅
-- 1 % pire par jour × 365 jours = presque **zéro** ❌
+- 1 % <span class="gloss" data-def="worse">pire</span> par jour × 365 jours = presque **zéro** ❌
 
-Les habitudes sont comme l'argent à la banque. Les petits dépôts augmentent lentement. Mais avec le temps, l'intérêt composé crée quelque chose de grand.
+Les habitudes sont comme l'<span class="gloss" data-def="money">argent</span> à la banque. Les petits dépôts <span class="gloss" data-def="increase — grow">augmentent</span> lentement. Mais avec le temps, l'intérêt composé crée quelque chose de grand.
 
 ### Les habitudes ne sont pas visibles
 
-Le problème avec les petites habitudes, c'est qu'on ne voit pas les résultats immédiatement. Si vous mangez bien aujourd'hui, vous ne perdez pas de poids demain. Si vous lisez un chapitre aujourd'hui, vous n'êtes pas expert demain.
+Le problème avec les petites habitudes, c'est qu'on ne voit pas les résultats immédiatement. Si vous mangez bien aujourd'hui, vous ne perdez pas de <span class="gloss" data-def="weight">poids</span> demain. Si vous lisez un chapitre aujourd'hui, vous n'êtes pas expert demain.
 
 Les résultats arrivent après une longue période. Clear appelle ça le **plateau du potentiel latent**. Vous travaillez, vous travaillez, vous ne voyez rien. Puis, un jour — tout change !
 
-**Le message principal :** Ne cherchez pas les grands changements. Cherchez les petites améliorations quotidiennes. Elles se multiplient avec le temps.
+**Le message principal :** Ne <span class="gloss" data-def="look for — seek">cherchez</span> pas les grands changements. Cherchez les petites améliorations quotidiennes. Elles se multiplient avec le temps.
 
 ---
 

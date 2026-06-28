@@ -7,7 +7,7 @@
 
 ## 📖 Résumé
 
-Covey aimait proposer une expérience de pensée difficile : imaginez vos propres funérailles. Quatre personnes prononcent un discours — un membre de votre famille, un ami, un collègue, et quelqu'un de votre communauté. Que voulez-vous qu'ils disent de vous ?
+Covey aimait proposer une expérience de pensée difficile : imaginez vos propres <span class="gloss" data-def="funeral — ceremony for someone who has died">funérailles</span>. Quatre personnes prononcent un <span class="gloss" data-def="speech — a formal talk to an audience">discours</span> — un membre de votre famille, un ami, un collègue, et quelqu'un de votre communauté. Que voulez-vous qu'ils disent de vous ?
 
 Cette question n'était pas là pour être <span class="gloss" data-def="morbid — focused on death or dark, heavy themes">morbide</span>. Elle servait à clarifier ce qui comptait vraiment pour vous.
 
@@ -17,24 +17,24 @@ Selon Covey, toutes les choses sont créées **deux fois**. La première créati
 
 Un architecte dessine les plans avant de construire une maison. Un auteur imagine son histoire avant d'écrire la première phrase. Un chef cuisinier visualise le plat avant de cuisiner.
 
-Le problème, c'est que beaucoup de personnes vivent par **défaut** plutôt que par **design**. Elles réagissent aux événements au lieu de suivre une direction choisie. Elles grimpent l'échelle du succès — mais l'échelle est contre le mauvais mur. Arrivées au sommet, elles réalisent qu'elles ne sont pas là où elles voulaient être.
+Le problème, c'est que beaucoup de personnes vivent par **défaut** plutôt que par **design**. Elles réagissent aux événements au lieu de suivre une direction choisie. Elles <span class="gloss" data-def="climb — go up step by step">grimpent</span> l'échelle du succès — mais l'échelle est contre le mauvais mur. Arrivées au <span class="gloss" data-def="top — the highest point">sommet</span>, elles réalisent qu'elles ne sont pas là où elles voulaient être.
 
 ### L'énoncé de mission personnel
 
-La solution de Covey était d'écrire un **énoncé de mission personnel** — un texte court et puissant qui exprime qui vous êtes et ce que vous voulez accomplir. Ce texte devient votre **constitution personnelle**.
+La solution de Covey était d'écrire un **énoncé de mission personnel** — un texte court et puissant qui exprime qui vous êtes et ce que vous voulez <span class="gloss" data-def="to accomplish — achieve, carry out">accomplir</span>. Ce texte devient votre **constitution personnelle**.
 
 Un bon énoncé de mission :
 - Est centré sur vos **valeurs**, pas sur vos rôles sociaux
 - Décrit ce que vous voulez **être** (caractère) avant ce que vous voulez **avoir** (résultats)
 - Est assez profond pour guider vos décisions dans les moments difficiles
 
-Covey a passé plusieurs mois à écrire le sien. Il le révisait régulièrement. Ce n'était pas un exercice à faire une seule fois — c'était un **processus continu**.
+Covey a passé plusieurs mois à écrire le sien. Il le <span class="gloss" data-def="revised — reviewed and updated">révisait</span> régulièrement. Ce n'était pas un exercice à faire une seule fois — c'était un **processus continu**.
 
 ### Les centres de vie
 
-Covey a identifié plusieurs « centres » autour desquels les personnes organisent leur vie : le conjoint, la famille, l'argent, le travail, les amis, la religion, les loisirs, l'ennemi, ou soi-même. Le problème de ces centres, c'est qu'ils sont tous **instables**. Ils changent, disparaissent, ou déçoivent.
+Covey a identifié plusieurs « centres » autour desquels les personnes organisent leur vie : le conjoint, la famille, l'argent, le travail, les amis, la religion, les loisirs, l'ennemi, ou soi-même. Le problème de ces centres, c'est qu'ils sont tous **instables**. Ils changent, disparaissent, ou <span class="gloss" data-def="disappoint — let you down">déçoivent</span>.
 
-Covey recommandait de se centrer sur des **principes** — des vérités fondamentales qui ne changent pas, comme l'honnêteté, l'intégrité, la dignité humaine. Un centre de vie basé sur des principes donne une stabilité que rien ne peut ébranler.
+Covey recommandait de se centrer sur des **principes** — des vérités fondamentales qui ne changent pas, comme l'honnêteté, l'intégrité, la dignité humaine. Un centre de vie basé sur des principes donne une stabilité que rien ne peut <span class="gloss" data-def="to shake — destabilize">ébranler</span>.
 
 **Conclusion :** Avant d'agir, sachez où vous allez. Écrivez votre mission. Vivez par design, pas par défaut.
 

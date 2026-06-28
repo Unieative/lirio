@@ -7,30 +7,30 @@
 
 ## 📖 Résumé
 
-La troisième loi dit : **rendez votre habitude facile**. Moins c'est difficile, plus vous allez le faire.
+La troisième loi dit : **rendez votre habitude <span class="gloss" data-def="easy">facile</span>**. <span class="gloss" data-def="less">Moins</span> c'est difficile, plus vous allez le faire.
 
 ### La loi du moindre effort
 
-Les êtres humains — et tous les animaux — choisissent naturellement le chemin le plus facile. Ce n'est pas une faiblesse. C'est la nature.
+Les êtres humains — et tous les animaux — <span class="gloss" data-def="choose">choisissent</span> naturellement le <span class="gloss" data-def="path — way">chemin</span> le plus facile. Ce n'est pas une <span class="gloss" data-def="weakness">faiblesse</span>. C'est la nature.
 
-Clear dit d'accepter cette réalité et de l'utiliser. Si vous voulez créer une bonne habitude, **réduisez les frictions**. Frictions = obstacles qui rendent l'habitude difficile.
+Clear dit d'accepter cette réalité et de l'utiliser. Si vous voulez créer une bonne habitude, **<span class="gloss" data-def="reduce — lower">réduisez</span> les frictions**. Frictions = obstacles qui rendent l'habitude difficile.
 
 Exemples de réduction des frictions :
-- Vous voulez faire du sport le matin ? Préparez vos vêtements la veille.
-- Vous voulez manger sainement ? Coupez les fruits et légumes le dimanche.
-- Vous voulez étudier le français ? Ouvrez le livre avant de dormir.
+- Vous voulez faire du sport le matin ? Préparez vos <span class="gloss" data-def="clothes">vêtements</span> la veille.
+- Vous voulez manger <span class="gloss" data-def="healthily">sainement</span> ? <span class="gloss" data-def="cut — chop">Coupez</span> les fruits et <span class="gloss" data-def="vegetables">légumes</span> le dimanche.
+- Vous voulez étudier le français ? Ouvrez le livre avant de <span class="gloss" data-def="to sleep">dormir</span>.
 
 Et pour éliminer une mauvaise habitude, **augmentez les frictions** :
 - Trop de télévision ? Débranchez la box après chaque utilisation.
-- Trop de téléphone ? Laissez le téléphone dans une autre pièce.
+- Trop de téléphone ? <span class="gloss" data-def="leave">Laissez</span> le téléphone dans une autre <span class="gloss" data-def="room">pièce</span>.
 
 ### La règle des deux minutes
 
-Clear propose une règle simple : **commencez par deux minutes seulement**.
+Clear propose une <span class="gloss" data-def="rule">règle</span> simple : **commencez par deux minutes seulement**.
 
 Vous ne lisez pas 30 pages — vous lisez **une page**.
 Vous ne faites pas 45 minutes de sport — vous mettez **vos chaussures**.
-Vous n'étudiez pas une heure — vous ouvrez **votre cahier**.
+Vous n'étudiez pas une heure — vous ouvrez **votre <span class="gloss" data-def="notebook — workbook">cahier</span>**.
 
 L'idée : il est très difficile de ne pas commencer quelque chose qui ne prend que deux minutes. Et souvent, une fois que vous commencez, vous continuez.
 

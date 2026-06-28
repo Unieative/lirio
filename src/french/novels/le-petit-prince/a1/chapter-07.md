@@ -6,27 +6,27 @@
 
 ### Chapitre XXI — Le renard
 
-C'est le chapitre le plus célèbre du livre. Le petit prince rencontre un renard.
+C'est le chapitre le plus célèbre du livre. Le petit prince rencontre un <span class="gloss" data-def="a fox — a wild animal like a small dog">renard</span>.
 
 « Joue avec moi », dit le petit prince. « Je suis si triste. »
 
-« Je ne peux pas jouer avec toi », dit le renard. « Je ne suis pas apprivoisé. »
+« Je ne peux pas jouer avec toi », dit le renard. « Je ne suis pas <span class="gloss" data-def="tamed — made friendly, no longer wild">apprivoisé</span>. »
 
 « Qu'est-ce que signifie "apprivoiser" ? »
 
-« Ça signifie "créer des liens". Tu n'es pour moi qu'un petit garçon comme cent mille autres. Et je ne suis pour toi qu'un renard comme cent mille autres. Mais si tu m'apprivoises, nous aurons besoin l'un de l'autre. »
+« Ça signifie "créer des <span class="gloss" data-def="bonds — close connections">liens</span>". Tu n'es pour moi qu'un petit garçon comme cent mille autres. Et je ne suis pour toi qu'un renard comme cent mille autres. Mais si tu m'apprivoises, nous aurons <span class="gloss" data-def="need — will need each other">besoin</span> l'un de l'autre. »
 
 Le petit prince apprivoise le renard. Tous les jours, il vient s'asseoir un peu plus près. Ils deviennent amis.
 
 Le jour du départ arrive. Le renard pleure.
 
-« C'est ta faute », dit le petit prince. « Je ne voulais pas te faire du mal. »
+« C'est ta <span class="gloss" data-def="fault — to blame for it">faute</span> », dit le petit prince. « Je ne voulais pas te faire du mal. »
 
-« Je sais. Mais ça valait quand même la peine. »
+« Je sais. Mais ça <span class="gloss" data-def="was worth it — deserved the trouble">valait</span> quand même la peine. »
 
 Puis le renard révèle un secret :
 
-> *« On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux. »*
+> *« On ne voit bien qu'avec le <span class="gloss" data-def="heart — center of feelings">cœur</span>. L'essentiel est invisible pour les yeux. »*
 
 > *« C'est le temps que tu as perdu pour ta rose qui fait ta rose si importante. »*
 
@@ -34,13 +34,13 @@ Puis le renard révèle un secret :
 
 ### Chapitres XXII–XXIII — L'aiguilleur et le marchand
 
-Le petit prince rencontre un aiguilleur qui dirige les trains. Les voyageurs regardent par les fenêtres mais ne savent pas ce qu'ils cherchent. Seuls les enfants s'émerveillent.
+Le petit prince rencontre un <span class="gloss" data-def="switchman — railway worker who guides trains">aiguilleur</span> qui dirige les trains. Les <span class="gloss" data-def="travelers — people on a journey">voyageurs</span> regardent par les fenêtres mais ne savent pas ce qu'ils cherchent. Seuls les enfants <span class="gloss" data-def="marvel — are filled with wonder">s'émerveillent</span>.
 
-Il rencontre aussi un marchand qui vend des pilules pour ne plus avoir soif. On économise 53 minutes par semaine. Le petit prince pense qu'il préfère marcher vers une fontaine.
+Il rencontre aussi un <span class="gloss" data-def="merchant — a seller, a trader">marchand</span> qui vend des pilules pour ne plus avoir <span class="gloss" data-def="thirst — the need to drink">soif</span>. On économise 53 minutes par semaine. Le petit prince pense qu'il préfère marcher vers une fontaine.
 
 ### Chapitres XXIV–XXV — Le puits
 
-Le petit prince et l'aviateur cherchent de l'eau dans le désert. Ils trouvent un puits. L'eau est bonne — mais sa douceur vient aussi de la marche, de la poulie, et du souvenir des étoiles.
+Le petit prince et l'aviateur cherchent de l'eau dans le désert. Ils trouvent un <span class="gloss" data-def="well — a deep hole for water">puits</span>. L'<span class="gloss" data-def="water — the drink, H2O">eau</span> est bonne — mais sa douceur vient aussi de la marche, de la poulie, et du souvenir des étoiles.
 
 Le petit prince dit qu'il rentrera bientôt chez lui. L'aviateur comprend qu'il partira avec l'aide du serpent.
 

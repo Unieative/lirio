@@ -7,7 +7,7 @@
 
 ## 📖 Résumé
 
-La plupart d'entre nous ont grandi dans un monde de **comparaison** et de **compétition**. À l'école, les notes classaient les élèves. Dans les sports, il y avait des gagnants et des perdants. Ces expériences nous ont appris, souvent <span class="gloss" data-def="unconsciously — without being aware of it">inconsciemment</span>, qu'il faut **battre les autres** pour réussir.
+La plupart d'entre nous ont <span class="gloss" data-def="grew up — were raised">grandi</span> dans un monde de **comparaison** et de **compétition**. À l'école, les notes classaient les élèves. Dans les sports, il y avait des gagnants et des perdants. Ces expériences nous ont appris, souvent <span class="gloss" data-def="unconsciously — without being aware of it">inconsciemment</span>, qu'il faut <span class="gloss" data-def="to beat — defeat others">**battre les autres**</span> pour <span class="gloss" data-def="to succeed — do well, win">réussir</span>.
 
 Covey a remis en question cette <span class="gloss" data-def="assumption — something accepted as true without proof">hypothèse</span> fondamentale.
 
@@ -19,7 +19,7 @@ Covey a identifié six façons d'aborder les interactions humaines :
 
 **Gagnant-Perdant** est le paradigme de la compétition. « Pour que je gagne, tu dois perdre. » C'est souvent le résultat d'une éducation fondée sur la comparaison.
 
-**Perdant-Gagnant** est le paradigme de la faiblesse. La personne cède toujours, dit toujours oui, et ne défend jamais ses propres besoins. Elle accumule de la frustration qu'elle exprimera un jour ou l'autre.
+**Perdant-Gagnant** est le paradigme de la <span class="gloss" data-def="weakness — lack of strength">faiblesse</span>. La personne <span class="gloss" data-def="gives in — yields, gives up">cède</span> toujours, dit toujours oui, et ne défend jamais ses propres besoins. Elle accumule de la frustration qu'elle exprimera un jour ou l'autre.
 
 **Perdant-Perdant** arrive quand deux personnes Gagnant-Perdant s'affrontent. Chacune veut que l'autre perde, même si elles perdent elles-mêmes.
 
@@ -31,9 +31,9 @@ Covey a identifié six façons d'aborder les interactions humaines :
 
 La clé du paradigme Gagnant-Gagnant, c'est la **mentalité d'abondance**. Elle repose sur la conviction profonde qu'il y a assez pour tout le monde — assez de succès, assez de reconnaissance, assez de ressources.
 
-Son opposé est la **mentalité de rareté**. Elle voit la vie comme une tarte à partager : si tu prends une grande part, j'en ai moins. Cette mentalité génère la jalousie, la comparaison, et la compétition destructrice.
+Son opposé est la **mentalité de <span class="gloss" data-def="scarcity — not enough to go around">rareté</span>**. Elle voit la vie comme une tarte à partager : si tu prends une grande part, j'en ai moins. Cette mentalité génère la jalousie, la comparaison, et la compétition destructrice.
 
-Les personnes avec une mentalité d'abondance se réjouissent du succès des autres. Elles partagent le mérite, le pouvoir, et les opportunités. Elles ont une **sécurité intérieure** qui ne dépend pas de l'opinion des autres.
+Les personnes avec une mentalité d'abondance <span class="gloss" data-def="rejoice — are genuinely glad">se réjouissent</span> du succès des autres. Elles partagent le mérite, le pouvoir, et les opportunités. Elles ont une **sécurité intérieure** qui ne dépend pas de l'opinion des autres.
 
 ### Courage et considération
 

@@ -7,13 +7,13 @@
 
 ## 📖 Résumé
 
-Imaginez un homme dans la forêt. Il coupe un arbre avec une <span class="gloss" data-def="saw — a tool for cutting wood">scie</span>. Il travaille depuis cinq heures. Il est très <span class="gloss" data-def="tired — without energy after working hard">fatigué</span>. La scie n'est plus <span class="gloss" data-def="sharp — cuts easily; not blunt">tranchante</span>.
+Imaginez un homme dans la <span class="gloss" data-def="forest — large area of trees">forêt</span>. Il coupe un <span class="gloss" data-def="tree — a large plant with a trunk">arbre</span> avec une <span class="gloss" data-def="saw — a tool for cutting wood">scie</span>. Il travaille depuis cinq heures. Il est très <span class="gloss" data-def="tired — without energy after working hard">fatigué</span>. La scie n'est plus <span class="gloss" data-def="sharp — cuts easily; not blunt">tranchante</span>.
 
 Vous lui dites : « Arrêtez de couper. <span class="gloss" data-def="sharpen — make the blade sharp again">Aiguisez</span> votre scie ! »
 
 Il répond : « Je n'ai pas le temps ! Je dois couper cet arbre ! »
 
-C'est l'image de la septième habitude. La **scie**, c'est **vous**. Pour bien travailler, vous devez prendre soin de vous.
+C'est l'image de la septième habitude. La **scie**, c'est **vous**. Pour bien travailler, vous devez prendre <span class="gloss" data-def="care — looking after something">soin</span> de vous.
 
 Covey dit que vous avez **quatre <span class="gloss" data-def="dimensions — areas of your life to develop">dimensions</span>** à <span class="gloss" data-def="to renew — to restore and refresh">renouveler</span> régulièrement :
 
@@ -24,7 +24,7 @@ Covey dit que vous avez **quatre <span class="gloss" data-def="dimensions — ar
 | ❤️ **Sociale / Émotionnelle** | Passer du temps avec les autres, donner, aider |
 | 🌟 **Spirituelle** | Méditer, prier, passer du temps dans la nature |
 
-Ces quatre dimensions sont connectées. Si une dimension est faible, les autres <span class="gloss" data-def="to suffer — to be in a worse condition">souffrent</span> aussi.
+Ces quatre dimensions sont connectées. Si une dimension est <span class="gloss" data-def="weak — not strong">faible</span>, les autres <span class="gloss" data-def="to suffer — to be in a worse condition">souffrent</span> aussi.
 
 Covey recommande de passer **une heure par jour** à renouveler ces dimensions. C'est un <span class="gloss" data-def="investment — spending time now to gain more later">investissement</span>, pas une perte de temps.
 

@@ -7,37 +7,37 @@
 
 ## 📖 Résumé
 
-La première loi dit : **rendez votre habitude évidente**. Le signal doit être clair et visible.
+La première loi dit : **rendez votre habitude <span class="gloss" data-def="obvious — easy to see">évidente</span>**. Le signal doit être clair et visible.
 
 ### Le carnet des habitudes
 
-Clear recommande d'écrire toutes vos habitudes actuelles dans un carnet. Pas pour les juger — juste pour les **voir**. La plupart de nos habitudes sont invisibles parce qu'elles sont automatiques. Les rendre visibles est le premier pas.
+Clear recommande d'<span class="gloss" data-def="to write">écrire</span> toutes vos habitudes <span class="gloss" data-def="current — present-day">actuelles</span> dans un carnet. Pas pour les juger — juste pour les <span class="gloss" data-def="to see">**voir**</span>. La plupart de nos habitudes sont invisibles parce qu'elles sont automatiques. Les rendre visibles est le premier pas.
 
 ### L'intention de mise en œuvre
 
-La recherche montre que les personnes qui planifient **quand** et **où** elles vont faire quelque chose réussissent beaucoup mieux.
+La recherche <span class="gloss" data-def="shows — demonstrates">montre</span> que les personnes qui planifient **quand** et **où** elles vont faire quelque chose <span class="gloss" data-def="succeed">réussissent</span> beaucoup <span class="gloss" data-def="better">mieux</span>.
 
 Mauvaise intention : « Je vais faire du sport. »
-Bonne intention : « Je vais faire du sport **le lundi à 7h du matin dans ma chambre**. »
+Bonne intention : « Je vais faire du sport **le lundi à 7h du matin dans ma <span class="gloss" data-def="bedroom">chambre</span>**. »
 
 La formule est : **Je vais [ACTION] à [HEURE] dans [LIEU].**
 
 ### L'empilement d'habitudes
 
-Une autre technique puissante est d'**empiler** une nouvelle habitude sur une habitude existante.
+Une autre technique <span class="gloss" data-def="powerful — effective">puissante</span> est d'<span class="gloss" data-def="to stack — to pile up">**empiler**</span> une nouvelle habitude sur une habitude existante.
 
 Formule : **Après [HABITUDE EXISTANTE], je vais [NOUVELLE HABITUDE].**
 
 Exemples :
 - « Après mon café du matin, je vais lire 10 pages en français. »
-- « Après le déjeuner, je vais marcher 10 minutes. »
+- « Après le <span class="gloss" data-def="lunch">déjeuner</span>, je vais <span class="gloss" data-def="to walk">marcher</span> 10 minutes. »
 - « Après le dîner, je vais écrire 3 choses positives. »
 
 Vous utilisez une habitude que vous avez **déjà** comme signal pour une nouvelle habitude.
 
 ### L'environnement est votre signal
 
-L'environnement influence vos habitudes plus que vous ne le pensez. Si vous voulez lire plus, mettez votre livre sur votre table. Si vous voulez manger plus de fruits, mettez les fruits sur la table. Si vous voulez faire du sport, préparez vos chaussures la veille.
+L'environnement influence vos habitudes plus que vous ne le <span class="gloss" data-def="think">pensez</span>. Si vous voulez lire plus, mettez votre livre sur votre table. Si vous voulez manger plus de fruits, mettez les fruits sur la table. Si vous voulez faire du sport, préparez vos <span class="gloss" data-def="shoes">chaussures</span> la <span class="gloss" data-def="day before — night before">veille</span>.
 
 **Le message principal :** Ne comptez pas sur votre mémoire ou votre volonté. Créez un environnement où vos bonnes habitudes sont évidentes.
 

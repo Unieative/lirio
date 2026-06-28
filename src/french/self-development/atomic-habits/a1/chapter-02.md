@@ -7,9 +7,9 @@
 
 ## 📖 Résumé
 
-Pourquoi est-il si difficile de changer ses habitudes ? James Clear dit : parce que nous changeons les mauvaises choses.
+Pourquoi est-il si difficile de changer ses habitudes ? James Clear dit : parce que nous changeons les <span class="gloss" data-def="bad">mauvaises</span> choses.
 
-La plupart des personnes commencent par changer leurs **résultats** : « Je veux perdre du poids. » Ou leurs **processus** : « Je vais aller à la salle de sport. » Mais ces changements ne durent pas longtemps.
+<span class="gloss" data-def="most — the majority">La plupart</span> des personnes commencent par changer leurs **résultats** : « Je veux <span class="gloss" data-def="to lose">perdre</span> du poids. » Ou leurs **processus** : « Je vais aller à la salle de sport. » Mais ces changements ne <span class="gloss" data-def="last — go on">durent</span> pas <span class="gloss" data-def="a long time">longtemps</span>.
 
 Clear propose de commencer par changer son **identité** : « Quel type de personne est-ce que je veux être ? »
 
@@ -29,19 +29,19 @@ Imaginez trois cercles :
           └─────────────────────┘
 ```
 
-La plupart des personnes changent de l'extérieur vers l'intérieur. Clear dit : changez de l'intérieur vers l'extérieur.
+La plupart des personnes changent de l'<span class="gloss" data-def="outside">extérieur</span> vers l'<span class="gloss" data-def="inside">intérieur</span>. Clear dit : changez de l'intérieur vers l'extérieur.
 
 ### L'identité d'abord
 
-Si vous voulez arrêter de fumer, ne dites pas « J'essaie d'arrêter de fumer ». Dites : « Je ne suis pas fumeur. »
+Si vous voulez <span class="gloss" data-def="to stop">arrêter</span> de <span class="gloss" data-def="to smoke">fumer</span>, ne dites pas « J'essaie d'arrêter de fumer ». Dites : « Je ne suis pas fumeur. »
 
-Si vous voulez courir, ne dites pas « Je fais du jogging ». Dites : « Je suis coureur. »
+Si vous voulez <span class="gloss" data-def="to run">courir</span>, ne dites pas « Je fais du jogging ». Dites : « Je suis coureur. »
 
-Chaque fois que vous faites quelque chose en accord avec votre identité, vous **votez** pour cette identité. Si vous lisez chaque soir, vous votez pour l'identité « je suis lecteur ». Après assez de votes, vous **devenez** vraiment cette personne.
+Chaque fois que vous faites quelque chose en accord avec votre identité, vous **votez** pour cette identité. Si vous lisez chaque <span class="gloss" data-def="evening">soir</span>, vous votez pour l'identité « je suis <span class="gloss" data-def="reader">lecteur</span> ». Après <span class="gloss" data-def="enough">assez</span> de votes, vous **devenez** vraiment cette personne.
 
 ### Les habitudes sont des preuves
 
-Les habitudes ne donnent pas seulement des résultats — elles donnent des **preuves**. Chaque fois que vous faites du sport, vous prouvez que vous êtes une personne active. Chaque fois que vous étudiez le français, vous prouvez que vous êtes un apprenant sérieux.
+Les habitudes ne donnent pas seulement des résultats — elles donnent des <span class="gloss" data-def="proof — evidence">**preuves**</span>. Chaque fois que vous faites du sport, vous <span class="gloss" data-def="prove — show">prouvez</span> que vous êtes une personne active. Chaque fois que vous étudiez le français, vous prouvez que vous êtes un apprenant sérieux.
 
 **Le message principal :** Ne vous concentrez pas sur ce que vous voulez accomplir. Concentrez-vous sur qui vous voulez devenir.
 

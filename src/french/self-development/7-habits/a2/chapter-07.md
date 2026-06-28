@@ -7,7 +7,7 @@
 
 ## 📖 Résumé
 
-Imaginez un <span class="gloss" data-def="woodcutter/lumberjack — someone who cuts down trees">bûcheron</span> qui travaille depuis six heures dans la forêt. Sa scie était tranchante le matin. Maintenant, elle ne coupe presque plus. Un passant lui dit : « Pourquoi ne pas aiguiser votre scie ? »
+Imaginez un <span class="gloss" data-def="woodcutter/lumberjack — someone who cuts down trees">bûcheron</span> qui travaille depuis six heures dans la forêt. Sa <span class="gloss" data-def="saw — tool for cutting wood">scie</span> était <span class="gloss" data-def="sharp — with a keen cutting edge">tranchante</span> le matin. Maintenant, elle ne coupe presque plus. Un passant lui dit : « Pourquoi ne pas <span class="gloss" data-def="to sharpen — make the edge keen again">aiguiser</span> votre scie ? »
 
 « Je n'ai pas le temps ! » répond-il. « Je dois couper cet arbre. »
 
@@ -17,7 +17,7 @@ Cette image résume parfaitement le problème que Covey voulait résoudre avec l
 
 L'Habitude 7 est différente des six autres. Elle ne traite pas d'une compétence spécifique — elle traite de la **capacité à maintenir toutes les autres compétences**. C'est l'habitude qui permet aux six premières de continuer à fonctionner.
 
-Covey l'appelait le « renouvellement équilibré ». Équilibré parce qu'il touche **quatre dimensions** de l'être humain, et que négliger l'une d'elles affaiblit les autres.
+Covey l'appelait le « <span class="gloss" data-def="renewal — restoring, refreshing">renouvellement</span> équilibré ». Équilibré parce qu'il touche **quatre dimensions** de l'être humain, et que négliger l'une d'elles <span class="gloss" data-def="weakens — makes weaker">affaiblit</span> les autres.
 
 ### Les quatre dimensions du renouvellement
 
@@ -27,7 +27,7 @@ Elle comprend l'exercice régulier, la nutrition, le sommeil, et la gestion du s
 
 **🧠 La dimension mentale**
 
-Elle comprend la lecture, l'écriture, la réflexion, et l'apprentissage continu. Covey était un lecteur vorace. Il recommandait de lire au moins une heure par jour dans des domaines variés : littérature, histoire, philosophie, sciences. L'écriture aussi est un outil puissant : tenir un journal aide à clarifier ses pensées et à ancrer ses apprentissages.
+Elle comprend la lecture, l'écriture, la réflexion, et l'apprentissage continu. Covey était un lecteur <span class="gloss" data-def="voracious — eager, avid">vorace</span>. Il recommandait de lire au moins une heure par jour dans des domaines variés : littérature, histoire, philosophie, sciences. L'écriture aussi est un outil puissant : tenir un journal aide à clarifier ses pensées et à ancrer ses apprentissages.
 
 **❤️ La dimension sociale et émotionnelle**
 
@@ -39,9 +39,9 @@ Elle ne se réduit pas à la religion, même si pour beaucoup de personnes, elle
 
 ### La spirale ascendante
 
-Covey concluait son livre avec une image belle et simple : la **spirale ascendante**. Chaque cycle de renouvellement nous permet de monter d'un cran — d'être un peu plus sage, un peu plus efficace, un peu plus aligné avec nos valeurs.
+Covey concluait son livre avec une image belle et simple : la **spirale ascendante**. Chaque cycle de renouvellement nous permet de <span class="gloss" data-def="go up a notch — rise one level">monter d'un cran</span> — d'être un peu plus sage, un peu plus efficace, un peu plus aligné avec nos valeurs.
 
-Cette spirale a trois éléments : **apprendre**, **s'engager**, **faire**. Apprendre sans faire reste théorique. Faire sans apprendre devient mécanique. S'engager sans apprendre ni faire reste vide. Les trois ensemble créent une **croissance réelle et durable**.
+Cette spirale a trois éléments : **apprendre**, **s'engager**, **faire**. Apprendre sans faire reste théorique. Faire sans apprendre devient mécanique. S'engager sans apprendre ni faire reste vide. Les trois ensemble créent une **croissance réelle et <span class="gloss" data-def="lasting — long-term, sustainable">durable</span>**.
 
 **Conclusion :** Prendre soin de vous n'est pas un luxe. C'est la condition nécessaire pour accomplir tout le reste.
 

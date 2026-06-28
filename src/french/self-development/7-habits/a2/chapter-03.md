@@ -7,13 +7,13 @@
 
 ## 📖 Résumé
 
-Les deux premières habitudes vivaient dans l'esprit. L'Habitude 3, elle, se passe dans la **<span class="gloss" data-def="daily life — everyday life, day by day">vie quotidienne</span>**. C'est là que les idées deviennent des actions.
+Les deux premières habitudes vivaient dans l'<span class="gloss" data-def="mind — the thinking part of you">esprit</span>. L'Habitude 3, elle, se passe dans la **<span class="gloss" data-def="daily life — everyday life, day by day">vie quotidienne</span>**. C'est là que les idées deviennent des actions.
 
 Si l'Habitude 1 dit « vous pouvez choisir » et l'Habitude 2 dit « choisissez d'abord votre destination », l'Habitude 3 dit : **exécutez votre plan, jour après jour**.
 
 ### Gérer le temps ou gérer sa vie ?
 
-Covey pensait que l'expression « gestion du temps » était mal choisie. On ne gère pas le temps — le temps passe toujours à la même vitesse. Ce que l'on gère, c'est **soi-même** dans le temps. L'enjeu est de savoir comment dépenser son énergie et son attention.
+Covey pensait que l'expression « gestion du temps » était mal choisie. On ne gère pas le temps — le temps passe toujours à la même vitesse. Ce que l'on gère, c'est **soi-même** dans le temps. L'<span class="gloss" data-def="stake — what is at play">enjeu</span> est de savoir comment dépenser son énergie et son attention.
 
 ### La matrice d'Eisenhower
 
@@ -26,22 +26,22 @@ Pour illustrer ses idées, Covey a repris une matrice attribuée au général Ei
 
 La plupart des gens partagent leur temps entre les quadrants I et III. Ils gèrent des crises, répondent aux urgences, et réagissent aux demandes des autres. Ils pensent être dans le quadrant I (important), mais une grande partie de leur activité est en réalité dans le quadrant III (urgent mais peu important).
 
-Le **Quadrant II** est le cœur de l'Habitude 3. C'est le quadrant de la **prévention**, de la **planification**, et de la **croissance**. Personne ne vous oblige à y aller — il n'est pas urgent. Mais c'est là que les personnes efficaces investissent leur temps.
+Le **Quadrant II** est le cœur de l'Habitude 3. C'est le quadrant de la **prévention**, de la **planification**, et de la <span class="gloss" data-def="growth — development, getting better">**croissance**</span>. Personne ne vous oblige à y aller — il n'est pas urgent. Mais c'est là que les personnes efficaces investissent leur temps.
 
 ### La semaine, pas la journée
 
-Covey déconseillait de planifier à la journée. Il préférait planifier à la **semaine**. Chaque semaine, identifiez vos rôles principaux (père/mère, professionnel, ami, citoyen…) et fixez **un ou deux objectifs** pour chacun de ces rôles. Ensuite, organisez votre semaine autour de ces objectifs — et non l'inverse.
+Covey <span class="gloss" data-def="advised against — recommended not to">déconseillait</span> de planifier à la journée. Il préférait planifier à la **semaine**. Chaque semaine, identifiez vos rôles principaux (père/mère, professionnel, ami, citoyen…) et fixez **un ou deux objectifs** pour chacun de ces rôles. Ensuite, organisez votre semaine autour de ces objectifs — et non l'inverse.
 
-Quand quelque chose d'urgent surgit, vous pouvez y répondre avec discernement, parce que vous savez déjà ce qui est le plus important.
+Quand quelque chose d'urgent <span class="gloss" data-def="arises — comes up suddenly">surgit</span>, vous pouvez y répondre avec <span class="gloss" data-def="discernment — good judgment">discernement</span>, parce que vous savez déjà ce qui est le plus important.
 
 ### Déléguer efficacement
 
 Covey faisait une distinction entre deux types de délégation :
 
-- **La délégation de coursier** : vous dites exactement comment faire chaque tâche. La personne exécute sans réfléchir. C'est épuisant pour le manager et peu motivant pour l'exécutant.
+- **La délégation de coursier** : vous dites exactement comment faire chaque tâche. La personne exécute sans réfléchir. C'est <span class="gloss" data-def="exhausting — very tiring">épuisant</span> pour le manager et peu motivant pour l'exécutant.
 - **La délégation de confiance** : vous définissez les résultats attendus et laissez la liberté sur les méthodes. Vous faites confiance aux personnes.
 
-**Conclusion :** La vie efficace se construit semaine après semaine, en choisissant consciemment où mettre son énergie.
+**Conclusion :** La vie efficace se construit semaine après semaine, en choisissant <span class="gloss" data-def="consciously — deliberately, on purpose">consciemment</span> où mettre son énergie.
 
 ---
 

@@ -7,7 +7,7 @@
 
 ## 📖 Résumé
 
-Comment fonctionne une habitude ? James Clear explique que chaque habitude passe par quatre étapes.
+Comment <span class="gloss" data-def="works — operates">fonctionne</span> une habitude ? James Clear explique que chaque habitude passe par quatre <span class="gloss" data-def="steps — stages">étapes</span>.
 
 ### La boucle de l'habitude
 
@@ -17,15 +17,15 @@ Comment fonctionne une habitude ? James Clear explique que chaque habitude passe
      └───────────────────────────────────────────┘
 ```
 
-**Le signal** déclenche l'habitude. Exemple : vous entendez une notification sur votre téléphone.
+**Le signal** <span class="gloss" data-def="triggers — sets off">déclenche</span> l'habitude. Exemple : vous <span class="gloss" data-def="hear">entendez</span> une notification sur votre téléphone.
 
-**L'envie** est la motivation. Vous voulez regarder le message.
+**L'<span class="gloss" data-def="craving — strong desire">envie</span>** est la motivation. Vous voulez <span class="gloss" data-def="to look at — to watch">regarder</span> le message.
 
-**La routine** est l'action. Vous prenez votre téléphone et regardez.
+**La routine** est l'action. Vous <span class="gloss" data-def="take — grab">prenez</span> votre téléphone et regardez.
 
-**La récompense** est le résultat satisfaisant. Vous avez vu le message. Vous êtes satisfait(e).
+**La <span class="gloss" data-def="reward">récompense</span>** est le résultat satisfaisant. Vous avez vu le message. Vous êtes satisfait(e).
 
-Cette boucle se répète encore et encore. Avec le temps, elle devient **automatique**.
+Cette <span class="gloss" data-def="loop — cycle">boucle</span> se <span class="gloss" data-def="repeats">répète</span> encore et encore. Avec le temps, elle <span class="gloss" data-def="becomes">devient</span> **automatique**.
 
 ### Les quatre lois de Clear
 
@@ -44,7 +44,7 @@ Ces quatre lois correspondent aux quatre étapes de la boucle :
 - Routine → Facile
 - Récompense → Satisfaisante
 
-**Le message principal :** Vous n'avez pas besoin de volonté. Vous avez besoin d'un bon système basé sur les quatre lois.
+**Le message principal :** Vous n'avez pas <span class="gloss" data-def="need">besoin</span> de <span class="gloss" data-def="willpower">volonté</span>. Vous avez besoin d'un bon système basé sur les quatre lois.
 
 ---
 

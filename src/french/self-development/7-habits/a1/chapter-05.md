@@ -14,16 +14,16 @@ La cinquième habitude parle d'**écouter**. Vraiment écouter.
 Covey décrit plusieurs façons d'écouter :
 
 1. **Ignorer** — vous n'écoutez pas du tout.
-2. <span class="gloss" data-def="to pretend — act like you're listening but you're not">**Faire semblant**</span> d'écouter — vous dites « oui, oui » mais vous ne suivez pas.
-3. **Écouter de façon <span class="gloss" data-def="selective — only hearing parts you choose">sélective</span>** — vous entendez seulement certaines parties.
+2. <span class="gloss" data-def="to pretend — act like you're listening but you're not">**Faire semblant**</span> d'écouter — vous dites « oui, oui » mais vous ne <span class="gloss" data-def="to follow — keep up with what is said">suivez</span> pas.
+3. **Écouter de façon <span class="gloss" data-def="selective — only hearing parts you choose">sélective</span>** — vous <span class="gloss" data-def="to hear — perceive sound">entendez</span> seulement certaines parties.
 4. **Écouter attentivement** — vous écoutez les mots.
 5. **Écouter avec <span class="gloss" data-def="empathy — feeling what the other person feels">empathie</span>** — vous comprenez aussi les **émotions** et les <span class="gloss" data-def="intentions — the reason behind what someone says">**intentions**</span>. ⭐
 
-L'écoute avec **empathie** est la plus haute forme d'écoute. Quand vous écoutez avec empathie, vous essayez de voir le monde comme l'autre personne le voit.
+L'écoute avec **empathie** est la plus haute forme d'écoute. Quand vous écoutez avec empathie, vous <span class="gloss" data-def="to try — make an effort">essayez</span> de voir le monde comme l'autre personne le voit.
 
 Covey parle aussi d'une erreur commune : **donner des <span class="gloss" data-def="advice — suggestions to help someone">conseils</span> trop vite**. Quand quelqu'un a un problème, on veut souvent donner des solutions. Mais souvent, la personne veut seulement être <span class="gloss" data-def="heard — understood and listened to">**entendue**</span>.
 
-C'est comme un <span class="gloss" data-def="doctor — a medical professional">médecin</span> qui <span class="gloss" data-def="prescribes — gives medicine without examining first">prescrit</span> des médicaments avant d'examiner le patient !
+C'est comme un <span class="gloss" data-def="doctor — a medical professional">médecin</span> qui <span class="gloss" data-def="prescribes — gives medicine without examining first">prescrit</span> des <span class="gloss" data-def="medicine — drugs to treat illness">médicaments</span> avant d'examiner le patient !
 
 **Le message principal :** Écoutez d'abord. Comprenez d'abord. Puis parlez.
 

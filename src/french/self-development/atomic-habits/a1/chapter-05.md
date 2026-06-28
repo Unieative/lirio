@@ -7,35 +7,35 @@
 
 ## 📖 Résumé
 
-La deuxième loi dit : **rendez votre habitude attrayante**. Plus vous voulez faire quelque chose, plus c'est facile de créer une habitude.
+La deuxième loi dit : **rendez votre habitude <span class="gloss" data-def="appealing — attractive">attrayante</span>**. Plus vous voulez faire quelque chose, plus c'est facile de créer une habitude.
 
 ### Le rôle de la dopamine
 
-Le cerveau libère de la **dopamine** — une substance chimique du plaisir — quand il anticipe une récompense. C'est pour ça que vous aimez penser aux vacances avant de partir. L'anticipation est souvent plus agréable que l'expérience elle-même !
+Le <span class="gloss" data-def="brain">cerveau</span> <span class="gloss" data-def="releases — sets free">libère</span> de la **dopamine** — une substance chimique du <span class="gloss" data-def="pleasure">plaisir</span> — quand il anticipe une récompense. C'est pour ça que vous <span class="gloss" data-def="like — love">aimez</span> penser aux <span class="gloss" data-def="holidays — vacation">vacances</span> avant de partir. L'anticipation est souvent plus <span class="gloss" data-def="pleasant — enjoyable">agréable</span> que l'expérience elle-même !
 
 La dopamine joue un rôle crucial dans la création des habitudes. Si une activité libère de la dopamine (ou si votre cerveau l'associe à de la dopamine), vous voulez répéter cette activité.
 
 ### Le regroupement de tentations
 
-Clear propose une technique appelée **regroupement de tentations**. L'idée : combinez une habitude que vous **devez** faire avec une habitude que vous **voulez** faire.
+Clear propose une technique appelée **regroupement de tentations**. L'idée : combinez une habitude que vous **<span class="gloss" data-def="must — have to">devez</span>** faire avec une habitude que vous **voulez** faire.
 
 Formule : **Après [HABITUDE QUE JE DOIS FAIRE], je vais [HABITUDE QUE JE VEUX FAIRE].**
 
 Exemples :
-- « Quand je fais du vélo de salle, je regarde ma série préférée. »
+- « Quand je fais du <span class="gloss" data-def="bike — cycling">vélo</span> de salle, je regarde ma série préférée. »
 - « Quand j'étudie le français, j'écoute ma musique préférée. »
 - « Après avoir fait du sport, je prends un délicieux café. »
 
 ### La culture et les habitudes
 
 Clear dit que nous imitons les habitudes de trois groupes de personnes :
-1. **Les proches** (la famille, les amis)
+1. **Les <span class="gloss" data-def="close ones — relatives and friends">proches</span>** (la famille, les amis)
 2. **La majorité** (ce que tout le monde fait)
 3. **Les personnes admirées** (les célébrités, les experts)
 
-Si vous voulez créer une bonne habitude, rejoignez un groupe où cette habitude est **normale**. Voulez-vous lire davantage ? Rejoignez un club de lecture. Voulez-vous faire du sport ? Trouvez un ami qui aime le sport.
+Si vous voulez créer une bonne habitude, <span class="gloss" data-def="join">rejoignez</span> un groupe où cette habitude est **normale**. Voulez-vous lire <span class="gloss" data-def="more">davantage</span> ? Rejoignez un club de <span class="gloss" data-def="reading">lecture</span>. Voulez-vous faire du sport ? <span class="gloss" data-def="find">Trouvez</span> un ami qui aime le sport.
 
-**Le message principal :** Ne luttez pas contre vos désirs. Utilisez-les. Rendez les bonnes habitudes attrayantes.
+**Le message principal :** Ne <span class="gloss" data-def="fight — struggle">luttez</span> pas contre vos désirs. Utilisez-les. Rendez les bonnes habitudes attrayantes.
 
 ---
 
