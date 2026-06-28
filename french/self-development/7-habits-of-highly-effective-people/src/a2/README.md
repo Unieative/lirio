@@ -1,39 +1,45 @@
 # 🟡 Niveau A2 — Élémentaire
 
-> **Bientôt disponible — Coming soon**
+Bienvenue au niveau **A2** !
 
-Ce niveau est en cours de rédaction.
+Vous connaissez déjà les idées principales du livre en français. Maintenant, vous allez lire des textes **plus longs et plus variés**. Le vocabulaire est plus riche, et les phrases sont plus complexes.
 
----
+À ce niveau, vous rencontrez :
 
-## Ce qui vous attend
-
-Au niveau **A2**, les textes utilisent :
-
-- Des phrases plus **longues et variées**
-- Un **vocabulaire plus riche** (prépositions, connecteurs, nuances)
+- Des phrases **composées et subordonnées**
 - Le **passé composé** et l'**imparfait**
-- Moins d'explications directes — vous devinez davantage du contexte
+- Le **futur simple**
+- Des **pronoms**, des **comparatifs**, et des **pronoms relatifs**
+- Moins de traductions directes — devinez du contexte !
 
 ---
 
-## Prérequis
+## Ce que vous allez apprendre
 
-Avant de commencer le niveau A2, assurez-vous de :
-
-- ✅ Comprendre les 7 chapitres A1 sans dictionnaire (80 %+)
-- ✅ Connaître les conjugaisons de base au présent
-- ✅ Reconnaître les 84 mots de vocabulaire A1
+✅ Plus de 90 mots de vocabulaire intermédiaire  
+✅ 7 points de grammaire essentiels pour le niveau A2–B1  
+✅ Des expressions plus naturelles et idiomatiques  
+✅ Une compréhension plus profonde des 7 Habitudes  
+✅ La capacité de parler et d'écrire sur ces idées en français
 
 ---
 
-## En attendant…
+## Les chapitres
 
-Revenez au niveau A1 et :
+| Chapitre | Habitude | Grammaire |
+|:--------:|:---------|:----------|
+| 1 | Soyez proactif | Le passé composé |
+| 2 | Commencez avec une fin en tête | L'imparfait |
+| 3 | Faites d'abord ce qui doit être fait | Le futur simple |
+| 4 | Pensez gagnant-gagnant | Les pronoms personnels (COD/COI) |
+| 5 | Cherchez d'abord à comprendre | Les comparatifs et superlatifs |
+| 6 | Créez une synergie | La négation complexe |
+| 7 | Aiguisez vos facultés | Les pronoms relatifs |
 
-1. Relisez chaque chapitre à voix haute.
-2. Récitez les expressions de mémoire.
-3. Refaites les exercices sans regarder les réponses.
-4. Écoutez l'audio sans lire le texte.
+---
 
-[← Retour au niveau A1](../a1/README.md)
+> 🎯 **Objectif A2 :** Lire chaque chapitre et comprendre 80 % sans dictionnaire. Pouvoir résumer chaque habitude oralement en 3 à 5 phrases.
+
+---
+
+[Commencer → Habitude 1](chapter-01.md)

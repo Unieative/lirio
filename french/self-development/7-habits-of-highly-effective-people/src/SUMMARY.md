@@ -20,6 +20,13 @@
 # 🟡 A2 — Élémentaire
 
 - [Vue d'ensemble du niveau A2](a2/README.md)
+- [Habitude 1 — Soyez proactif](a2/chapter-01.md)
+- [Habitude 2 — Commencez avec une fin en tête](a2/chapter-02.md)
+- [Habitude 3 — Faites d'abord ce qui doit être fait](a2/chapter-03.md)
+- [Habitude 4 — Pensez gagnant-gagnant](a2/chapter-04.md)
+- [Habitude 5 — Cherchez d'abord à comprendre](a2/chapter-05.md)
+- [Habitude 6 — Créez une synergie](a2/chapter-06.md)
+- [Habitude 7 — Aiguisez vos facultés](a2/chapter-07.md)
 
 ---
 
