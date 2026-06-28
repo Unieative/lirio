@@ -1,38 +1,25 @@
-# Chapitre 1 — Le pouvoir des petites habitudes 🟢 A1
+# Chapitre 1 — Le pouvoir surprenant des petites habitudes 🟢 A1
 
-> *« Les habitudes sont les intérêts composés de l'auto-amélioration. »*
+> *« Les habitudes sont les intérêts composés du développement personnel. »*
 > — James Clear
 
 ---
 
 ## 📖 Résumé
 
-James Clear a eu un <span class="gloss" data-def="serious — severe">grave</span> accident au lycée. Un <span class="gloss" data-def="stick — bat">bâton</span> de baseball l'a <span class="gloss" data-def="hit — struck">frappé</span> au <span class="gloss" data-def="face">visage</span>. Il a perdu connaissance. Il était très <span class="gloss" data-def="sick — ill">malade</span> pendant des mois.
+James Clear explique une idée simple mais <span class="gloss" data-def="powerful — having a strong effect">puissante</span>. Une petite habitude ne change pas votre vie aujourd'hui. Mais chaque jour, elle <span class="gloss" data-def="grows — gets bigger, from grandir">grandit</span> un peu.
 
-Mais il a <span class="gloss" data-def="healed — got better">guéri</span>. <span class="gloss" data-def="slowly">Lentement</span>, il a recommencé à s'entraîner. Il a créé de petites habitudes. Il dormait bien. Il mangeait bien. Il travaillait <span class="gloss" data-def="hard">dur</span>.
+Imaginez une <span class="gloss" data-def="improvement — a small step forward">amélioration</span> de 1 % chaque jour. Ce n'est presque rien. Mais après un an, le résultat est énorme. Les petites habitudes ne <span class="gloss" data-def="add up — combine by simple sums, from s'additionner">s'additionnent</span> pas, elles se <span class="gloss" data-def="multiply — grow much faster">multiplient</span>. C'est l'<span class="gloss" data-def="compound interest — money that earns money over time">intérêt composé</span> de votre progrès.
 
-Résultat : il est <span class="gloss" data-def="became">devenu</span> un bon <span class="gloss" data-def="player">joueur</span> de baseball à l'université.
+James Clear raconte l'histoire de l'<span class="gloss" data-def="team — a group that works together">équipe</span> cycliste britannique. L'<span class="gloss" data-def="coach — the trainer of a team">entraîneur</span> cherche des petits progrès partout. Il améliore le lit, le <span class="gloss" data-def="soap — used to wash">savon</span> et les <span class="gloss" data-def="clothes — what you wear">vêtements</span>. Chaque détail gagne 1 %. Peu à peu, l'équipe gagne le Tour de France et les Jeux olympiques.
 
-Il n'a pas fait une grande chose. Il a fait **beaucoup de petites choses**.
+Mais il y a un problème. Au début, vous travaillez beaucoup et vous ne voyez aucun résultat. C'est la <span class="gloss" data-def="valley — a low place between hills">vallée</span> de la <span class="gloss" data-def="disappointment — when results are slow (not 'deception')">déception</span>. Les résultats arrivent <span class="gloss" data-def="late — after a delay">en retard</span>.
 
-C'est l'idée principale du livre : **les petits changements donnent de grands résultats**.
+Pensez à un <span class="gloss" data-def="ice cube — frozen water">glaçon</span>. La température monte, mais la glace reste dure. Puis, à zéro degré, elle <span class="gloss" data-def="melts — turns to water, from fondre">fond</span>. L'effort d'avant n'est pas <span class="gloss" data-def="lost — wasted">perdu</span>.
 
-### La règle du 1 %
+Enfin, James Clear parle des objectifs et des systèmes. Les <span class="gloss" data-def="winners — those who succeed">gagnants</span> et les perdants ont souvent les mêmes objectifs. La différence, c'est le système.
 
-Imaginez que vous devenez 1 % meilleur chaque jour. C'est très peu — presque rien. Mais après un an :
-
-- 1 % mieux par jour × 365 jours = **37 fois meilleur** ✅
-- 1 % <span class="gloss" data-def="worse">pire</span> par jour × 365 jours = presque **zéro** ❌
-
-Les habitudes sont comme l'<span class="gloss" data-def="money">argent</span> à la banque. Les petits dépôts <span class="gloss" data-def="increase — grow">augmentent</span> lentement. Mais avec le temps, l'intérêt composé crée quelque chose de grand.
-
-### Les habitudes ne sont pas visibles
-
-Le problème avec les petites habitudes, c'est qu'on ne voit pas les résultats immédiatement. Si vous mangez bien aujourd'hui, vous ne perdez pas de <span class="gloss" data-def="weight">poids</span> demain. Si vous lisez un chapitre aujourd'hui, vous n'êtes pas expert demain.
-
-Les résultats arrivent après une longue période. Clear appelle ça le **plateau du potentiel latent**. Vous travaillez, vous travaillez, vous ne voyez rien. Puis, un jour — tout change !
-
-**Le message principal :** Ne <span class="gloss" data-def="look for — seek">cherchez</span> pas les grands changements. Cherchez les petites améliorations quotidiennes. Elles se multiplient avec le temps.
+Alors, oubliez les grands objectifs. Demain, vous allez choisir une petite habitude. Vous allez la répéter chaque jour.
 
 ---
 
@@ -40,18 +27,21 @@ Les résultats arrivent après une longue période. Clear appelle ça le **plate
 
 | Mot | Signification |
 |:----|:-------------|
-| **l'habitude** (f.) | habit |
+| **puissant / puissante** | powerful |
+| **grandir** | to grow, to get bigger |
 | **l'amélioration** (f.) | improvement |
-| **guérir** | to heal, to recover |
-| **s'entraîner** | to train, to practice |
-| **le résultat** | result |
-| **quotidien / quotidienne** | daily |
-| **immédiatement** | immediately |
-| **le poids** | weight |
-| **le plateau** | plateau (a period of no visible progress) |
-| **latent / latente** | latent, hidden |
-| **se multiplier** | to multiply, to grow |
-| **le dépôt** | deposit (bank) |
+| **s'additionner** | to add up |
+| **se multiplier** | to multiply |
+| **l'intérêt composé** (m.) | compound interest |
+| **l'équipe** (f.) | team |
+| **l'entraîneur** (m.) | coach, trainer |
+| **le savon** | soap |
+| **les vêtements** (m.) | clothes |
+| **la déception** | disappointment |
+| **le glaçon** | ice cube |
+| **fondre** | to melt |
+| **le gagnant / le perdant** | winner / loser |
+| **l'objectif** (m.) | goal, objective |
 
 ---
 
@@ -59,46 +49,33 @@ Les résultats arrivent après une longue période. Clear appelle ça le **plate
 
 | Expression | Signification |
 |:-----------|:-------------|
-| **« perdre connaissance »** | to lose consciousness, to pass out |
-| **« à la longue »** | in the long run |
-| **« petit à petit »** | little by little |
-| **« sans s'en rendre compte »** | without realizing it |
-| **« faire des progrès »** | to make progress |
+| **« peu à peu »** | little by little |
+| **« au début »** | at the beginning |
+| **« en retard »** | late, behind schedule |
+| **« presque rien »** | almost nothing |
+| **« chaque jour »** | every day |
 
 ---
 
-## 🧠 Grammaire — Les verbes en **-ir**
+## 🧠 Grammaire — Le présent des verbes en *-er*
 
-En français, il y a trois grands groupes de verbes. Vous connaissez les verbes en **-er**. Les verbes en **-ir** sont le deuxième groupe.
+La plupart des verbes français finissent par **-er** (parler, gagner, changer). Au présent, on enlève **-er** et on ajoute la terminaison.
 
-**Verbes réguliers en -ir :** (radical + terminaisons)
-
-| Pronom | Finir (to finish) | Grandir (to grow) | Choisir (to choose) |
-|:-------|:-----------------|:------------------|:--------------------|
-| je | fini**s** | grandi**s** | choisi**s** |
-| tu | fini**s** | grandi**s** | choisi**s** |
-| il/elle | fini**t** | grandi**t** | choisi**t** |
-| nous | finiss**ons** | grandiss**ons** | choisis**sons** |
-| vous | finiss**ez** | grandiss**ez** | choisis**sez** |
-| ils/elles | finiss**ent** | grandiss**ent** | choisis**sent** |
-
-**Autres verbes en -ir courants :**
-
-| Verbe | Sens |
-|:------|:-----|
-| **réussir** | to succeed |
-| **bâtir** | to build |
-| **nourrir** | to nourish, to feed |
-| **guérir** | to heal |
-| **réfléchir** | to think, to reflect |
+| Pronom | gagner | terminaison |
+|:-------|:-------|:------------|
+| je | gagne | -e |
+| tu | gagnes | -es |
+| il / elle / on | gagne | -e |
+| nous | gagnons | -ons |
+| vous | gagnez | -ez |
+| ils / elles | gagnent | -ent |
 
 **Exemples du chapitre :**
-- James Clear **guérit** lentement après son accident.
-- Ses bonnes habitudes **grandissent** avec le temps.
-- Il **réfléchit** à chaque petite amélioration.
-- Nous **choisissons** de nous améliorer chaque jour.
+- James Clear **explique** une idée simple. *(James Clear explains a simple idea.)*
+- L'équipe **gagne** le Tour de France. *(The team wins the Tour de France.)*
+- Vous **travaillez** beaucoup. *(You work a lot.)*
 
-> 💡 **Astuce :** Remarquez le **-ss-** dans la conjugaison de nous/vous/ils : finissons, finissez, finissent. C'est la marque des verbes en -ir réguliers.
+> 💡 **Astuce :** Les terminaisons **-e, -es, -e, -ent** se prononcent toutes de la même façon (silencieuses). Seuls **nous** (-ons) et **vous** (-ez) s'entendent vraiment !
 
 ---
 
@@ -106,63 +83,62 @@ En français, il y a trois grands groupes de verbes. Vous connaissez les verbes 
 
 **1. Vrai ou faux ?**
 
-a) James Clear a eu un accident de voiture.
-b) 1 % mieux chaque jour = 37 fois meilleur en un an.
-c) On voit les résultats des bonnes habitudes très vite.
-d) Les petits changements se multiplient avec le temps.
+a) Une petite habitude change toute votre vie en un jour.
+b) Les habitudes se multiplient, comme l'intérêt composé.
+c) Dans la vallée de la déception, les résultats arrivent vite.
+d) Les gagnants et les perdants ont souvent les mêmes objectifs.
 
-*Réponses : a) F (un bâton de baseball) — b) V — c) F — d) V*
-
----
-
-**2. Conjuguez au présent**
-
-a) James Clear _______ (guérir) après son accident.
-b) Ses résultats _______ (grandir) chaque mois.
-c) Nous _______ (choisir) de bonnes habitudes.
-d) Tu _______ (réfléchir) à tes habitudes quotidiennes.
-e) Ils _______ (réussir) grâce à la discipline.
-
-*Réponses : a) guérit — b) grandissent — c) choisissons — d) réfléchis — e) réussissent*
+*Réponses : a) F — b) V — c) F — d) V*
 
 ---
 
-**3. La règle du 1 %**
+**2. Conjuguez au présent (verbes en -er)**
 
-Calculez (simplement) et répondez.
+a) Je _______ (gagner) un peu chaque jour.
+b) Nous _______ (changer) nos habitudes.
+c) L'entraîneur _______ (chercher) des petits progrès.
+d) Vous _______ (travailler) beaucoup.
 
-a) Si vous lisez 10 pages par jour, combien de pages lisez-vous en un mois (30 jours) ?
-b) Si vous apprenez 5 mots français par jour, combien de mots connaissez-vous en un an (365 jours) ?
-c) Si vous faites 10 minutes de sport par jour, combien d'heures faites-vous en un mois ?
-
-*Réponses : a) 300 pages — b) 1 825 mots — c) 5 heures*
+*Réponses : a) gagne — b) changeons — c) cherche — d) travaillez*
 
 ---
 
-**4. Votre habitude du 1 %**
+**3. Choisissez le bon mot**
 
-Choisissez une petite habitude que vous voulez développer. Complétez les phrases.
+Complétez avec : **glaçon / équipe / objectifs / amélioration**.
 
-a) Je veux améliorer _______.
-b) Chaque jour, je vais _______ (action très petite).
-c) En un mois, je vais _______ (résultat attendu).
+a) Une _______ de 1 % par jour est très puissante.
+b) L'_______ cycliste gagne grâce aux petits progrès.
+c) Pensez à un _______ qui fond à zéro degré.
+d) Oubliez les grands _______ et regardez vos habitudes.
+
+*Réponses : a) amélioration — b) équipe — c) glaçon — d) objectifs*
+
+---
+
+**4. À vous d'écrire**
+
+Écrivez une phrase sur une petite habitude que vous voulez répéter chaque jour.
+
+*Réponse libre. Exemple : « Chaque jour, je lis une page d'un livre. »*
 
 ---
 
 ## 📝 Glossaire
 
-- **l'intérêt composé** : compound interest
-- **le lycée** : high school
-- **le baseball** : baseball
-- **l'université** (f.) : university
-- **la discipline** : discipline
-- **le potentiel** : potential
+- **l'intérêt composé** : un gain qui grandit de plus en plus avec le temps
+- **la vallée de la déception** : le moment où l'on travaille sans voir de résultat
+- **un système** : ce que vous faites chaque jour pour avancer
+- **un objectif** : le résultat que vous voulez atteindre
+- **les progrès marginaux** : de tout petits progrès partout, qui s'ajoutent
 
 ---
 
 ## 🔊 Audio
 
 ▶️ [Écouter le chapitre 1 — A1](../audio/a1-chapter-01.mp3)
+
+*Conseil : Écoutez le chapitre une fois sans lire, puis une deuxième fois en suivant le texte. Répétez les verbes en -er à voix haute.*
 
 ---
 

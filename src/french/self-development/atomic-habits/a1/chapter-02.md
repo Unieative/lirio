@@ -1,49 +1,27 @@
-# Chapitre 2 — L'identité et les habitudes 🟢 A1
+# Chapitre 2 — Comment vos habitudes façonnent votre identité (et inversement) 🟢 A1
 
-> *« Chaque action est un vote pour le type de personne que vous souhaitez devenir. »*
+> *« Le but n'est pas de lire un livre, c'est de devenir un lecteur. »*
 > — James Clear
 
 ---
 
 ## 📖 Résumé
 
-Pourquoi est-il si difficile de changer ses habitudes ? James Clear dit : parce que nous changeons les <span class="gloss" data-def="bad">mauvaises</span> choses.
+James Clear parle d'une question importante : qui voulez-vous <span class="gloss" data-def="to become — to grow into">devenir</span> ?
 
-<span class="gloss" data-def="most — the majority">La plupart</span> des personnes commencent par changer leurs **résultats** : « Je veux <span class="gloss" data-def="to lose">perdre</span> du poids. » Ou leurs **processus** : « Je vais aller à la salle de sport. » Mais ces changements ne <span class="gloss" data-def="last — go on">durent</span> pas <span class="gloss" data-def="a long time">longtemps</span>.
+Il y a trois <span class="gloss" data-def="levels — layers, steps">niveaux</span> de changement. Le premier niveau, ce sont les résultats. Par exemple, perdre du poids. Le deuxième niveau, ce sont les <span class="gloss" data-def="processes — the things you do">processus</span>. Par exemple, aller à la salle de sport. Le troisième niveau, c'est l'identité. C'est ce que vous <span class="gloss" data-def="believe — hold as true, from croire">croyez</span> sur vous-même.
 
-Clear propose de commencer par changer son **identité** : « Quel type de personne est-ce que je veux être ? »
+La plupart des gens commencent par les résultats. Mais James Clear propose le contraire. Il faut commencer par l'identité.
 
-### Les trois niveaux de changement
+Voici un exemple simple. Le but n'est pas de lire un livre. Le but est de devenir un <span class="gloss" data-def="reader — a person who reads">lecteur</span>. Le but n'est pas de courir un marathon. Le but est de devenir un <span class="gloss" data-def="runner — a person who runs">coureur</span>.
 
-Imaginez trois cercles :
+Chaque petite action est un <span class="gloss" data-def="vote — a small choice that counts">vote</span>. Quand vous lisez une page, vous votez pour le lecteur en vous. Une habitude est une <span class="gloss" data-def="proof — evidence that shows something is true">preuve</span> de votre identité.
 
-```
-          ┌─────────────────────┐
-          │      RÉSULTATS      │  ← Ce que vous obtenez
-          │  ┌───────────────┐  │
-          │  │   PROCESSUS   │  │  ← Ce que vous faites
-          │  │  ┌─────────┐  │  │
-          │  │  │IDENTITÉ │  │  │  ← Ce que vous croyez
-          │  │  └─────────┘  │  │
-          │  └───────────────┘  │
-          └─────────────────────┘
-```
+James Clear donne une méthode en deux <span class="gloss" data-def="steps — stages of a plan">étapes</span>. D'abord, choisissez la personne que vous voulez être. Ensuite, montrez-le avec des petites <span class="gloss" data-def="victories — small wins">victoires</span>.
 
-La plupart des personnes changent de l'<span class="gloss" data-def="outside">extérieur</span> vers l'<span class="gloss" data-def="inside">intérieur</span>. Clear dit : changez de l'intérieur vers l'extérieur.
+Le vrai changement n'est pas un changement de résultats. C'est un changement d'identité. Vos habitudes <span class="gloss" data-def="shape — give form to, from façonner">façonnent</span> qui vous êtes.
 
-### L'identité d'abord
-
-Si vous voulez <span class="gloss" data-def="to stop">arrêter</span> de <span class="gloss" data-def="to smoke">fumer</span>, ne dites pas « J'essaie d'arrêter de fumer ». Dites : « Je ne suis pas fumeur. »
-
-Si vous voulez <span class="gloss" data-def="to run">courir</span>, ne dites pas « Je fais du jogging ». Dites : « Je suis coureur. »
-
-Chaque fois que vous faites quelque chose en accord avec votre identité, vous **votez** pour cette identité. Si vous lisez chaque <span class="gloss" data-def="evening">soir</span>, vous votez pour l'identité « je suis <span class="gloss" data-def="reader">lecteur</span> ». Après <span class="gloss" data-def="enough">assez</span> de votes, vous **devenez** vraiment cette personne.
-
-### Les habitudes sont des preuves
-
-Les habitudes ne donnent pas seulement des résultats — elles donnent des <span class="gloss" data-def="proof — evidence">**preuves**</span>. Chaque fois que vous faites du sport, vous <span class="gloss" data-def="prove — show">prouvez</span> que vous êtes une personne active. Chaque fois que vous étudiez le français, vous prouvez que vous êtes un apprenant sérieux.
-
-**Le message principal :** Ne vous concentrez pas sur ce que vous voulez accomplir. Concentrez-vous sur qui vous voulez devenir.
+Alors, ne pensez pas seulement au but. Pensez à la personne. Demain, vous allez faire une petite action. Cette action va construire votre nouvelle identité.
 
 ---
 
@@ -51,18 +29,21 @@ Les habitudes ne donnent pas seulement des résultats — elles donnent des <spa
 
 | Mot | Signification |
 |:----|:-------------|
-| **l'identité** (f.) | identity — who you are |
-| **le processus** | process |
-| **durer** | to last |
-| **croire** | to believe |
-| **le fumeur / la fumeuse** | smoker |
-| **le coureur / la coureuse** | runner |
-| **voter** | to vote |
-| **la preuve** | proof, evidence |
-| **prouver** | to prove |
-| **en accord avec** | in line with, consistent with |
-| **l'apprenant** (m.) | learner |
 | **devenir** | to become |
+| **le niveau** | level |
+| **le processus** | process |
+| **croire** | to believe |
+| **l'identité** (f.) | identity |
+| **le lecteur** | reader |
+| **le coureur** | runner |
+| **le vote** | vote |
+| **la preuve** | proof, evidence |
+| **l'étape** (f.) | step, stage |
+| **la victoire** | victory, win |
+| **façonner** | to shape |
+| **le but** | goal, aim |
+| **perdre du poids** | to lose weight |
+| **soi-même** | oneself |
 
 ---
 
@@ -70,44 +51,29 @@ Les habitudes ne donnent pas seulement des résultats — elles donnent des <spa
 
 | Expression | Signification |
 |:-----------|:-------------|
-| **« au fond de soi »** | deep down, in one's heart |
-| **« se voir comme »** | to see oneself as |
-| **« à force de »** | by dint of, through repeated… |
-| **« finir par »** | to end up doing something |
-| **« changer de cap »** | to change direction |
+| **« la plupart des gens »** | most people |
+| **« d'abord… ensuite »** | first… then |
+| **« il faut »** | one must, it is necessary to |
+| **« le contraire »** | the opposite |
+| **« petit à petit »** | little by little |
 
 ---
 
-## 🧠 Grammaire — Le verbe « faire » et ses expressions
+## 🧠 Grammaire — Les articles (le, la, les / un, une, des)
 
-**Conjugaison de « faire » au présent :**
+En français, chaque nom a un article. L'article **défini** parle d'une chose précise. L'article **indéfini** parle d'une chose générale.
 
-| Pronom | Faire |
-|:-------|:------|
-| je | **fais** |
-| tu | **fais** |
-| il/elle/on | **fait** |
-| nous | **faisons** |
-| vous | **faites** |
-| ils/elles | **font** |
-
-**Expressions courantes avec « faire » :**
-
-| Expression | Sens | Exemple |
-|:-----------|:-----|:--------|
-| **faire du sport** | to exercise | Je **fais du sport** chaque matin. |
-| **faire des progrès** | to make progress | Elle **fait des progrès** en français. |
-| **faire attention** | to pay attention | **Fais attention** à tes habitudes. |
-| **faire la différence** | to make a difference | Les petits actes **font la différence**. |
-| **faire confiance** | to trust | Je **fais confiance** au processus. |
-| **faire semblant** | to pretend | Ne **fais pas semblant** — agis vraiment. |
-| **se faire** | to become (gradually) | Ça **se fait** avec le temps. |
+| | masculin | féminin | pluriel |
+|:--|:--------|:--------|:--------|
+| **défini** | le but | la page | les gens |
+| **indéfini** | un livre | une action | des résultats |
 
 **Exemples du chapitre :**
-- Elle **fait du sport** et vote pour l'identité « active ».
-- Chaque habitude **fait la différence** à long terme.
-- Il **fait confiance** au processus de changement.
-- Nous **faisons des progrès** chaque jour.
+- Le but est de devenir **un lecteur**. *(The goal is to become a reader.)*
+- Il y a trois niveaux de changement. *(There are three levels of change.)*
+- Chaque petite action est **un vote**. *(Each small action is a vote.)*
+
+> 💡 **Astuce :** Devant une voyelle, **le** et **la** deviennent **l'** : *l'identité*, *l'action*. C'est plus facile à dire !
 
 ---
 
@@ -115,65 +81,62 @@ Les habitudes ne donnent pas seulement des résultats — elles donnent des <spa
 
 **1. Vrai ou faux ?**
 
-a) Clear dit de commencer par changer ses résultats.
-b) L'identité est au centre des trois cercles.
-c) Chaque action est un vote pour votre identité.
-d) Les habitudes donnent seulement des résultats, pas des preuves.
+a) Il y a trois niveaux de changement.
+b) James Clear propose de commencer par les résultats.
+c) Chaque petite action est un vote pour votre identité.
+d) Le but est de lire un livre, pas de devenir un lecteur.
 
-*Réponses : a) F (l'identité) — b) V — c) V — d) F*
-
----
-
-**2. Conjuguez « faire »**
-
-a) Je _______ du sport tous les matins.
-b) Elle _______ des progrès en français.
-c) Nous _______ confiance au processus.
-d) Ils _______ la différence avec leurs petites habitudes.
-e) Tu _______ attention à ton alimentation.
-
-*Réponses : a) fais — b) fait — c) faisons — d) font — e) fais*
+*Réponses : a) V — b) F — c) V — d) F*
 
 ---
 
-**3. Identité ou résultat ?**
+**2. Complétez avec le bon article (le / la / les / un / une / des)**
 
-Classez ces phrases : **I** (identité) ou **R** (résultat).
+a) _______ but est de devenir un lecteur.
+b) Je veux lire _______ livre ce soir.
+c) Il y a trois _______ (niveaux) de changement.
+d) Chaque action est _______ vote.
 
-a) « Je veux perdre 10 kilos. »
-b) « Je suis une personne active. »
-c) « Je veux parler français couramment. »
-d) « Je suis un apprenant de langues. »
-e) « Je veux économiser 1000 euros. »
-f) « Je suis quelqu'un de discipliné. »
-
-*Réponses : a) R — b) I — c) R — d) I — e) R — f) I*
+*Réponses : a) Le — b) un — c) niveaux (les niveaux) — d) un*
 
 ---
 
-**4. Votre identité**
+**3. Choisissez le bon mot**
 
-Choisissez une identité que vous voulez développer. Écrivez :
+Complétez avec : **identité / preuve / lecteur / victoire**.
 
-a) Mon identité : « Je suis _______ . »
-b) Une action qui vote pour cette identité : « Chaque jour, je _______ . »
-c) La preuve que j'accumule : « À force de _______, je deviens vraiment _______ . »
+a) Le troisième niveau, c'est l'_______.
+b) Une habitude est une _______ de qui vous êtes.
+c) Le but est de devenir un _______.
+d) Une petite _______ montre votre nouvelle identité.
+
+*Réponses : a) identité — b) preuve — c) lecteur — d) victoire*
+
+---
+
+**4. À vous d'écrire**
+
+Complétez la phrase : « Je veux devenir _______. » Puis écrivez une petite action qui le prouve.
+
+*Réponse libre. Exemple : « Je veux devenir un coureur. Chaque matin, je cours dix minutes. »*
 
 ---
 
 ## 📝 Glossaire
 
-- **le cercle** : circle
-- **la salle de sport** : gym
-- **le jogging** : jogging
-- **accumuler** : to accumulate
-- **le changement** : change
+- **l'identité** : l'idée que vous avez de qui vous êtes
+- **un processus** : les actions régulières qui mènent à un résultat
+- **un vote** : une petite action qui soutient une identité
+- **une habitude basée sur l'identité** : une habitude qui vient de qui vous voulez être
+- **la preuve** : ce qui montre qu'une chose est vraie
 
 ---
 
 ## 🔊 Audio
 
 ▶️ [Écouter le chapitre 2 — A1](../audio/a1-chapter-02.mp3)
+
+*Conseil : Pendant l'écoute, notez chaque article (le, la, les, un, une, des). C'est un bon moyen de mémoriser le genre des mots.*
 
 ---
 

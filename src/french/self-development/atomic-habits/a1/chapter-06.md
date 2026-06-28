@@ -1,49 +1,29 @@
-# Chapitre 6 — Loi 3 : Rendez-la facile 🟢 A1
+# Chapitre 6 — La motivation est surestimée ; l'environnement compte souvent plus 🟢 A1
 
-> *« La meilleure action est celle que vous faites réellement, pas celle que vous planifiez. »*
+> *« L'environnement est la main invisible qui façonne le comportement humain. »*
 > — James Clear
 
 ---
 
 ## 📖 Résumé
 
-La troisième loi dit : **rendez votre habitude <span class="gloss" data-def="easy">facile</span>**. <span class="gloss" data-def="less">Moins</span> c'est difficile, plus vous allez le faire.
+Beaucoup de gens pensent que la motivation est la <span class="gloss" data-def="key — the most important thing">clé</span> du succès. James Clear n'est pas d'accord. Pour lui, l'environnement est souvent plus important que la motivation.
 
-### La loi du moindre effort
+Pourquoi ? Parce que nous <span class="gloss" data-def="react — from réagir">réagissons</span> à ce que nous voyons. La <span class="gloss" data-def="sight — the sense of seeing">vue</span> est notre <span class="gloss" data-def="sense — sight, hearing, etc.">sens</span> le plus fort. Un signal visible devient une habitude facile.
 
-Les êtres humains — et tous les animaux — <span class="gloss" data-def="choose">choisissent</span> naturellement le <span class="gloss" data-def="path — way">chemin</span> le plus facile. Ce n'est pas une <span class="gloss" data-def="weakness">faiblesse</span>. C'est la nature.
+Clear raconte une étude célèbre. Dans la cafétéria d'un hôpital, des <span class="gloss" data-def="researchers — people who study things">chercheurs</span> changent la place des <span class="gloss" data-def="drinks, beverages">boissons</span>. Ils ajoutent de l'eau près de la <span class="gloss" data-def="food">nourriture</span>. Ils mettent les sodas plus loin.
 
-Clear dit d'accepter cette réalité et de l'utiliser. Si vous voulez créer une bonne habitude, **<span class="gloss" data-def="reduce — lower">réduisez</span> les frictions**. Frictions = obstacles qui rendent l'habitude difficile.
+Le résultat est <span class="gloss" data-def="surprising">surprenant</span>. Les gens boivent plus d'eau et moins de soda. Personne ne parle. Personne ne donne d'ordre. L'environnement fait le travail.
 
-Exemples de réduction des frictions :
-- Vous voulez faire du sport le matin ? Préparez vos <span class="gloss" data-def="clothes">vêtements</span> la veille.
-- Vous voulez manger <span class="gloss" data-def="healthily">sainement</span> ? <span class="gloss" data-def="cut — chop">Coupez</span> les fruits et <span class="gloss" data-def="vegetables">légumes</span> le dimanche.
-- Vous voulez étudier le français ? Ouvrez le livre avant de <span class="gloss" data-def="to sleep">dormir</span>.
+La leçon est claire. Rendez les bons signaux visibles. Mettez un fruit sur la table. Posez votre guitare au milieu du salon. Laissez un livre sur votre <span class="gloss" data-def="pillow — where you rest your head">oreiller</span>.
 
-Et pour éliminer une mauvaise habitude, **augmentez les frictions** :
-- Trop de télévision ? Débranchez la box après chaque utilisation.
-- Trop de téléphone ? <span class="gloss" data-def="leave">Laissez</span> le téléphone dans une autre <span class="gloss" data-def="room">pièce</span>.
+Au contraire, les mauvais signaux doivent disparaître. <span class="gloss" data-def="hide — from cacher">Cachez</span> les biscuits dans un <span class="gloss" data-def="cupboard, closet">placard</span>. Si vous ne voyez pas la <span class="gloss" data-def="temptation — desire for something bad">tentation</span>, vous y pensez moins.
 
-### La règle des deux minutes
+Clear ajoute une idée importante. Une habitude n'est pas liée à un seul objet. Elle est liée à tout un contexte. Le <span class="gloss" data-def="sofa, couch">canapé</span>, la télévision et le téléphone forment ensemble un signal.
 
-Clear propose une <span class="gloss" data-def="rule">règle</span> simple : **commencez par deux minutes seulement**.
+Il propose une règle : « un espace, un usage ». Travaillez à un bureau. Mangez à une table. Dormez dans un lit. Chaque lieu garde une fonction.
 
-Vous ne lisez pas 30 pages — vous lisez **une page**.
-Vous ne faites pas 45 minutes de sport — vous mettez **vos chaussures**.
-Vous n'étudiez pas une heure — vous ouvrez **votre <span class="gloss" data-def="notebook — workbook">cahier</span>**.
-
-L'idée : il est très difficile de ne pas commencer quelque chose qui ne prend que deux minutes. Et souvent, une fois que vous commencez, vous continuez.
-
-### Automatiser les bonnes décisions
-
-Clear parle aussi de l'**automatisation** — utiliser la technologie pour faciliter les bonnes habitudes.
-
-Exemples :
-- Abonnez-vous à un service de légumes livrés chez vous.
-- Programmez votre cafetière pour qu'elle soit prête à 7h.
-- Utilisez une application pour bloquer les réseaux sociaux pendant le travail.
-
-**Le message principal :** Ne comptez pas sur la motivation. Réduisez les frictions. Commencez par deux minutes. Facilitez le bon comportement.
+Le message principal est simple. Ne comptez pas seulement sur la <span class="gloss" data-def="willpower — the strength to control yourself">volonté</span>. Organisez votre environnement. Les bons signaux créent les bonnes habitudes.
 
 ---
 
@@ -51,18 +31,21 @@ Exemples :
 
 | Mot | Signification |
 |:----|:-------------|
-| **la friction** | friction, obstacle |
-| **réduire** | to reduce |
-| **augmenter** | to increase |
-| **sainement** | healthily |
-| **couper** | to cut |
-| **débrancher** | to unplug |
-| **le cahier** | notebook, exercise book |
-| **l'automatisation** (f.) | automation |
-| **s'abonner à** | to subscribe to |
-| **programmer** | to program, to schedule |
-| **bloquer** | to block |
-| **le comportement** | behavior |
+| **la clé** | key |
+| **réagir** | to react |
+| **la vue** | sight |
+| **le sens** | sense |
+| **le chercheur** | researcher |
+| **la boisson** | drink, beverage |
+| **la nourriture** | food |
+| **surprenant / surprenante** | surprising |
+| **l'oreiller** (m.) | pillow |
+| **cacher** | to hide |
+| **le placard** | cupboard, closet |
+| **la tentation** | temptation |
+| **le canapé** | sofa, couch |
+| **l'usage** (m.) | use |
+| **la volonté** | willpower |
 
 ---
 
@@ -70,38 +53,29 @@ Exemples :
 
 | Expression | Signification |
 |:-----------|:-------------|
-| **« le chemin de moindre résistance »** | the path of least resistance |
-| **« mettre le pied à l'étrier »** | to get started (lit. to put your foot in the stirrup) |
-| **« faire le premier pas »** | to take the first step |
-| **« en un rien de temps »** | in no time at all |
-| **« s'y mettre »** | to get to work, to get started |
+| **« être d'accord »** | to agree |
+| **« au contraire »** | on the contrary |
+| **« compter sur »** | to rely on |
+| **« plus loin »** | farther away |
+| **« faire le travail »** | to do the job |
 
 ---
 
-## 🧠 Grammaire — Les expressions de quantité
+## 🧠 Grammaire — Les articles (définis et indéfinis)
 
-Les expressions de quantité indiquent **combien** de quelque chose.
+En français, presque chaque nom a un **article** devant lui. Il change avec le genre (masculin/féminin) et le nombre (singulier/pluriel).
 
-**Avec un nom :**
-
-| Expression | Sens | Exemple |
-|:-----------|:-----|:--------|
-| **beaucoup de** | a lot of | J'ai **beaucoup de** frictions dans ma routine. |
-| **peu de** | little, few | Il y a **peu de** temps nécessaire. |
-| **assez de** | enough | Vous avez **assez de** motivation. |
-| **trop de** | too much/many | J'ai **trop d'**obstacles. |
-| **pas assez de** | not enough | Il n'a **pas assez de** discipline. |
-| **un peu de** | a little | Commencez avec **un peu de** patience. |
-| **la plupart de** | most of | **La plupart des** habitudes deviennent automatiques. |
-
-> 💡 **Règle importante :** Après ces expressions, utilisez toujours **de** (jamais **des** ou **du** ou **de la**) :
-> ✅ beaucoup **de** travail / ✅ peu **de** temps / ❌ beaucoup **du** travail
+| | Masculin | Féminin | Pluriel |
+|:----|:---------|:--------|:--------|
+| **Défini** (le, la, les) | le fruit | la table | les sodas |
+| **Indéfini** (un, une, des) | un bureau | une règle | des chercheurs |
 
 **Exemples du chapitre :**
-- Vous avez **trop de** frictions dans votre routine.
-- Il faut **peu de** temps pour commencer.
-- **La plupart des** personnes ont **beaucoup de** bonnes intentions mais **peu de** bons systèmes.
-- Avec **un peu de** préparation, c'est **beaucoup** plus facile.
+- Mettez **un** fruit sur **la** table. *(Put a fruit on the table.)*
+- **Les** gens boivent plus d'eau. *(People drink more water.)*
+- Clear raconte **une** étude célèbre. *(Clear tells a famous study.)*
+
+> 💡 **Astuce :** Devant une voyelle, **le** et **la** deviennent **l'** : *l'eau*, *l'environnement*, *l'oreiller*. Cela rend la prononciation plus douce.
 
 ---
 
@@ -109,65 +83,64 @@ Les expressions de quantité indiquent **combien** de quelque chose.
 
 **1. Vrai ou faux ?**
 
-a) La loi du moindre effort dit qu'il faut être paresseux.
-b) La règle des deux minutes dit de commencer par une très petite action.
-c) Pour éliminer une mauvaise habitude, on doit réduire les frictions.
-d) L'automatisation peut aider à créer de bonnes habitudes.
+a) Pour Clear, la motivation est toujours plus importante que l'environnement.
+b) Dans l'étude, les chercheurs changent la place des boissons.
+c) Il faut cacher les bons signaux et montrer les mauvais.
+d) La règle « un espace, un usage » donne une fonction à chaque lieu.
 
-*Réponses : a) F (accepter la nature humaine et l'utiliser) — b) V — c) F (augmenter) — d) V*
-
----
-
-**2. Réduire ou augmenter les frictions ?**
-
-Pour chaque habitude, dites si vous devez **réduire (R)** ou **augmenter (A)** les frictions.
-
-a) Vous voulez lire plus. → ___
-b) Vous voulez moins regarder la télévision. → ___
-c) Vous voulez faire du sport le matin. → ___
-d) Vous voulez moins manger de sucreries. → ___
-
-*Réponses : a) R — b) A — c) R — d) A*
+*Réponses : a) F — b) V — c) F — d) V*
 
 ---
 
-**3. Complétez avec la bonne expression de quantité**
+**2. Complétez avec le bon article**
 
-a) J'ai _______ (too many) mauvaises habitudes à changer.
-b) Il faut _______ (a little) de préparation pour réussir.
-c) _______ (most of) les habitudes deviennent automatiques avec le temps.
-d) Il n'y a _______ (not enough) de frictions dans ma mauvaise habitude.
+Choisissez : **le / la / les / un / une / des**.
 
-*Réponses : a) trop de — b) un peu de — c) La plupart des — d) pas assez de*
+a) Posez _______ fruit sur la table. (un seul, nouveau)
+b) _______ gens boivent plus d'eau. (en général)
+c) Cachez les biscuits dans _______ placard.
+d) _______ vue est notre sens le plus fort.
+
+*Réponses : a) un — b) Les — c) un — d) La*
 
 ---
 
-**4. La règle des deux minutes**
+**3. Choisissez le bon mot**
 
-Transformez ces grandes intentions en actions de deux minutes.
+Complétez avec : **volonté / oreiller / cacher / surprenant**.
 
-a) Lire 30 pages par jour → Je vais _______.
-b) Faire 45 minutes de sport → Je vais _______.
-c) Étudier le français 1 heure → Je vais _______.
-d) Méditer 20 minutes → Je vais _______.
+a) Ne comptez pas seulement sur la _______.
+b) Laissez un livre sur votre _______.
+c) Le résultat de l'étude est _______.
+d) Il faut _______ les mauvais signaux.
 
-*Exemples : a) lire une page — b) mettre mes chaussures de sport — c) ouvrir mon livre de français — d) m'asseoir en silence 2 minutes*
+*Réponses : a) volonté — b) oreiller — c) surprenant — d) cacher*
+
+---
+
+**4. À vous d'écrire**
+
+Donnez un exemple pour rendre une bonne habitude visible chez vous. Modèle : « Je vais mettre _______ sur _______. »
+
+*Réponse libre. Exemple : « Je vais mettre mes chaussures de sport près de la porte. »*
 
 ---
 
 ## 📝 Glossaire
 
-- **la motivation** : motivation
-- **l'obstacle** (m.) : obstacle
-- **la technologie** : technology
-- **l'application** (f.) : app (application)
-- **les réseaux sociaux** : social media
+- **l'environnement** : l'espace et les objets autour de nous
+- **un signal visible** : une chose qu'on voit et qui lance une habitude
+- **« un espace, un usage »** : donner une seule fonction à chaque lieu
+- **la volonté** : la force intérieure pour se contrôler
+- **la tentation** : le désir de faire une chose mauvaise
 
 ---
 
 ## 🔊 Audio
 
 ▶️ [Écouter le chapitre 6 — A1](../audio/a1-chapter-06.mp3)
+
+*Conseil : Écoutez l'audio et faites attention aux articles. Notez chaque « le / la / un / une » que vous entendez.*
 
 ---
 

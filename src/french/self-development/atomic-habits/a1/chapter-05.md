@@ -1,41 +1,33 @@
-# Chapitre 5 — Loi 2 : Rendez-la attrayante 🟢 A1
+# Chapitre 5 — La meilleure façon de prendre une nouvelle habitude 🟢 A1
 
-> *« Plus une opportunité est attrayante, plus nous avons de chances de former une habitude. »*
+> *« Les gens qui font un plan précis sur quand et où agir ont plus de succès. »*
 > — James Clear
 
 ---
 
 ## 📖 Résumé
 
-La deuxième loi dit : **rendez votre habitude <span class="gloss" data-def="appealing — attractive">attrayante</span>**. Plus vous voulez faire quelque chose, plus c'est facile de créer une habitude.
+Comment prendre une nouvelle habitude facilement ? James Clear donne une réponse précise. Le secret est d'être <span class="gloss" data-def="specific — clear and exact">spécifique</span>.
 
-### Le rôle de la dopamine
+Beaucoup de gens disent : « Je vais faire plus de sport. » Mais cette phrase est trop <span class="gloss" data-def="vague — not clear, unclear">vague</span>. Quand ? Où ? Comment ? Sans réponse, l'habitude ne vient pas.
 
-Le <span class="gloss" data-def="brain">cerveau</span> <span class="gloss" data-def="releases — sets free">libère</span> de la **dopamine** — une substance chimique du <span class="gloss" data-def="pleasure">plaisir</span> — quand il anticipe une récompense. C'est pour ça que vous <span class="gloss" data-def="like — love">aimez</span> penser aux <span class="gloss" data-def="holidays — vacation">vacances</span> avant de partir. L'anticipation est souvent plus <span class="gloss" data-def="pleasant — enjoyable">agréable</span> que l'expérience elle-même !
+Clear propose une méthode : l'<span class="gloss" data-def="implementation intention — a precise plan of when and where">intention de mise en œuvre</span>. Vous complétez une phrase simple. « Je vais faire [action] à [heure] dans [lieu]. »
 
-La dopamine joue un rôle crucial dans la création des habitudes. Si une activité libère de la dopamine (ou si votre cerveau l'associe à de la dopamine), vous voulez répéter cette activité.
+Par exemple : « Je vais marcher trente minutes à 7 heures dans le parc. » Maintenant, le plan est clair. L'heure et le <span class="gloss" data-def="place, location">lieu</span> deviennent des <span class="gloss" data-def="cues, signals — things that trigger a habit">signaux</span>. Ces signaux vous <span class="gloss" data-def="remind — from rappeler">rappellent</span> votre habitude.
 
-### Le regroupement de tentations
+Pourquoi ça marche ? Parce que votre cerveau aime les instructions précises. Une question claire reçoit une réponse claire.
 
-Clear propose une technique appelée **regroupement de tentations**. L'idée : combinez une habitude que vous **<span class="gloss" data-def="must — have to">devez</span>** faire avec une habitude que vous **voulez** faire.
+Clear donne une deuxième astuce : l'<span class="gloss" data-def="stacking — piling new habits onto old ones">empilement</span> d'habitudes. L'idée vient de l'effet Diderot. Une action en appelle souvent une autre.
 
-Formule : **Après [HABITUDE QUE JE DOIS FAIRE], je vais [HABITUDE QUE JE VEUX FAIRE].**
+La <span class="gloss" data-def="formula — a fixed pattern to follow">formule</span> est facile. « Après [habitude actuelle], je vais [nouvelle habitude]. »
 
-Exemples :
-- « Quand je fais du <span class="gloss" data-def="bike — cycling">vélo</span> de salle, je regarde ma série préférée. »
-- « Quand j'étudie le français, j'écoute ma musique préférée. »
-- « Après avoir fait du sport, je prends un délicieux café. »
+Par exemple : « Après mon café du matin, je vais <span class="gloss" data-def="to meditate">méditer</span> une minute. » Votre <span class="gloss" data-def="old — from vieux/vieille">vieille</span> habitude devient le signal de la nouvelle.
 
-### La culture et les habitudes
+Vous utilisez donc une habitude forte pour construire une habitude <span class="gloss" data-def="weak">faible</span>. C'est intelligent et naturel.
 
-Clear dit que nous imitons les habitudes de trois groupes de personnes :
-1. **Les <span class="gloss" data-def="close ones — relatives and friends">proches</span>** (la famille, les amis)
-2. **La majorité** (ce que tout le monde fait)
-3. **Les personnes admirées** (les célébrités, les experts)
+Alors, <span class="gloss" data-def="ask yourself — from se poser une question">posez-vous</span> les bonnes questions. Quand ? Où ? Après quelle habitude ? Répondez avec précision.
 
-Si vous voulez créer une bonne habitude, <span class="gloss" data-def="join">rejoignez</span> un groupe où cette habitude est **normale**. Voulez-vous lire <span class="gloss" data-def="more">davantage</span> ? Rejoignez un club de <span class="gloss" data-def="reading">lecture</span>. Voulez-vous faire du sport ? <span class="gloss" data-def="find">Trouvez</span> un ami qui aime le sport.
-
-**Le message principal :** Ne <span class="gloss" data-def="fight — struggle">luttez</span> pas contre vos désirs. Utilisez-les. Rendez les bonnes habitudes attrayantes.
+Le message est simple. Ne restez pas vague. Choisissez un moment et un lieu. <span class="gloss" data-def="attach, link — from attacher">Attachez</span> la nouvelle habitude à une ancienne. Avec un plan clair, votre habitude va <span class="gloss" data-def="to last">durer</span>.
 
 ---
 
@@ -43,18 +35,21 @@ Si vous voulez créer une bonne habitude, <span class="gloss" data-def="join">re
 
 | Mot | Signification |
 |:----|:-------------|
-| **attrayant / attrayante** | attractive, appealing |
-| **la dopamine** | dopamine |
-| **libérer** | to release |
-| **anticiper** | to anticipate |
-| **l'anticipation** (f.) | anticipation |
-| **agréable** | pleasant, enjoyable |
-| **la tentation** | temptation |
-| **combiner** | to combine |
-| **imiter** | to imitate, to copy |
-| **la majorité** | majority |
-| **admirer** | to admire |
-| **davantage** | more (= plus) |
+| **précis / précise** | precise, exact |
+| **vague** | vague, unclear |
+| **l'intention de mise en œuvre** (f.) | implementation intention |
+| **le lieu** | place, location |
+| **l'heure** (f.) | hour, time |
+| **le signal / les signaux** | cue, signal |
+| **rappeler** | to remind |
+| **l'empilement** (m.) | stacking |
+| **la formule** | formula, set phrase |
+| **méditer** | to meditate |
+| **vieux / vieille** | old |
+| **faible** | weak |
+| **se poser une question** | to ask oneself |
+| **attacher** | to attach, to link |
+| **durer** | to last |
 
 ---
 
@@ -62,49 +57,32 @@ Si vous voulez créer une bonne habitude, <span class="gloss" data-def="join">re
 
 | Expression | Signification |
 |:-----------|:-------------|
-| **« avoir envie de »** | to feel like, to want to |
-| **« lutter contre »** | to fight against |
-| **« rejoindre un groupe »** | to join a group |
-| **« faire d'une pierre deux coups »** | to kill two birds with one stone |
-| **« céder à la tentation »** | to give in to temptation |
+| **« ça marche »** | it works |
+| **« avec précision »** | precisely |
+| **« le matin »** | in the morning |
+| **« une bonne question »** | a good question |
+| **« petit à petit »** | little by little |
 
 ---
 
-## 🧠 Grammaire — Le conditionnel présent
+## 🧠 Grammaire — Les questions (mots interrogatifs)
 
-Le **conditionnel présent** exprime :
-- Une action hypothétique : « Si j'avais le temps, je lirais. »
-- Une demande polie : « Je voudrais un café. »
-- Un désir ou un rêve : « Je voudrais parler français couramment. »
+Pour poser une question, le français utilise souvent un **mot interrogatif** au début de la phrase.
 
-**Formation :** radical du futur simple + terminaisons de l'imparfait
-
-| Pronom | Aimer | Faire | Être |
-|:-------|:------|:------|:-----|
-| je | aimer**ais** | fer**ais** | ser**ais** |
-| tu | aimer**ais** | fer**ais** | ser**ais** |
-| il/elle | aimer**ait** | fer**ait** | ser**ait** |
-| nous | aimer**ions** | fer**ions** | ser**ions** |
-| vous | aimer**iez** | fer**iez** | ser**iez** |
-| ils/elles | aimer**aient** | fer**aient** | ser**aient** |
-
-**Utilisation avec « si » :**
-
-| Si + présent | → | Futur simple |
-|:-------------|:--|:-------------|
-| Si tu fais du sport, | | tu te sentiras mieux. |
-
-| Si + imparfait | → | Conditionnel présent |
-|:---------------|:--|:--------------------|
-| Si tu faisais du sport, | | tu te sentirais mieux. |
+| Mot | Sens | Exemple |
+|:----|:-----|:--------|
+| **Quand ?** | When? | Quand allez-vous marcher ? |
+| **Où ?** | Where? | Où faites-vous du sport ? |
+| **Comment ?** | How? | Comment ça marche ? |
+| **Pourquoi ?** | Why? | Pourquoi cette méthode est facile ? |
+| **Combien ?** | How much/many? | Combien de minutes ? |
 
 **Exemples du chapitre :**
-- « Je **voudrais** créer une bonne habitude. »
-- « Si l'activité était attrayante, je la **ferais** plus souvent. »
-- « Nous **aimerions** rejoindre un club de lecture. »
-- « Si tu combinais les deux habitudes, ce **serait** plus facile. »
+- **Quand ? Où ? Comment ?** *(When? Where? How?)*
+- **Pourquoi** ça marche ? *(Why does it work?)*
+- **Après quelle** habitude ? *(After which habit?)*
 
-> 💡 **Astuce :** Les verbes **vouloir → voudrais**, **pouvoir → pourrais**, **devoir → devrais** sont très utiles au conditionnel. Mémorisez-les !
+> 💡 **Astuce :** À l'oral, vous pouvez aussi poser une question avec l'intonation. Montez la voix à la fin : « Tu fais du sport ? » C'est très simple et très courant.
 
 ---
 
@@ -112,59 +90,64 @@ Le **conditionnel présent** exprime :
 
 **1. Vrai ou faux ?**
 
-a) La dopamine est libérée seulement après la récompense, pas avant.
-b) Le regroupement de tentations combine devoir et vouloir.
-c) Nous imitons les habitudes des personnes que nous admirons.
-d) Pour changer une habitude, il faut lutter contre ses désirs.
+a) « Je vais faire plus de sport » est une phrase précise.
+b) L'intention de mise en œuvre donne une action, une heure et un lieu.
+c) L'empilement d'habitudes attache une nouvelle habitude à une ancienne.
+d) Le cerveau préfère les instructions vagues.
 
-*Réponses : a) F (aussi avant — anticipation) — b) V — c) V — d) F (les utiliser)*
-
----
-
-**2. Créez votre regroupement de tentations**
-
-Complétez avec vos propres idées.
-
-a) « Quand je _______ (devoir), je vais _______ (vouloir). »
-b) « Après avoir _______, je vais _______ comme récompense. »
-
-*Modèle : a) « Quand je fais du sport, je vais écouter mon podcast préféré. »*
+*Réponses : a) F — b) V — c) V — d) F*
 
 ---
 
-**3. Conjuguez au conditionnel présent**
+**2. Choisissez le bon mot interrogatif**
 
-a) Je _______ (vouloir) parler français comme un natif.
-b) Si tu rejoignais un club, tu _______ (faire) plus de progrès.
-c) Elle _______ (aimer) avoir une routine matinale stable.
-d) Nous _______ (pouvoir) combiner nos habitudes.
-e) Si l'activité était agréable, ils _______ (répéter) plus facilement.
+Complétez avec : **Quand / Où / Comment / Pourquoi**.
 
-*Réponses : a) voudrais — b) ferais — c) aimerait — d) pourrions — e) répéteraient*
+a) _______ allez-vous faire cette habitude ? — À 7 heures.
+b) _______ faites-vous du sport ? — Dans le parc.
+c) _______ ça marche ? — Parce que le plan est clair.
+d) _______ commencer ? — Avec une petite action.
+
+*Réponses : a) Quand — b) Où — c) Pourquoi — d) Comment*
 
 ---
 
-**4. Réfléchissez**
+**3. Reliez les mots à leur sens**
 
-Quelle habitude avez-vous du mal à maintenir ? Comment pourriez-vous la rendre plus attrayante avec la technique du regroupement ? Décrivez en 3 phrases avec le conditionnel.
+a) le lieu — b) durer — c) faible — d) rappeler
 
-*Modèle : « J'aurais du mal à étudier le soir. Si je regardais une série en français en même temps, ce serait plus agréable. Je pourrais ainsi apprendre et me divertir. »*
+1. continuer longtemps
+2. l'endroit où on est
+3. dire à quelqu'un de ne pas oublier
+4. pas fort
+
+*Réponses : a-2 — b-1 — c-4 — d-3*
+
+---
+
+**4. À vous d'écrire**
+
+Écrivez une intention de mise en œuvre. Modèle : « Je vais _______ à _______ dans _______. »
+
+*Réponse libre. Exemple : « Je vais lire dix pages à 21 heures dans mon lit. »*
 
 ---
 
 ## 📝 Glossaire
 
-- **la substance chimique** : chemical substance
-- **le plaisir** : pleasure
-- **crucial / cruciale** : crucial, very important
-- **le club** : club (social group)
-- **se divertir** : to entertain oneself
+- **l'intention de mise en œuvre** : un plan précis avec une action, une heure et un lieu
+- **l'empilement d'habitudes** : attacher une nouvelle habitude après une habitude existante
+- **un signal** : une chose qui annonce le début d'une habitude
+- **spécifique** : clair et exact, pas vague
+- **l'effet Diderot** : quand une action en appelle souvent une autre
 
 ---
 
 ## 🔊 Audio
 
 ▶️ [Écouter le chapitre 5 — A1](../audio/a1-chapter-05.mp3)
+
+*Conseil : Écoutez l'audio et notez chaque question. Répétez les mots « Quand ? Où ? Comment ? » pour les mémoriser.*
 
 ---
 

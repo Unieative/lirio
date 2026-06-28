@@ -1,50 +1,23 @@
-# Chapitre 3 — Les quatre lois du changement 🟢 A1
+# Chapitre 3 — Comment construire de meilleures habitudes en quatre étapes simples 🟢 A1
 
-> *« Un comportement est une habitude seulement s'il est automatique. »*
+> *« Toutes les habitudes suivent la même boucle : signal, désir, réponse, récompense. »*
 > — James Clear
 
 ---
 
 ## 📖 Résumé
 
-Comment <span class="gloss" data-def="works — operates">fonctionne</span> une habitude ? James Clear explique que chaque habitude passe par quatre <span class="gloss" data-def="steps — stages">étapes</span>.
+Dans ce chapitre, James Clear explique comment une habitude <span class="gloss" data-def="works — functions, from fonctionner">fonctionne</span>. Une habitude suit toujours une <span class="gloss" data-def="loop — a cycle that repeats">boucle</span> de quatre étapes.
 
-### La boucle de l'habitude
+La première étape est le <span class="gloss" data-def="cue — the trigger that starts a habit">signal</span>. C'est une information. Par exemple, votre téléphone <span class="gloss" data-def="rings — makes a sound, from sonner">sonne</span>. La deuxième étape est le <span class="gloss" data-def="craving — a strong wish to act">désir</span>. Vous voulez voir le message. La troisième étape est la <span class="gloss" data-def="response — the action you take">réponse</span>. Vous prenez le téléphone. La quatrième étape est la <span class="gloss" data-def="reward — what you get at the end">récompense</span>. Vous lisez le message et vous êtes content.
 
-```
-1. SIGNAL  →  2. ENVIE  →  3. ROUTINE  →  4. RÉCOMPENSE
-     ↑                                           |
-     └───────────────────────────────────────────┘
-```
+Cette boucle fonctionne pour chaque habitude. Quand vous <span class="gloss" data-def="finish — complete, from finir">finissez</span> la boucle, le cerveau <span class="gloss" data-def="learns — picks up, from apprendre">apprend</span>. La prochaine fois, il <span class="gloss" data-def="reacts — responds, from réagir">réagit</span> plus vite.
 
-**Le signal** <span class="gloss" data-def="triggers — sets off">déclenche</span> l'habitude. Exemple : vous <span class="gloss" data-def="hear">entendez</span> une notification sur votre téléphone.
+À partir de cette boucle, James Clear <span class="gloss" data-def="builds — constructs, from construire">construit</span> les quatre lois du changement. Première loi : rendez l'habitude <span class="gloss" data-def="obvious — easy to see">évidente</span>. Deuxième loi : rendez-la attrayante. Troisième loi : rendez-la facile. Quatrième loi : rendez-la satisfaisante.
 
-**L'<span class="gloss" data-def="craving — strong desire">envie</span>** est la motivation. Vous voulez <span class="gloss" data-def="to look at — to watch">regarder</span> le message.
+Pour créer une bonne habitude, vous suivez les quatre lois. Pour <span class="gloss" data-def="break — stop, from briser">briser</span> une mauvaise habitude, vous faites le contraire.
 
-**La routine** est l'action. Vous <span class="gloss" data-def="take — grab">prenez</span> votre téléphone et regardez.
-
-**La <span class="gloss" data-def="reward">récompense</span>** est le résultat satisfaisant. Vous avez vu le message. Vous êtes satisfait(e).
-
-Cette <span class="gloss" data-def="loop — cycle">boucle</span> se <span class="gloss" data-def="repeats">répète</span> encore et encore. Avec le temps, elle <span class="gloss" data-def="becomes">devient</span> **automatique**.
-
-### Les quatre lois de Clear
-
-Pour créer une bonne habitude, Clear propose quatre lois :
-
-| Loi | Pour créer une bonne habitude | Pour éliminer une mauvaise habitude |
-|:---:|:------------------------------|:------------------------------------|
-| 1 | **Rendez-la évidente** | Rendez-la invisible |
-| 2 | **Rendez-la attrayante** | Rendez-la peu attrayante |
-| 3 | **Rendez-la facile** | Rendez-la difficile |
-| 4 | **Rendez-la satisfaisante** | Rendez-la insatisfaisante |
-
-Ces quatre lois correspondent aux quatre étapes de la boucle :
-- Signal → Évidente
-- Envie → Attrayante
-- Routine → Facile
-- Récompense → Satisfaisante
-
-**Le message principal :** Vous n'avez pas <span class="gloss" data-def="need">besoin</span> de <span class="gloss" data-def="willpower">volonté</span>. Vous avez besoin d'un bon système basé sur les quatre lois.
+Ce chapitre est très important. Il donne le plan de tout le livre. Maintenant, vous comprenez la boucle. Demain, vous allez observer vos habitudes. Vous allez trouver le signal, le désir, la réponse et la récompense.
 
 ---
 
@@ -52,18 +25,21 @@ Ces quatre lois correspondent aux quatre étapes de la boucle :
 
 | Mot | Signification |
 |:----|:-------------|
+| **fonctionner** | to work, to function |
 | **la boucle** | loop |
-| **déclencher** | to trigger, to set off |
-| **l'envie** (f.) | desire, craving |
-| **la routine** | routine, the action itself |
+| **le signal** | cue, signal |
+| **sonner** | to ring |
+| **le désir** | craving, desire |
+| **la réponse** | response, answer |
 | **la récompense** | reward |
-| **automatique** | automatic |
-| **évident / évidente** | obvious, evident |
-| **attrayant / attrayante** | attractive, appealing |
+| **finir** | to finish |
+| **apprendre** | to learn |
+| **réagir** | to react |
+| **construire** | to build |
+| **évident / évidente** | obvious |
+| **briser** | to break |
+| **la loi** | law |
 | **satisfaisant / satisfaisante** | satisfying |
-| **la volonté** | willpower |
-| **éliminer** | to eliminate |
-| **correspondre à** | to correspond to |
 
 ---
 
@@ -71,121 +47,93 @@ Ces quatre lois correspondent aux quatre étapes de la boucle :
 
 | Expression | Signification |
 |:-----------|:-------------|
-| **« encore et encore »** | again and again |
-| **« avec le temps »** | with time, over time |
-| **« sans effort »** | effortlessly, without effort |
-| **« avoir envie de »** | to feel like doing, to want to |
-| **« mettre en place »** | to set up, to put in place |
+| **« à partir de »** | starting from |
+| **« la prochaine fois »** | next time |
+| **« faire le contraire »** | to do the opposite |
+| **« tout le livre »** | the whole book |
+| **« plus vite »** | faster |
 
 ---
 
-## 🧠 Grammaire — Les connecteurs logiques
+## 🧠 Grammaire — Le présent des verbes en *-ir* et *-re*
 
-Les connecteurs logiques relient les idées. Ils montrent des relations entre les phrases.
+À côté des verbes en **-er**, il y a les verbes en **-ir** (finir) et en **-re** (apprendre, comprendre). Leurs terminaisons sont différentes.
 
-**Pour ajouter une idée :**
-
-| Connecteur | Sens | Exemple |
-|:-----------|:-----|:--------|
-| **et** | and | Il y a un signal **et** une récompense. |
-| **aussi** | also | L'envie est **aussi** importante. |
-| **de plus** | furthermore | **De plus**, la routine doit être facile. |
-| **en plus** | in addition | **En plus**, la récompense renforce l'habitude. |
-
-**Pour exprimer une opposition :**
-
-| Connecteur | Sens | Exemple |
-|:-----------|:-----|:--------|
-| **mais** | but | C'est simple **mais** efficace. |
-| **cependant** | however | **Cependant**, ça prend du temps. |
-| **pourtant** | yet, still | **Pourtant**, les résultats arrivent. |
-
-**Pour exprimer une cause :**
-
-| Connecteur | Sens | Exemple |
-|:-----------|:-----|:--------|
-| **parce que** | because | Elle réussit **parce qu'**elle a un système. |
-| **car** | for, because | Il progresse **car** il répète chaque jour. |
-| **grâce à** | thanks to | **Grâce à** ses habitudes, il a changé. |
-
-**Pour exprimer une conséquence :**
-
-| Connecteur | Sens | Exemple |
-|:-----------|:-----|:--------|
-| **donc** | so, therefore | Il répète **donc** l'habitude. |
-| **alors** | then, so | La boucle se ferme, **alors** l'habitude grandit. |
-| **ainsi** | thus | **Ainsi**, le système fonctionne. |
+| Pronom | finir (-ir) | apprendre (-re) |
+|:-------|:------------|:----------------|
+| je | finis | apprends |
+| tu | finis | apprends |
+| il / elle / on | finit | apprend |
+| nous | finissons | apprenons |
+| vous | finissez | apprenez |
+| ils / elles | finissent | apprennent |
 
 **Exemples du chapitre :**
-- Le signal déclenche l'envie, **donc** la routine commence.
-- **Grâce à** la récompense, l'habitude se renforce.
-- C'est simple, **mais** très puissant.
-- **Parce que** la boucle se répète, l'habitude devient automatique.
+- Quand vous **finissez** la boucle, le cerveau apprend. *(When you finish the loop, the brain learns.)*
+- Le cerveau **apprend** vite. *(The brain learns fast.)*
+- Une habitude **suit** une boucle. *(A habit follows a loop.)*
+
+> 💡 **Astuce :** Beaucoup de verbes en -ir ajoutent **-iss-** au pluriel : *nous finissons*, *ils finissent*. Écoutez ce son, il revient souvent !
 
 ---
 
 ## ✍️ Exercices
 
-**1. Reconstituez la boucle**
+**1. Vrai ou faux ?**
 
-Mettez les étapes dans le bon ordre.
+a) Une habitude suit une boucle de quatre étapes.
+b) La première étape est la récompense.
+c) Pour briser une mauvaise habitude, on fait le contraire des quatre lois.
+d) Le cerveau apprend quand la boucle est finie.
 
-a) Récompense — b) Signal — c) Routine — d) Envie
-
-*Réponse : b → d → c → a*
-
----
-
-**2. Associez chaque loi à son étape**
-
-| Loi | Étape |
-|:----|:------|
-| Rendez-la évidente | Envie |
-| Rendez-la attrayante | Récompense |
-| Rendez-la facile | Signal |
-| Rendez-la satisfaisante | Routine |
-
-*Réponses : Évidente → Signal / Attrayante → Envie / Facile → Routine / Satisfaisante → Récompense*
+*Réponses : a) V — b) F — c) V — d) V*
 
 ---
 
-**3. Choisissez le bon connecteur**
+**2. Conjuguez au présent (verbes en -ir / -re)**
 
-a) La récompense renforce l'habitude _______ la boucle se répète. (consequence)
-b) Il a un système, _______ il n'a pas besoin de volonté. (consequence)
-c) C'est difficile au début, _______ ça devient facile. (opposition)
-d) _______ ses habitudes, il a réussi. (cause positive)
+a) Je _______ (finir) la boucle.
+b) Le cerveau _______ (apprendre) vite.
+c) Nous _______ (choisir) une bonne habitude.
+d) Tu _______ (comprendre) le plan.
 
-*Réponses : a) donc — b) donc / alors — c) mais — d) Grâce à*
+*Réponses : a) finis — b) apprend — c) choisissons — d) comprends*
 
 ---
 
-**4. Analysez une habitude**
+**3. Remettez la boucle dans l'ordre**
 
-Pensez à une habitude que vous avez (bonne ou mauvaise). Décrivez les quatre étapes.
+Mots : **récompense / signal / réponse / désir**
 
-a) **Signal :** Quand _______, je...
-b) **Envie :** J'ai envie de...
-c) **Routine :** Je...
-d) **Récompense :** Le résultat satisfaisant est...
+1) _______  2) _______  3) _______  4) _______
 
-*Exemple : a) Quand je m'assieds à mon bureau, je... b) J'ai envie de vérifier mes messages. c) Je prends mon téléphone. d) Je suis informé(e).*
+*Réponses : 1) signal — 2) désir — 3) réponse — 4) récompense*
+
+---
+
+**4. À vous d'écrire**
+
+Décrivez une de vos habitudes avec les quatre étapes (signal, désir, réponse, récompense).
+
+*Réponse libre. Exemple : « Signal : il est 7 h. Désir : je veux un café. Réponse : je prépare un café. Récompense : je suis réveillé. »*
 
 ---
 
 ## 📝 Glossaire
 
-- **le comportement** : behavior
-- **automatique** : automatic, without thinking
-- **renforcer** : to reinforce, to strengthen
-- **le système** : system
-- **la volonté** : willpower, will
+- **la boucle de l'habitude** : les quatre étapes qui se répètent
+- **le signal** : l'information qui déclenche l'habitude
+- **le désir** : l'envie d'agir pour avoir la récompense
+- **la réponse** : l'action que vous faites
+- **les quatre lois** : rendre l'habitude évidente, attrayante, facile et satisfaisante
 
 ---
 
 ## 🔊 Audio
 
 ▶️ [Écouter le chapitre 3 — A1](../audio/a1-chapter-03.mp3)
+
+*Conseil : Répétez les quatre étapes de la boucle à voix haute, dans l'ordre. C'est la base de tout le livre.*
 
 ---
 

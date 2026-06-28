@@ -10,6 +10,15 @@ Lirio teaches French by retelling great books as **graded summaries**. The same 
 
 **Important:** the Native level is *not* the original text. It is a dense summary written in authentic native French. It is the final training step before the learner picks up the actual book.
 
+### Chapters must follow the original book
+
+**A book's chapter breakdown must mirror the real book's chapters, one-to-one.** If the source book has 20 chapters, the Lirio version has 20 chapters — same order, same scope per chapter, titles faithful to the original (translated into French). Do **not** condense several source chapters into one summary unit or invent a thematic grouping that the book doesn't have.
+
+- Each Lirio chapter summarizes exactly **one** chapter of the source book.
+- Keep the book's own part/section groupings (e.g. *Les Fondamentaux*, *1re Loi*, …) as headings in `SUMMARY.md` and the level READMEs.
+- The **only** exception is a work whose natural unit isn't a numbered chapter (e.g. a short novel read in arcs); there, group by the book's own narrative divisions and say so in the introduction.
+- All five levels of a book share the **same** chapter list — only the difficulty changes, never the structure.
+
 ---
 
 ## 2. Levels at a glance

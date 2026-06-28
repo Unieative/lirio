@@ -1,45 +1,27 @@
-# Chapitre 4 — Loi 1 : Rendez-la évidente 🟢 A1
+# Chapitre 4 — L'homme qui ne semblait pas normal 🟢 A1
 
-> *« Vous ne vous levez pas au niveau de vos objectifs. Vous tombez au niveau de vos systèmes. »*
+> *« Vous ne pouvez pas changer une habitude que vous ne remarquez pas. »*
 > — James Clear
 
 ---
 
 ## 📖 Résumé
 
-La première loi dit : **rendez votre habitude <span class="gloss" data-def="obvious — easy to see">évidente</span>**. Le signal doit être clair et visible.
+Imaginez un <span class="gloss" data-def="paramedic — emergency medical worker">ambulancier</span> très expérimenté. Il regarde une femme et il voit un problème. Sa <span class="gloss" data-def="skin — the body's outer surface">peau</span> a une couleur étrange. Il sait tout de suite : c'est une <span class="gloss" data-def="heart attack">crise cardiaque</span>. Comment ? Avec l'expérience, son cerveau <span class="gloss" data-def="recognizes — from reconnaître">reconnaît</span> les signaux automatiquement.
 
-### Le carnet des habitudes
+Nos habitudes fonctionnent de la même façon. Avec la répétition, elles deviennent automatiques. Nous agissons sans <span class="gloss" data-def="to think, to reflect">réfléchir</span>. C'est pratique, mais c'est aussi un danger. Nous ne voyons plus nos mauvaises habitudes.
 
-Clear recommande d'<span class="gloss" data-def="to write">écrire</span> toutes vos habitudes <span class="gloss" data-def="current — present-day">actuelles</span> dans un carnet. Pas pour les juger — juste pour les <span class="gloss" data-def="to see">**voir**</span>. La plupart de nos habitudes sont invisibles parce qu'elles sont automatiques. Les rendre visibles est le premier pas.
+James Clear explique un problème simple. Pour changer une habitude, vous devez d'abord la <span class="gloss" data-def="to notice, to spot">remarquer</span>. Mais beaucoup d'habitudes sont invisibles pour nous.
 
-### L'intention de mise en œuvre
+Voici une solution : le <span class="gloss" data-def="scorecard, dashboard — a list to track things">tableau de bord</span> des habitudes. Notez toutes vos habitudes de la journée. Ensuite, marquez chaque habitude. Mettez un « + » pour une bonne habitude. Mettez un « – » pour une mauvaise habitude. Mettez un « = » pour une habitude neutre.
 
-La recherche <span class="gloss" data-def="shows — demonstrates">montre</span> que les personnes qui planifient **quand** et **où** elles vont faire quelque chose <span class="gloss" data-def="succeed">réussissent</span> beaucoup <span class="gloss" data-def="better">mieux</span>.
+Faites cet exercice sans <span class="gloss" data-def="to judge — to give an opinion">juger</span>. Observez seulement. Le but est la <span class="gloss" data-def="awareness — becoming conscious of something">prise de conscience</span>.
 
-Mauvaise intention : « Je vais faire du sport. »
-Bonne intention : « Je vais faire du sport **le lundi à 7h du matin dans ma <span class="gloss" data-def="bedroom">chambre</span>**. »
+Clear donne un autre exemple : les trains japonais. Les <span class="gloss" data-def="drivers — people who drive trains">conducteurs</span> <span class="gloss" data-def="point with the finger — from montrer du doigt">montrent du doigt</span> et disent les choses <span class="gloss" data-def="out loud — speaking loudly">à voix haute</span>. « Signal vert ! » Cette méthode rend l'action consciente. Le résultat ? Moins d'erreurs.
 
-La formule est : **Je vais [ACTION] à [HEURE] dans [LIEU].**
+Vous pouvez utiliser la même idée. Avant une mauvaise habitude, dites votre action à voix haute. « Je vais manger un autre <span class="gloss" data-def="cookie, biscuit">biscuit</span>. » Cette phrase vous <span class="gloss" data-def="wakes up — from réveiller">réveille</span>.
 
-### L'empilement d'habitudes
-
-Une autre technique <span class="gloss" data-def="powerful — effective">puissante</span> est d'<span class="gloss" data-def="to stack — to pile up">**empiler**</span> une nouvelle habitude sur une habitude existante.
-
-Formule : **Après [HABITUDE EXISTANTE], je vais [NOUVELLE HABITUDE].**
-
-Exemples :
-- « Après mon café du matin, je vais lire 10 pages en français. »
-- « Après le <span class="gloss" data-def="lunch">déjeuner</span>, je vais <span class="gloss" data-def="to walk">marcher</span> 10 minutes. »
-- « Après le dîner, je vais écrire 3 choses positives. »
-
-Vous utilisez une habitude que vous avez **déjà** comme signal pour une nouvelle habitude.
-
-### L'environnement est votre signal
-
-L'environnement influence vos habitudes plus que vous ne le <span class="gloss" data-def="think">pensez</span>. Si vous voulez lire plus, mettez votre livre sur votre table. Si vous voulez manger plus de fruits, mettez les fruits sur la table. Si vous voulez faire du sport, préparez vos <span class="gloss" data-def="shoes">chaussures</span> la <span class="gloss" data-def="day before — night before">veille</span>.
-
-**Le message principal :** Ne comptez pas sur votre mémoire ou votre volonté. Créez un environnement où vos bonnes habitudes sont évidentes.
+Le message principal est clair. Vous ne pouvez pas changer une habitude que vous ne voyez pas. Alors, regardez d'abord. Comptez vos habitudes. Devenez <span class="gloss" data-def="aware, conscious">conscient</span>. La prise de conscience est la première étape du changement.
 
 ---
 
@@ -47,18 +29,21 @@ L'environnement influence vos habitudes plus que vous ne le <span class="gloss" 
 
 | Mot | Signification |
 |:----|:-------------|
-| **le carnet** | notebook |
+| **l'ambulancier** (m.) | paramedic |
+| **la peau** | skin |
+| **la crise cardiaque** | heart attack |
+| **reconnaître** | to recognize |
+| **réfléchir** | to think, to reflect |
+| **remarquer** | to notice, to spot |
+| **le tableau de bord** | scorecard, dashboard |
 | **juger** | to judge |
-| **l'intention** (f.) | intention |
-| **la mise en œuvre** | implementation |
-| **empiler** | to stack, to pile up |
-| **existant / existante** | existing |
-| **l'environnement** (m.) | environment |
-| **influencer** | to influence |
-| **la veille** | the night/day before |
-| **la chaussure** | shoe |
-| **planifier** | to plan |
-| **actuel / actuelle** | current, present |
+| **la prise de conscience** | awareness |
+| **le conducteur** | driver |
+| **montrer du doigt** | to point at |
+| **à voix haute** | out loud |
+| **le but** | goal, aim |
+| **réveiller** | to wake (someone) up |
+| **conscient / consciente** | aware, conscious |
 
 ---
 
@@ -66,54 +51,32 @@ L'environnement influence vos habitudes plus que vous ne le <span class="gloss" 
 
 | Expression | Signification |
 |:-----------|:-------------|
-| **« sauter aux yeux »** | to be obvious (literally: to jump to the eyes) |
-| **« avoir sous la main »** | to have at hand, easily accessible |
-| **« la veille au soir »** | the night before |
-| **« mettre toutes les chances de son côté »** | to give yourself every chance of success |
-| **« se lancer »** | to get started, to take the plunge |
+| **« tout de suite »** | right away, immediately |
+| **« de la même façon »** | in the same way |
+| **« sans réfléchir »** | without thinking |
+| **« d'abord »** | first (of all) |
+| **« la première étape »** | the first step |
 
 ---
 
-## 🧠 Grammaire — Les verbes pronominaux
+## 🧠 Grammaire — L'impératif
 
-Les verbes pronominaux se conjuguent avec un pronom réfléchi (**me, te, se, nous, vous, se**).
+Pour donner un conseil ou un ordre, le français utilise l'**impératif**. Le verbe n'a **pas** de pronom sujet (pas de « tu » ni « vous » devant).
 
-**Types de verbes pronominaux :**
-
-**1. Réfléchis** (l'action revient sur le sujet) :
-
-| Verbe | Exemple |
-|:------|:--------|
-| **se lever** | Je **me lève** à 7h. |
-| **se coucher** | Tu **te couches** tôt. |
-| **se préparer** | Il **se prépare** chaque soir. |
-| **s'entraîner** | Nous **nous entraînons** le matin. |
-
-**2. Réciproques** (deux personnes agissent l'une sur l'autre) :
-
-| Verbe | Exemple |
-|:------|:--------|
-| **se parler** | Ils **se parlent** chaque jour. |
-| **s'aider** | Nous **nous aidons** mutuellement. |
-
-**Conjugaison de « se lever » (exemple) :**
-
-| Pronom | Conjugaison |
-|:-------|:------------|
-| je | **me lève** |
-| tu | **te lèves** |
-| il/elle | **se lève** |
-| nous | **nous levons** |
-| vous | **vous levez** |
-| ils/elles | **se lèvent** |
+| Verbe (infinitif) | tu | nous | vous |
+|:------------------|:---|:-----|:-----|
+| noter | note | notons | notez |
+| faire | fais | faisons | faites |
+| observer | observe | observons | observez |
+| compter | compte | comptons | comptez |
 
 **Exemples du chapitre :**
-- Il **se prépare** le soir pour faciliter sa routine du matin.
-- Nous **nous entraînons** après le petit-déjeuner.
-- Elle **se souvient** de lire grâce au livre sur la table.
-- Tu **te lèves** et tu vois tes chaussures — alors tu fais du sport.
+- **Notez** toutes vos habitudes. *(Write down all your habits.)*
+- **Faites** cet exercice sans juger. *(Do this exercise without judging.)*
+- **Observez** seulement. *(Just observe.)*
+- **Comptez** vos habitudes. *(Count your habits.)*
 
-> 💡 **Astuce :** À la négation : « Je **ne** me lève **pas** tard. » Le **ne** vient avant le pronom réfléchi.
+> 💡 **Astuce :** Pour les verbes en **-er**, la forme « tu » perd le **-s** : *tu notes* → **note !** Mais avec « vous », la forme reste la même que le présent : **notez !**
 
 ---
 
@@ -121,61 +84,62 @@ Les verbes pronominaux se conjuguent avec un pronom réfléchi (**me, te, se, no
 
 **1. Vrai ou faux ?**
 
-a) Le carnet des habitudes sert à juger nos habitudes.
-b) La formule de l'intention inclut l'heure et le lieu.
-c) L'empilement consiste à faire une nouvelle habitude après une habitude existante.
-d) L'environnement n'influence pas les habitudes.
+a) Avec la répétition, nos habitudes deviennent automatiques.
+b) Le tableau de bord sert à juger les autres.
+c) Les conducteurs japonais montrent du doigt pour faire moins d'erreurs.
+d) On peut changer une habitude qu'on ne voit pas.
 
-*Réponses : a) F (pas pour juger) — b) V — c) V — d) F*
-
----
-
-**2. Écrivez une intention de mise en œuvre**
-
-Transformez ces vagues intentions en intentions précises.
-
-a) « Je vais faire du sport. »
-b) « Je vais étudier le français. »
-c) « Je vais lire plus. »
-
-*Modèle : a) « Je vais faire 20 minutes de sport **le mardi à 7h** dans **ma chambre**. »*
+*Réponses : a) V — b) F — c) V — d) F*
 
 ---
 
-**3. Créez un empilement d'habitudes**
+**2. Mettez à l'impératif (forme « vous »)**
 
-Complétez avec une nouvelle habitude que vous voulez créer.
+a) _______ (noter) vos habitudes.
+b) _______ (observer) sans juger.
+c) _______ (faire) cet exercice aujourd'hui.
+d) _______ (compter) vos bonnes habitudes.
 
-a) « Après mon café du matin, je vais _______ . »
-b) « Après le déjeuner, je vais _______ . »
-c) « Avant de dormir, je vais _______ . »
+*Réponses : a) Notez — b) Observez — c) Faites — d) Comptez*
 
 ---
 
-**4. Conjuguez le verbe pronominal**
+**3. Choisissez le bon mot**
 
-a) Je _______ (se préparer) chaque soir pour le lendemain.
-b) Elle _______ (se lever) à 6h30 tous les jours.
-c) Nous _______ (s'entraîner) après le travail.
-d) Ils _______ (se souvenir) de leurs bonnes habitudes grâce à leur environnement.
+Complétez avec : **peau / remarquer / conscient / signal**.
 
-*Réponses : a) me prépare — b) se lève — c) nous entraînons — d) se souviennent*
+a) Pour changer une habitude, vous devez d'abord la _______.
+b) La _______ de la femme a une couleur étrange.
+c) Le conducteur dit le _______ à voix haute.
+d) Le but est de devenir _______ de ses habitudes.
+
+*Réponses : a) remarquer — b) peau — c) signal — d) conscient*
+
+---
+
+**4. À vous d'écrire**
+
+Faites une petite liste de trois habitudes de votre journée. Mettez un « + », un « – » ou un « = » à côté de chaque habitude.
+
+*Réponse libre. Exemple : « Boire de l'eau le matin (+) ; regarder le téléphone au lit (–) ; prendre le bus (=). »*
 
 ---
 
 ## 📝 Glossaire
 
-- **le signal** : cue, trigger
-- **visible** : visible
-- **la recherche** : research
-- **la technique** : technique
-- **mutuellement** : mutually, each other
+- **le tableau de bord des habitudes** : une liste de toutes vos habitudes pour les observer
+- **la prise de conscience** : le moment où l'on devient conscient d'une chose
+- **automatique** : qui se fait tout seul, sans réfléchir
+- **montrer du doigt et nommer** : dire une action à voix haute pour la rendre consciente
+- **un signal** : une chose qui annonce le début d'une habitude
 
 ---
 
 ## 🔊 Audio
 
 ▶️ [Écouter le chapitre 4 — A1](../audio/a1-chapter-04.mp3)
+
+*Conseil : Écoutez l'audio et répétez les verbes à l'impératif. Imaginez que vous donnez des conseils à un ami : « Note ! Observe ! Compte ! »*
 
 ---
 

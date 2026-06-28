@@ -1,45 +1,31 @@
-# Chapitre 7 — Loi 4 : Rendez-la satisfaisante 🟢 A1
+# Chapitre 7 — Le secret de la maîtrise de soi 🟢 A1
 
-> *« Ce qui est récompensé est répété. Ce qui est puni est évité. »*
+> *« Les gens disciplinés ne sont pas plus forts ; ils organisent mieux leur vie. »*
 > — James Clear
 
 ---
 
 ## 📖 Résumé
 
-Les trois premières lois vous <span class="gloss" data-def="help">aident</span> à **<span class="gloss" data-def="to start — to begin">commencer</span>** une habitude. La quatrième loi vous aide à la **<span class="gloss" data-def="to maintain — to keep up">maintenir</span>**.
+Quel est le secret de la <span class="gloss" data-def="self-control — controlling your own behavior">maîtrise de soi</span> ? La réponse de James Clear est surprenante. Les gens disciplinés ne sont pas plus forts que les autres.
 
-La loi dit : **rendez votre habitude satisfaisante**. Le cerveau <span class="gloss" data-def="repeats">répète</span> ce qui procure du plaisir. Si une habitude vous donne une sensation positive, vous voulez la répéter.
+En réalité, ils n'organisent pas leur vie autour de la tentation. Ils <span class="gloss" data-def="avoid — from éviter">évitent</span> la tentation. Ils ne la <span class="gloss" data-def="fight — from combattre">combattent</span> pas chaque jour.
 
-### Le problème des bonnes habitudes
+La <span class="gloss" data-def="willpower — strength to control yourself">volonté</span> est une stratégie de court terme. Vous ne pouvez pas résister toute la journée. Tôt ou tard, vous êtes fatigué.
 
-Les bonnes habitudes ont souvent un <span class="gloss" data-def="cost">coût</span> **immédiat** et un bénéfice **futur**.
+Clear propose une autre méthode. Rendez les signaux des mauvaises habitudes invisibles. Si vous ne voyez pas le signal, le <span class="gloss" data-def="desire — a strong wish">désir</span> ne vient pas.
 
-- Faire du sport : <span class="gloss" data-def="pain">douleur</span> immédiate → <span class="gloss" data-def="health">santé</span> future.
-- Manger sainement : moins de plaisir immédiat → énergie future.
-- Étudier : effort immédiat → compétences futures.
+Voici des exemples concrets. Une personne ne veut pas regarder la télévision. Alors, elle <span class="gloss" data-def="unplugs — from débrancher">débranche</span> la télévision après chaque usage. Une autre personne ne veut pas utiliser son téléphone le soir. Alors, elle laisse le téléphone dans une autre <span class="gloss" data-def="room">pièce</span>.
 
-Les mauvaises habitudes, elles, ont souvent un plaisir **immédiat** et un coût **futur**.
+Ces personnes ne <span class="gloss" data-def="fight, struggle — from lutter">luttent</span> pas contre le désir. Elles <span class="gloss" data-def="remove — from supprimer">suppriment</span> simplement le signal. C'est beaucoup plus facile.
 
-Le cerveau préfère le présent. C'est pourquoi les mauvaises habitudes sont plus <span class="gloss" data-def="easy">faciles</span> que les bonnes.
+Clear donne une vérité importante. Vous n'oubliez jamais complètement une mauvaise habitude. Le cerveau garde le <span class="gloss" data-def="memory — what you remember">souvenir</span>. Mais vous pouvez <span class="gloss" data-def="reduce — from réduire">réduire</span> le contact avec le signal.
 
-La solution : **créez une récompense immédiate** pour votre bonne habitude.
+Donc, ne testez pas votre volonté. Ne gardez pas les biscuits sur la table. Ne laissez pas votre téléphone près du lit.
 
-### Le carnet de suivi
+Préparez votre environnement <span class="gloss" data-def="in advance, ahead of time">à l'avance</span>. Les gens disciplinés ne sont pas des héros. Ils sont simplement intelligents avec leur espace.
 
-L'une des <span class="gloss" data-def="best">meilleures</span> techniques de Clear est le **carnet de suivi** (ou habit tracker). L'idée est simple : chaque jour où vous faites votre habitude, vous mettez une <span class="gloss" data-def="cross — X mark">croix</span> (✓) dans votre carnet.
-
-Pourquoi ça marche ? Parce que voir la série de croix est satisfaisante. Vous ne voulez pas <span class="gloss" data-def="to break">briser</span> la <span class="gloss" data-def="chain">chaîne</span>.
-
-Clear dit : « **Ne brisez jamais la chaîne.** » Et si vous la brisez : « **Ne <span class="gloss" data-def="miss — skip">ratez</span> jamais deux jours de suite.** »
-
-### La règle de Goldilocks
-
-Pour rester motivé(e), vos habitudes doivent être **ni trop faciles, ni trop difficiles**. Si c'est trop facile, vous vous <span class="gloss" data-def="get bored">ennuyez</span>. Si c'est trop difficile, vous abandonnez.
-
-Clear appelle ça la **règle de Goldilocks** (comme dans le <span class="gloss" data-def="tale — story">conte</span> des Trois Ours : ni trop chaud, ni trop froid — juste bien).
-
-**Le message principal :** Créez une récompense immédiate. Suivez vos progrès. Trouvez le bon niveau de difficulté.
+Le message principal est clair. La meilleure maîtrise de soi n'est pas un <span class="gloss" data-def="fight, battle">combat</span>. C'est l'absence de tentation.
 
 ---
 
@@ -47,18 +33,21 @@ Clear appelle ça la **règle de Goldilocks** (comme dans le <span class="gloss"
 
 | Mot | Signification |
 |:----|:-------------|
-| **maintenir** | to maintain, to keep up |
-| **procurer** | to provide, to give |
-| **la douleur** | pain |
-| **la santé** | health |
-| **la compétence** | skill, competency |
-| **immédiat / immédiate** | immediate |
-| **futur / future** | future |
-| **la chaîne** | chain |
-| **briser** | to break |
-| **rater** | to miss, to fail |
-| **s'ennuyer** | to get bored |
-| **abandonner** | to give up |
+| **la maîtrise de soi** | self-control |
+| **discipliné / disciplinée** | disciplined |
+| **éviter** | to avoid |
+| **combattre** | to fight |
+| **la volonté** | willpower |
+| **résister** | to resist |
+| **le désir** | desire |
+| **débrancher** | to unplug |
+| **la pièce** | room |
+| **lutter** | to fight, to struggle |
+| **supprimer** | to remove |
+| **le souvenir** | memory |
+| **réduire** | to reduce |
+| **à l'avance** | in advance |
+| **le combat** | fight, battle |
 
 ---
 
@@ -66,41 +55,30 @@ Clear appelle ça la **règle de Goldilocks** (comme dans le <span class="gloss"
 
 | Expression | Signification |
 |:-----------|:-------------|
-| **« tenir bon »** | to hold on, to persevere |
-| **« ne pas lâcher »** | to not give up |
-| **« juste ce qu'il faut »** | just the right amount |
-| **« briser la chaîne »** | to break the streak |
-| **« de suite »** | in a row, consecutively |
+| **« tôt ou tard »** | sooner or later |
+| **« en réalité »** | in reality, actually |
+| **« de court terme »** | short-term |
+| **« lutter contre »** | to fight against |
+| **« faire attention »** | to be careful |
 
 ---
 
-## 🧠 Grammaire — Le passé récent : venir de + infinitif
+## 🧠 Grammaire — La négation (ne… pas)
 
-Le **passé récent** exprime une action qui vient de se terminer — juste avant le moment présent.
+Pour dire « non » dans une phrase, le français met le verbe entre **ne** et **pas**.
 
-**Formation :** venir (présent) + **de** + infinitif
-
-| Pronom | Exemple |
-|:-------|:--------|
-| je | Je **viens de** faire du sport. |
-| tu | Tu **viens de** finir ton chapitre. |
-| il/elle | Il **vient de** créer une nouvelle habitude. |
-| nous | Nous **venons de** lire. |
-| vous | Vous **venez de** comprendre la 4e loi. |
-| ils/elles | Ils **viennent de** mettre une croix dans leur carnet. |
+| Forme positive | Forme négative |
+|:---------------|:---------------|
+| Il est fort. | Il **ne** est **pas** fort. → Il **n'**est **pas** fort. |
+| Ils combattent. | Ils **ne** combattent **pas**. |
+| Vous voyez le signal. | Vous **ne** voyez **pas** le signal. |
 
 **Exemples du chapitre :**
-- Il **vient de** terminer sa séance de sport. → La récompense arrive maintenant !
-- Je **viens de** lire 10 pages en français. ✓
-- Elle **vient de** briser sa chaîne. → Ce n'est pas grave.
-- Nous **venons de** comprendre les quatre lois.
+- Ils **ne** combattent **pas** la tentation. *(They do not fight temptation.)*
+- Si vous **ne** voyez **pas** le signal… *(If you do not see the cue…)*
+- La maîtrise de soi **n'**est **pas** un combat. *(Self-control is not a battle.)*
 
-**Comparez :**
-- Il **vient de** partir. *(He just left — passé récent)*
-- Il **va partir**. *(He is going to leave — futur proche)*
-- Il **part**. *(He is leaving — présent)*
-
-> 💡 **Astuce :** Le passé récent et le futur proche sont symétriques. **Venir de + inf.** = juste avant. **Aller + inf.** = juste après.
+> 💡 **Astuce :** Devant une voyelle, **ne** devient **n'** : *il n'est pas*, *vous n'oubliez pas*. À l'oral, beaucoup de Français disent juste « pas » : « C'est pas un combat. »
 
 ---
 
@@ -108,61 +86,54 @@ Le **passé récent** exprime une action qui vient de se terminer — juste avan
 
 **1. Vrai ou faux ?**
 
-a) La quatrième loi aide à commencer une habitude.
-b) Le cerveau préfère les récompenses futures aux récompenses immédiates.
-c) Le carnet de suivi crée une satisfaction visuelle.
-d) La règle de Goldilocks dit que les habitudes doivent être très difficiles.
+a) Les gens disciplinés sont simplement plus forts que les autres.
+b) La volonté est une stratégie de court terme.
+c) Pour Clear, il faut rendre les mauvais signaux invisibles.
+d) On peut oublier complètement une mauvaise habitude.
 
-*Réponses : a) F (la maintenir) — b) F (immédiates) — c) V — d) F (ni trop faciles ni trop difficiles)*
-
----
-
-**2. Conjuguez « venir de »**
-
-a) Je _______ (venir de) finir le dernier chapitre.
-b) Elle _______ (venir de) mettre une croix dans son carnet.
-c) Nous _______ (venir de) apprendre les quatre lois.
-d) Ils _______ (venir de) créer leur système d'habitudes.
-
-*Réponses : a) viens de — b) vient de — c) venons de — d) viennent de*
+*Réponses : a) F — b) V — c) V — d) F*
 
 ---
 
-**3. Immédiat ou futur ?**
+**2. Mettez à la forme négative (ne… pas)**
 
-Classez le coût/bénéfice : **I** (immédiat) ou **F** (futur).
+a) Il combat la tentation. → _______
+b) Vous voyez le signal. → _______
+c) Ils luttent contre le désir. → _______
+d) Elle utilise son téléphone le soir. → _______
 
-| Habitude | Coût/Douleur | Bénéfice/Plaisir |
-|:---------|:-------------|:-----------------|
-| Faire du sport | ___ | ___ |
-| Manger du chocolat | ___ | ___ |
-| Étudier une heure | ___ | ___ |
-| Regarder la télé toute la nuit | ___ | ___ |
-
-*Réponses : Sport : I / F — Chocolat : I / I(mais coût F) — Étude : I / F — TV : I / I(coût F)*
+*Réponses : a) Il ne combat pas la tentation. — b) Vous ne voyez pas le signal. — c) Ils ne luttent pas contre le désir. — d) Elle n'utilise pas son téléphone le soir.*
 
 ---
 
-**4. Votre système des 4 lois**
+**3. Choisissez le bon mot**
 
-Choisissez une habitude que vous voulez créer. Appliquez les quatre lois.
+Complétez avec : **éviter / supprimer / souvenir / pièce**.
 
-| Loi | Votre action |
-|:----|:-------------|
-| 🟢 Évidente | Je vais placer _______ pour me rappeler. |
-| 🟡 Attrayante | Je vais combiner avec _______ que j'aime. |
-| 🟠 Facile | Je vais commencer par _______ (2 minutes). |
-| 🔴 Satisfaisante | Ma récompense immédiate sera _______. |
+a) Il vaut mieux _______ la tentation au lieu de la combattre.
+b) Le cerveau garde le _______ d'une habitude.
+c) Elle laisse le téléphone dans une autre _______.
+d) On peut _______ le signal pour réduire le désir.
+
+*Réponses : a) éviter — b) souvenir — c) pièce — d) supprimer*
+
+---
+
+**4. À vous d'écrire**
+
+Décrivez une chose que vous n'allez pas garder près de vous pour éviter une tentation. Modèle : « Je ne vais pas garder _______ près de _______. »
+
+*Réponse libre. Exemple : « Je ne vais pas garder les bonbons sur mon bureau. »*
 
 ---
 
 ## 📝 Glossaire
 
-- **le conte** : tale, story (fairy tale)
-- **la séance** : session (sport, work)
-- **la série** : streak (of days); also TV series
-- **la croix** : cross, checkmark (✓)
-- **persévérer** : to persevere
+- **la maîtrise de soi** : la capacité de contrôler son comportement
+- **la volonté** : la force intérieure pour résister
+- **éviter la tentation** : ne pas se mettre devant le signal d'une mauvaise habitude
+- **supprimer un signal** : enlever la chose qui lance une habitude
+- **à l'avance** : avant le moment, pour préparer l'environnement
 
 ---
 
@@ -170,27 +141,12 @@ Choisissez une habitude que vous voulez créer. Appliquez les quatre lois.
 
 ▶️ [Écouter le chapitre 7 — A1](../audio/a1-chapter-07.mp3)
 
----
-
-## 🎉 Félicitations — Niveau A1 terminé !
-
-Vous avez lu **Atomic Habits au niveau A1**. Vous avez appris :
-
-✅ La règle du 1 % et le pouvoir des petites habitudes  
-✅ Changer d'identité, pas seulement de comportement  
-✅ Les quatre lois du changement de comportement  
-✅ Des techniques pratiques : empilement, règle des 2 minutes, carnet de suivi  
-✅ **84+ mots** de vocabulaire essentiel  
-✅ **7 points de grammaire** fondamentaux
-
-**Êtes-vous prêt(e) pour le niveau A2 ?** 🟡
-
-[→ Niveau A2 (bientôt disponible)](../a2/README.md)
+*Conseil : Écoutez l'audio et répétez les phrases négatives. Entraînez l'oreille à entendre « ne… pas » et « n'… pas ».*
 
 ---
 
 <div style="display:flex; justify-content:space-between; margin-top:3em;">
 
-[← Chapitre 6](chapter-06.md) &nbsp;&nbsp;&nbsp; [Vue d'ensemble A2 →](../a2/README.md)
+[← Chapitre 6](chapter-06.md) &nbsp;&nbsp;&nbsp; [Chapitre 8 →](chapter-08.md)
 
 </div>
