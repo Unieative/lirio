@@ -1,6 +1,6 @@
 [book]
-title = "Le Petit Prince"
-description = "Apprenez le français en lisant Le Petit Prince d'Antoine de Saint-Exupéry — du niveau A1 jusqu'au texte original."
+title = "Lirio — Learn French Through Great Books"
+description = "Graded summaries of great books for French learners — from A1 to native level."
 authors = ["Lirio — Unieative"]
 language = "fr"
 src = "src"

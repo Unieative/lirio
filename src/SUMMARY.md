@@ -1,0 +1,65 @@
+# Lirio
+
+[🏠 Bienvenue](welcome.md)
+
+---
+
+# 📚 Les 7 Habitudes des gens très efficaces
+
+- [Introduction](french/self-development/7-habits/introduction.md)
+- [🟢 A1 — Débutant](french/self-development/7-habits/a1/README.md)
+  - [Habitude 1 — Soyez proactif](french/self-development/7-habits/a1/chapter-01.md)
+  - [Habitude 2 — Commencez avec une fin en tête](french/self-development/7-habits/a1/chapter-02.md)
+  - [Habitude 3 — Faites d'abord ce qui doit être fait](french/self-development/7-habits/a1/chapter-03.md)
+  - [Habitude 4 — Pensez gagnant-gagnant](french/self-development/7-habits/a1/chapter-04.md)
+  - [Habitude 5 — Cherchez d'abord à comprendre](french/self-development/7-habits/a1/chapter-05.md)
+  - [Habitude 6 — Créez une synergie](french/self-development/7-habits/a1/chapter-06.md)
+  - [Habitude 7 — Aiguisez vos facultés](french/self-development/7-habits/a1/chapter-07.md)
+- [🟡 A2 — Élémentaire](french/self-development/7-habits/a2/README.md)
+  - [Habitude 1 — Soyez proactif](french/self-development/7-habits/a2/chapter-01.md)
+  - [Habitude 2 — Commencez avec une fin en tête](french/self-development/7-habits/a2/chapter-02.md)
+  - [Habitude 3 — Faites d'abord ce qui doit être fait](french/self-development/7-habits/a2/chapter-03.md)
+  - [Habitude 4 — Pensez gagnant-gagnant](french/self-development/7-habits/a2/chapter-04.md)
+  - [Habitude 5 — Cherchez d'abord à comprendre](french/self-development/7-habits/a2/chapter-05.md)
+  - [Habitude 6 — Créez une synergie](french/self-development/7-habits/a2/chapter-06.md)
+  - [Habitude 7 — Aiguisez vos facultés](french/self-development/7-habits/a2/chapter-07.md)
+- [🟠 B1 — Intermédiaire](french/self-development/7-habits/b1/README.md)
+- [🔴 B2 — Avancé](french/self-development/7-habits/b2/README.md)
+- [⚫ Natif](french/self-development/7-habits/native/README.md)
+
+---
+
+# 📚 Atomic Habits — Les Petites Habitudes
+
+- [Introduction](french/self-development/atomic-habits/introduction.md)
+- [🟢 A1 — Débutant](french/self-development/atomic-habits/a1/README.md)
+  - [Chapitre 1 — Le pouvoir des petites habitudes](french/self-development/atomic-habits/a1/chapter-01.md)
+  - [Chapitre 2 — L'identité et les habitudes](french/self-development/atomic-habits/a1/chapter-02.md)
+  - [Chapitre 3 — Les quatre lois du changement](french/self-development/atomic-habits/a1/chapter-03.md)
+  - [Chapitre 4 — Loi 1 : Rendez-la évidente](french/self-development/atomic-habits/a1/chapter-04.md)
+  - [Chapitre 5 — Loi 2 : Rendez-la attrayante](french/self-development/atomic-habits/a1/chapter-05.md)
+  - [Chapitre 6 — Loi 3 : Rendez-la facile](french/self-development/atomic-habits/a1/chapter-06.md)
+  - [Chapitre 7 — Loi 4 : Rendez-la satisfaisante](french/self-development/atomic-habits/a1/chapter-07.md)
+- [🟡 A2 — Élémentaire](french/self-development/atomic-habits/a2/README.md)
+- [🟠 B1 — Intermédiaire](french/self-development/atomic-habits/b1/README.md)
+- [🔴 B2 — Avancé](french/self-development/atomic-habits/b2/README.md)
+- [⚫ Natif](french/self-development/atomic-habits/native/README.md)
+
+---
+
+# 📖 Le Petit Prince
+
+- [Introduction](french/novels/le-petit-prince/introduction.md)
+- [🟢 A1 — Débutant](french/novels/le-petit-prince/a1/README.md)
+  - [Chapitres I–III — L'aviateur et le petit prince](french/novels/le-petit-prince/a1/chapter-01.md)
+  - [Chapitres IV–VI — La planète B-612 et les couchers de soleil](french/novels/le-petit-prince/a1/chapter-02.md)
+  - [Chapitres VII–IX — La rose](french/novels/le-petit-prince/a1/chapter-03.md)
+  - [Chapitres X–XIII — Le roi, le vaniteux, l'ivrogne](french/novels/le-petit-prince/a1/chapter-04.md)
+  - [Chapitres XIV–XVI — Le businessman et l'allumeur](french/novels/le-petit-prince/a1/chapter-05.md)
+  - [Chapitres XVII–XX — La Terre et le serpent](french/novels/le-petit-prince/a1/chapter-06.md)
+  - [Chapitres XXI–XXV — Le renard et ses leçons](french/novels/le-petit-prince/a1/chapter-07.md)
+  - [Chapitres XXVI–XXVII — L'adieu](french/novels/le-petit-prince/a1/chapter-08.md)
+- [🟡 A2 — Élémentaire](french/novels/le-petit-prince/a2/README.md)
+- [🟠 B1 — Intermédiaire](french/novels/le-petit-prince/b1/README.md)
+- [🔴 B2 — Avancé](french/novels/le-petit-prince/b2/README.md)
+- [⚫ Natif](french/novels/le-petit-prince/native/README.md)
