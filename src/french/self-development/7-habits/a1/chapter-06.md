@@ -7,13 +7,13 @@
 
 ## 📖 Résumé
 
-Vous avez deux personnes. Ensemble, elles font quelque chose. Le résultat est meilleur que ce que chaque personne peut faire seule. C'est la **synergie**.
+Vous avez deux personnes. Ensemble, elles font quelque chose. Le résultat est meilleur que ce que chaque personne peut faire seule. C'est la <span class="gloss" data-def="synergy — together you create more than alone">**synergie**</span>.
 
-La sixième habitude dit : travaillez ensemble. Respectez les **différences**. Créez quelque chose de mieux.
+La sixième habitude dit : travaillez ensemble. Respectez les <span class="gloss" data-def="differences — the ways people are not the same">**différences**</span>. Créez quelque chose de mieux.
 
-Covey donne un exemple simple. Deux plantes. Seules, elles ne poussent pas bien. Mises ensemble dans un bon sol, elles poussent beaucoup mieux. La synergie crée quelque chose de nouveau et de meilleur.
+Covey donne un exemple simple. Deux plantes. Seules, elles ne <span class="gloss" data-def="to grow — to get bigger and stronger">poussent</span> pas bien. Mises ensemble dans un bon <span class="gloss" data-def="soil — the earth where plants grow">sol</span>, elles poussent beaucoup mieux. La synergie crée quelque chose de nouveau et de meilleur.
 
-Beaucoup de personnes ont peur des différences. Elles préfèrent les personnes similaires. Elles disent : « Je suis d'accord » même quand ce n'est pas vrai.
+Beaucoup de personnes ont peur des différences. Elles préfèrent les personnes <span class="gloss" data-def="similar — almost the same as you">similaires</span>. Elles disent : « Je suis d'accord » même quand ce n'est pas vrai.
 
 Les personnes qui comprennent la synergie font le contraire. Elles **cherchent** les différences. Elles pensent : « Cette personne voit les choses différemment de moi. Peut-être qu'elle a raison. Peut-être que nous pouvons trouver une meilleure solution ensemble. »
 
@@ -21,9 +21,9 @@ La synergie est possible seulement quand vous avez :
 - L'**Habitude 4** : Penser Gagnant-Gagnant
 - L'**Habitude 5** : Écouter avec empathie
 
-Avec ces trois habitudes ensemble (4 + 5 + 6), vous pouvez créer des équipes et des relations extraordinaires.
+Avec ces trois habitudes ensemble (4 + 5 + 6), vous pouvez créer des <span class="gloss" data-def="teams — groups of people working together">équipes</span> et des relations extraordinaires.
 
-**Le message principal :** Le tout est plus grand que la somme des parties. Cherchez la collaboration, pas la compétition.
+**Le message principal :** Le tout est plus grand que la somme des parties. Cherchez la <span class="gloss" data-def="collaboration — working together toward a shared goal">collaboration</span>, pas la <span class="gloss" data-def="competition — trying to beat others instead of joining them">compétition</span>.
 
 ---
 

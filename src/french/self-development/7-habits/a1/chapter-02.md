@@ -11,20 +11,20 @@ Imaginez votre funérailles. Des personnes parlent de vous. Qu'est-ce qu'elles d
 
 C'est la question que Covey pose au début de ce chapitre. C'est une question difficile, mais très importante.
 
-La deuxième habitude dit : **pensez à la fin avant de commencer**. Avant de faire quelque chose, imaginez le résultat. Quel résultat voulez-vous ?
+La deuxième habitude dit : **pensez à la fin avant de commencer**. Avant de faire quelque chose, <span class="gloss" data-def="imagine — picture it in your mind">imaginez</span> le <span class="gloss" data-def="result — what happens at the end">résultat</span>. Quel résultat voulez-vous ?
 
-Beaucoup de personnes travaillent très dur. Mais elles travaillent sans direction. Elles montent l'échelle du succès — mais l'échelle est contre le mauvais mur ! À la fin, elles ne sont pas heureuses.
+Beaucoup de personnes travaillent très dur. Mais elles travaillent sans <span class="gloss" data-def="direction — where you are going">direction</span>. Elles montent l'<span class="gloss" data-def="ladder — here: the ladder of success">échelle</span> du succès — mais l'échelle est contre le mauvais mur ! À la fin, elles ne sont pas heureuses.
 
-Covey propose d'écrire un **énoncé de mission personnel**. C'est un texte court qui décrit qui vous êtes et ce que vous voulez. C'est votre boussole personnelle.
+Covey propose d'écrire un <span class="gloss" data-def="personal mission statement — a short text about who you are and what you want">**énoncé de mission personnel**</span>. C'est un texte court qui décrit qui vous êtes et ce que vous voulez. C'est votre <span class="gloss" data-def="compass — a tool that shows you the right direction">boussole</span> personnelle.
 
 Votre mission personnelle peut inclure :
-- Vos **valeurs** — ce qui est important pour vous
-- Vos **objectifs** — ce que vous voulez accomplir
-- Vos **rôles** — ami(e), parent, professionnel(le)...
+- Vos <span class="gloss" data-def="values — what matters most to you">**valeurs**</span> — ce qui est important pour vous
+- Vos <span class="gloss" data-def="goals — what you want to achieve">**objectifs**</span> — ce que vous voulez accomplir
+- Vos <span class="gloss" data-def="roles — friend, parent, professional…">**rôles**</span> — ami(e), parent, professionnel(le)...
 
-Avec une mission claire, chaque décision devient plus facile. Vous savez toujours quelle direction prendre.
+Avec une mission claire, chaque <span class="gloss" data-def="decision — a choice you make">décision</span> devient plus facile. Vous savez toujours quelle direction prendre.
 
-**Le message principal :** Définissez d'abord votre destination. Sinon, vous travaillez fort pour aller nulle part.
+**Le message principal :** Définissez d'abord votre <span class="gloss" data-def="destination — where you want to end up">destination</span>. Sinon, vous travaillez fort pour aller nulle part.
 
 ---
 

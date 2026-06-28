@@ -7,15 +7,15 @@
 
 ## 📖 Résumé
 
-Imaginez un homme dans la forêt. Il coupe un arbre avec une scie. Il travaille depuis cinq heures. Il est très fatigué. La scie n'est plus tranchante.
+Imaginez un homme dans la forêt. Il coupe un arbre avec une <span class="gloss" data-def="saw — a tool for cutting wood">scie</span>. Il travaille depuis cinq heures. Il est très <span class="gloss" data-def="tired — without energy after working hard">fatigué</span>. La scie n'est plus <span class="gloss" data-def="sharp — cuts easily; not blunt">tranchante</span>.
 
-Vous lui dites : « Arrêtez de couper. Aiguisez votre scie ! »
+Vous lui dites : « Arrêtez de couper. <span class="gloss" data-def="sharpen — make the blade sharp again">Aiguisez</span> votre scie ! »
 
 Il répond : « Je n'ai pas le temps ! Je dois couper cet arbre ! »
 
 C'est l'image de la septième habitude. La **scie**, c'est **vous**. Pour bien travailler, vous devez prendre soin de vous.
 
-Covey dit que vous avez **quatre dimensions** à renouveler régulièrement :
+Covey dit que vous avez **quatre <span class="gloss" data-def="dimensions — areas of your life to develop">dimensions</span>** à <span class="gloss" data-def="to renew — to restore and refresh">renouveler</span> régulièrement :
 
 | Dimension | Activités |
 |:----------|:----------|
@@ -24,9 +24,9 @@ Covey dit que vous avez **quatre dimensions** à renouveler régulièrement :
 | ❤️ **Sociale / Émotionnelle** | Passer du temps avec les autres, donner, aider |
 | 🌟 **Spirituelle** | Méditer, prier, passer du temps dans la nature |
 
-Ces quatre dimensions sont connectées. Si une dimension est faible, les autres souffrent aussi.
+Ces quatre dimensions sont connectées. Si une dimension est faible, les autres <span class="gloss" data-def="to suffer — to be in a worse condition">souffrent</span> aussi.
 
-Covey recommande de passer **une heure par jour** à renouveler ces dimensions. C'est un investissement, pas une perte de temps.
+Covey recommande de passer **une heure par jour** à renouveler ces dimensions. C'est un <span class="gloss" data-def="investment — spending time now to gain more later">investissement</span>, pas une perte de temps.
 
 L'Habitude 7 est la base de toutes les autres habitudes. Sans renouvellement, les six autres habitudes deviennent difficiles.
 

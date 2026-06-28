@@ -22,16 +22,16 @@ Covey décrit six façons de penser :
 | **Gagnant** | Je pense seulement à moi |
 | **Gagnant-Gagnant ou pas d'accord** | Si on ne peut pas trouver une bonne solution, on arrête |
 
-La meilleure façon est **Gagnant-Gagnant**. Elle est basée sur l'**abondance**, pas la rareté. L'abondance dit : « Il y a assez pour tout le monde. »
+La meilleure façon est **Gagnant-Gagnant**. Elle est basée sur l'<span class="gloss" data-def="abundance — there is enough for everyone">**abondance**</span>, pas la <span class="gloss" data-def="scarcity — there is not enough for everyone">rareté</span>. L'abondance dit : « Il y a assez pour tout le monde. »
 
-La mentalité de rareté dit : « Si tu gagnes, je perds. » C'est une façon de penser négative.
+La <span class="gloss" data-def="mentality — way of thinking">mentalité</span> de rareté dit : « Si tu gagnes, je perds. » C'est une façon de penser négative.
 
 Pour penser Gagnant-Gagnant, vous avez besoin de trois choses :
-1. **L'intégrité** — rester fidèle à vos valeurs
-2. **La maturité** — être courageux ET gentil en même temps
-3. **La mentalité d'abondance** — croire qu'il y a assez pour tout le monde
+1. <span class="gloss" data-def="integrity — staying true to your values">**L'intégrité**</span> — rester fidèle à vos valeurs
+2. <span class="gloss" data-def="maturity — being brave AND kind at the same time">**La maturité**</span> — être courageux ET gentil en même temps
+3. **La mentalité d'<span class="gloss" data-def="abundance mindset — believing there is enough for all">abondance</span>** — croire qu'il y a assez pour tout le monde
 
-**Le message principal :** Les meilleures solutions profitent à tout le monde. Cherchez toujours cette solution.
+**Le message principal :** Les meilleures solutions <span class="gloss" data-def="to benefit — to be good for someone">profitent</span> à tout le monde. Cherchez toujours cette solution.
 
 ---
 

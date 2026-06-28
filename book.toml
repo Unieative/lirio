@@ -10,6 +10,7 @@ default-theme = "navy"
 preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/unieative/lirio"
 additional-css = ["theme/custom.css"]
+additional-js = ["theme/glosses.js"]
 
 [output.html.fold]
 enable = true

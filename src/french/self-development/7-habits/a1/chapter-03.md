@@ -9,25 +9,25 @@
 
 Vous savez ce que vous voulez (Habitude 2). Maintenant, comment utilisez-vous votre temps ?
 
-La troisième habitude parle de la **gestion du temps**. Covey dit : faites d'abord les choses les plus importantes, pas les choses les plus urgentes.
+La troisième habitude parle de la <span class="gloss" data-def="time management — how you use your time">**gestion du temps**</span>. Covey dit : faites d'abord les choses les plus <span class="gloss" data-def="important — has long-term value">importantes</span>, pas les choses les plus <span class="gloss" data-def="urgent — needs immediate attention">urgentes</span>.
 
-Pour expliquer ça, Covey utilise une **matrice**. La matrice a quatre cases :
+Pour expliquer ça, Covey utilise une <span class="gloss" data-def="matrix — a grid with 4 boxes">**matrice**</span>. La matrice a quatre <span class="gloss" data-def="boxes — sections of the grid">cases</span> :
 
 |  | **Urgent** | **Pas urgent** |
 |:--|:----------:|:--------------:|
 | **Important** | Case 1 | **Case 2** ⭐ |
 | **Pas important** | Case 3 | Case 4 |
 
-- **Case 1** : Urgent ET important. Exemple : une crise, une urgence médicale.
-- **Case 2** : Important mais PAS urgent. Exemple : faire du sport, apprendre une langue, planifier.
+- **Case 1** : Urgent ET important. Exemple : une <span class="gloss" data-def="crisis — a very difficult urgent situation">crise</span>, une urgence médicale.
+- **Case 2** : Important mais PAS urgent. Exemple : faire du sport, apprendre une langue, <span class="gloss" data-def="to plan — to organize in advance">planifier</span>.
 - **Case 3** : Urgent mais pas important. Exemple : certains e-mails, certaines réunions.
 - **Case 4** : Pas urgent ET pas important. Exemple : regarder trop de télévision.
 
-Covey dit : **la Case 2 est la case du succès**. Les personnes efficaces passent beaucoup de temps dans la Case 2. Elles planifient. Elles apprennent. Elles construisent des relations.
+Covey dit : **la Case 2 est la case du succès**. Les personnes <span class="gloss" data-def="effective — gets good results">efficaces</span> passent beaucoup de temps dans la Case 2. Elles planifient. Elles apprennent. Elles <span class="gloss" data-def="to build — to create over time">construisent</span> des relations.
 
-La plupart des personnes passent trop de temps dans les Cases 1 et 3. Elles répondent aux urgences. Elles sont toujours occupées, mais elles ne progressent pas.
+La plupart des personnes passent trop de temps dans les Cases 1 et 3. Elles répondent aux urgences. Elles sont toujours <span class="gloss" data-def="busy — always doing something">occupées</span>, mais elles ne <span class="gloss" data-def="to make progress — to move forward">progressent</span> pas.
 
-**Le message principal :** Planifiez votre semaine. Chaque jour, faites une chose importante avant les choses urgentes.
+**Le message principal :** <span class="gloss" data-def="to plan — organize your week in advance">Planifiez</span> votre semaine. Chaque jour, faites une chose importante avant les choses urgentes.
 
 ---
 

@@ -43,3 +43,59 @@ blockquote {
 
 /* Exercise answers in italics */
 em { color: var(--links); }
+
+/* ── Kindle-style inline word glosses ── */
+.gloss {
+    border-bottom: 2px dotted #7a9cc9;
+    cursor: help;
+    position: relative;
+    display: inline;
+}
+
+/* Definition bubble */
+.gloss::before {
+    content: attr(data-def);
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: #1a1f2e;
+    color: #c5cfe8;
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-size: 0.78em;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.4;
+    white-space: normal;
+    max-width: 200px;
+    text-align: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease;
+    z-index: 9999;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.5);
+}
+
+/* Arrow pointing down from the bubble */
+.gloss::after {
+    content: '';
+    position: absolute;
+    bottom: calc(100% + 3px);
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px solid transparent;
+    border-top-color: #1a1f2e;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease;
+    z-index: 9999;
+}
+
+/* Show on hover (desktop) or .active class (mobile tap) */
+.gloss:hover::before,
+.gloss:hover::after,
+.gloss.active::before,
+.gloss.active::after {
+    opacity: 1;
+}

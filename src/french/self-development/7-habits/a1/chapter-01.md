@@ -9,19 +9,19 @@
 
 Chaque jour, des choses arrivent. Parfois, ces choses ne sont pas bonnes. Un ami est méchant. Le travail est difficile. La météo est mauvaise. Que faites-vous ?
 
-Vous pouvez **réagir** ou vous pouvez **choisir**.
+Vous pouvez <span class="gloss" data-def="to react — respond without thinking">**réagir**</span> ou vous pouvez <span class="gloss" data-def="to choose — decide for yourself">**choisir**</span>.
 
-Les personnes **réactives** laissent les événements contrôler leurs émotions. Elles sont tristes quand quelque chose de mauvais arrive. Elles sont en colère quand quelqu'un est méchant. Elles disent : « Je ne peux pas », « Je dois », « Si seulement... »
+Les personnes <span class="gloss" data-def="reactive — responds without thinking first">**réactives**</span> laissent les <span class="gloss" data-def="events — things that happen around you">événements</span> contrôler leurs <span class="gloss" data-def="emotions — feelings: joy, anger, sadness…">émotions</span>. Elles sont tristes quand quelque chose de mauvais arrive. Elles sont en colère quand quelqu'un est méchant. Elles disent : « Je ne peux pas », « Je dois », « Si seulement... »
 
-Les personnes **proactives** sont différentes. Elles pensent avant d'agir. Elles comprennent qu'elles peuvent choisir leur réaction. Elles disent : « Je choisis », « Je préfère », « Je vais... »
+Les personnes <span class="gloss" data-def="proactive — acts before problems arise">**proactives**</span> sont différentes. Elles pensent avant d'agir. Elles comprennent qu'elles peuvent choisir leur <span class="gloss" data-def="reaction — what you do after something happens">réaction</span>. Elles disent : « Je choisis », « Je préfère », « Je vais... »
 
-Covey parle de deux cercles. Le **cercle d'influence** contient les choses que vous pouvez changer. Le **cercle de préoccupation** contient les choses que vous ne pouvez pas changer.
+Covey parle de deux cercles. Le <span class="gloss" data-def="circle of influence — what you can actually change">**cercle d'influence**</span> contient les choses que vous pouvez changer. Le <span class="gloss" data-def="circle of concern — what you worry about but can't control">**cercle de préoccupation**</span> contient les choses que vous ne pouvez pas changer.
 
-Les personnes proactives se concentrent sur leur cercle d'influence. Elles travaillent sur ce qu'elles peuvent contrôler. Leur cercle d'influence **grandit**.
+Les personnes proactives se <span class="gloss" data-def="to focus on">concentrent</span> sur leur cercle d'influence. Elles travaillent sur ce qu'elles peuvent <span class="gloss" data-def="to control, to manage">contrôler</span>. Leur cercle d'influence **grandit**.
 
-Les personnes réactives pensent toujours à leur cercle de préoccupation. Elles s'inquiètent pour des choses qu'elles ne peuvent pas contrôler. Leur cercle d'influence **rétrécit**.
+Les personnes réactives s'<span class="gloss" data-def="to worry about">inquiètent</span> pour des choses qu'elles ne peuvent pas contrôler. Leur cercle d'influence <span class="gloss" data-def="shrinks, gets smaller">rétrécit</span>.
 
-**Le message principal :** Vous êtes responsable de votre vie. Vous pouvez toujours choisir votre réponse.
+**Le message principal :** Vous êtes <span class="gloss" data-def="responsible — in charge of your choices">responsable</span> de votre vie. Vous pouvez toujours choisir votre réponse.
 
 ---
 
