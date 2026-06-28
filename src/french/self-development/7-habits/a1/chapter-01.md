@@ -3,6 +3,13 @@
 > *« Entre le stimulus et la réponse, il y a un espace. Dans cet espace se trouve notre liberté de choisir. »*
 > — Stephen R. Covey
 
+🎧 **Écoutez le résumé** *(en lisant le texte ci-dessous)*
+
+<audio controls preload="none" style="width:100%; max-width:480px;">
+  <source src="../audio/a1-chapter-01.mp3" type="audio/mpeg">
+  Votre navigateur ne peut pas lire l'audio.
+</audio>
+
 ---
 
 ## 📖 Résumé
@@ -146,12 +153,7 @@ d) « Je vais trouver une solution. »
 
 ## 🔊 Audio
 
-Écoutez le résumé lu à voix haute. 🎧
-
-<audio controls preload="none" style="width:100%; max-width:480px;">
-  <source src="../audio/a1-chapter-01.m4a" type="audio/mp4">
-  Votre navigateur ne peut pas lire l'audio.
-</audio>
+🎧 Le lecteur audio est en haut de la page, sous la citation.
 
 *Conseil : Écoutez l'audio en lisant le résumé. Puis fermez le livre et écoutez encore. Pouvez-vous comprendre sans lire ?*
 
